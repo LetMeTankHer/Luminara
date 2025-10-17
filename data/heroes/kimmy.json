@@ -1,0 +1,241 @@
+{
+  "id": "071",
+  "name": "Kimmy",
+  "lore": "Born into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "hoverjet_outrider": {
+      "name": "Hoverjet Outrider",
+      "skin_id": "07101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_hoverjet_outrider/avatars/kimmy_hoverjet_outrider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_hoverjet_outrider/portraits/kimmy_hoverjet_outrider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "steam_researcher": {
+      "name": "Steam Researcher",
+      "skin_id": "07102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_steam_researcher/avatars/kimmy_steam_researcher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_steam_researcher/portraits/kimmy_steam_researcher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bio_frontier": {
+      "name": "Bio Frontier",
+      "skin_id": "07103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_bio_frontier/avatars/kimmy_bio_frontier_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_bio_frontier/portraits/kimmy_bio_frontier_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "astrocat": {
+      "name": "Astrocat",
+      "skin_id": "07104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_astrocat/avatars/kimmy_astrocat_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_astrocat/portraits/kimmy_astrocat_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "charge_leader": {
+      "name": "Charge Leader",
+      "skin_id": "07105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_charge_leader/avatars/kimmy_charge_leader_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_charge_leader/portraits/kimmy_charge_leader_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "detonated_fuse": {
+      "name": "Detonated Fuse",
+      "skin_id": "07105a",
+      "release_order": 5,
+      "painted_of": "Charge Leader",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_detonated_fuse/avatars/kimmy_detonated_fuse_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_detonated_fuse/portraits/kimmy_detonated_fuse_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "frost_wing": {
+      "name": "Frost Wing",
+      "skin_id": "07106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_frost_wing/avatars/kimmy_frost_wing_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_frost_wing/portraits/kimmy_frost_wing_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "first_order_jet_trooper": {
+      "name": "First Order Jet Trooper",
+      "skin_id": "07107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_first_order_jet_trooper/avatars/kimmy_first_order_jet_trooper_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_first_order_jet_trooper/portraits/kimmy_first_order_jet_trooper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rising_nova": {
+      "name": "Rising Nova",
+      "skin_id": "07108",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_rising_nova/avatars/kimmy_rising_nova_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_rising_nova/portraits/kimmy_rising_nova_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "high_seas_cadet": {
+      "name": "High Seas Cadet",
+      "skin_id": "07109",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kimmy/kimmy_high_seas_cadet/avatars/kimmy_high_seas_cadet_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kimmy/kimmy_high_seas_cadet/portraits/kimmy_high_seas_cadet_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

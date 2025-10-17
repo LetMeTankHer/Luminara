@@ -1,0 +1,242 @@
+{
+  "id": "044",
+  "name": "Grock",
+  "lore": "The stone man who signed a contract with the Ancient Ones has a kind-hearted nature and infinite power. He sleeps most of his life. After Grock woke up, he found that the Ancient Ones he was guarding had disappeared, so he carried the Castle of the Ancient Ones on his shoulders and walked out of the mountains to find the whereabouts of the Ancient Ones.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "fortress_titan": {
+      "name": "Fortress Titan",
+      "skin_id": "04401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_fortress_titan/avatars/grock_fortress_titan_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_fortress_titan/portraits/grock_fortress_titan_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "grave_guardian": {
+      "name": "Grave Guardian",
+      "skin_id": "04402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_grave_guardian/avatars/grock_grave_guardian_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_grave_guardian/portraits/grock_grave_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "castle_guard": {
+      "name": "Castle Guard",
+      "skin_id": "04403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_castle_guard/avatars/grock_castle_guard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_castle_guard/portraits/grock_castle_guard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_guard": {
+      "name": "Royal Guard",
+      "skin_id": "04403a",
+      "release_order": 3,
+      "painted_of": "Castle Guard",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_royal_guard/avatars/grock_royal_guard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_royal_guard/portraits/grock_royal_guard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "venom_monitor_lizard": {
+      "name": "Venom Monitor Lizard",
+      "skin_id": "04404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_venom_monitor_lizard/avatars/grock_venom_monitor_lizard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_venom_monitor_lizard/portraits/grock_venom_monitor_lizard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "iceland_golem": {
+      "name": "Iceland Golem",
+      "skin_id": "04405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_iceland_golem/avatars/grock_iceland_golem_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_iceland_golem/portraits/grock_iceland_golem_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "codename_rhino": {
+      "name": "Codename Rhino",
+      "skin_id": "04406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_codename_rhino/avatars/grock_codename_rhino_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_codename_rhino/portraits/grock_codename_rhino_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ancient_golem": {
+      "name": "Ancient Golem",
+      "skin_id": "04407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_ancient_golem/avatars/grock_ancient_golem_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_ancient_golem/portraits/grock_ancient_golem_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wasteland_psycho": {
+      "name": "Wasteland Psycho",
+      "skin_id": "04408",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_wasteland_psycho/avatars/grock_wasteland_psycho_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_wasteland_psycho/portraits/grock_wasteland_psycho_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wasteland_maniac": {
+      "name": "Wasteland Maniac",
+      "skin_id": "04408a",
+      "release_order": 8,
+      "painted_of": "Wasteland Psycho",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/grock/grock_wasteland_maniac/avatars/grock_wasteland_maniac_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/grock/grock_wasteland_maniac/portraits/grock_wasteland_maniac_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

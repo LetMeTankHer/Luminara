@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Luminara/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>...</title>
+    <script type="module" crossorigin src="/Luminara/assets/hero_details-CmgTIYyj.js"></script>
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/preload-helper-DatU6rzX.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/utilities-B1GvWzLx.js">
+    <link rel="stylesheet" crossorigin href="/Luminara/assets/preload-helper-B5_9uHTz.css">
+  </head>
+
+  <body class="bg-body">
+    <!-- Navbar -->
+    <div id="navbarContainer"></div>
+
+    <!-- Breadcrumb -->
+    <div class="mt-32 px-6 text-sm text-gray-400">
+      <nav class="breadcrumb flex items-center space-x-2">
+        <a
+          data-path="index.html"
+          class="hover:text-primary text-text-dull cursor-pointer bread-link"
+          >Home</a
+        >
+        <span>&gt;</span>
+        <a
+          data-path="heroes.html"
+          class="hover:text-primary text-text-dull cursor-pointer bread-link"
+          >Heroes</a
+        >
+        <span>&gt;</span>
+        <span class="hero-name">heroname</span>
+      </nav>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-4 gap-6 px-6 mt-6">
+      <!-- Left Section: Heroes List -->
+      <div
+        id="hero"
+        class="order-2 lg:order-1 lg:col-span-3 space-y-8 border bg-background rounded-xl p-10"
+      ></div>
+
+      <!-- Right Section: Advertisement -->
+      <aside class="order-1 lg:order-2 lg:block">
+        <div
+          class="sticky top-28 bg-background border rounded-xl shadow-md p-4"
+        >
+          <h3 class="font-bold mb-3 text-text">Sponsored</h3>
+          <a href="https://example.com" target="_blank">
+            <img
+              src="/assets/ads/sample-ad.jpg"
+              alt="Advertisement"
+              class="rounded-lg shadow"
+            />
+          </a>
+        </div>
+      </aside>
+    </div>
+
+
+  </body>
+</html>

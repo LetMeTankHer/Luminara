@@ -1,0 +1,286 @@
+{
+  "id": "047",
+  "name": "Lancelot",
+  "lore": "As the eldest son of Duke Baroque, Lancelot was born rebellious. Dead set on resisting the political marriage arranged for him by his father, he traveled the country and led a licentious life instead.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "blade_of_roses": {
+      "name": "Blade of Roses",
+      "skin_id": "04701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_blade_of_roses/avatars/lancelot_blade_of_roses_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_blade_of_roses/portraits/lancelot_blade_of_roses_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "masked_knight": {
+      "name": "Masked Knight",
+      "skin_id": "04702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_masked_knight/avatars/lancelot_masked_knight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_masked_knight/portraits/lancelot_masked_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "christmas_carnival": {
+      "name": "Christmas Carnival",
+      "skin_id": "04703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_christmas_carnival/avatars/lancelot_christmas_carnival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_christmas_carnival/portraits/lancelot_christmas_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_matador": {
+      "name": "Royal Matador",
+      "skin_id": "04704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_royal_matador/avatars/lancelot_royal_matador_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_royal_matador/portraits/lancelot_royal_matador_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dark_earl": {
+      "name": "Dark Earl",
+      "skin_id": "04705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_dark_earl/avatars/lancelot_dark_earl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_dark_earl/portraits/lancelot_dark_earl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pisces": {
+      "name": "Pisces",
+      "skin_id": "04706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_pisces/avatars/lancelot_pisces_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_pisces/portraits/lancelot_pisces_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "floral_knight": {
+      "name": "Floral Knight",
+      "skin_id": "04707",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_floral_knight/avatars/lancelot_floral_knight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_floral_knight/portraits/lancelot_floral_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "swordmaster": {
+      "name": "Swordmaster",
+      "skin_id": "04708",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_swordmaster/avatars/lancelot_swordmaster_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_swordmaster/portraits/lancelot_swordmaster_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bren_esports": {
+      "name": "Bren Esports",
+      "skin_id": "04709",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_bren_esports/avatars/lancelot_bren_esports_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_bren_esports/portraits/lancelot_bren_esports_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "empyrean_flame": {
+      "name": "Empyrean Flame",
+      "skin_id": "04710",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_empyrean_flame/avatars/lancelot_empyrean_flame_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_empyrean_flame/portraits/lancelot_empyrean_flame_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "marques_of_blades": {
+      "name": "Marques of Blades",
+      "skin_id": "04711",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_marques_of_blades/avatars/lancelot_marques_of_blades_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_marques_of_blades/portraits/lancelot_marques_of_blades_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "guardian_of_the_shrine": {
+      "name": "Guardian of the Shrine",
+      "skin_id": "04712",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lancelot/lancelot_guardian_of_the_shrine/avatars/lancelot_guardian_of_the_shrine_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lancelot/lancelot_guardian_of_the_shrine/portraits/lancelot_guardian_of_the_shrine_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

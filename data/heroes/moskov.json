@@ -1,0 +1,334 @@
+{
+  "id": "031",
+  "name": "Moskov",
+  "lore": "Once a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed. But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "spear_of_quiescence": {
+      "name": "Spear of Quiescence",
+      "skin_id": "03101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_spear_of_quiescence/avatars/moskov_spear_of_quiescence_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_spear_of_quiescence/portraits/moskov_spear_of_quiescence_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spear_of_bone_dragon": {
+      "name": "Spear of Bone Dragon",
+      "skin_id": "03102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_spear_of_bone_dragon/avatars/moskov_spear_of_bone_dragon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_spear_of_bone_dragon/portraits/moskov_spear_of_bone_dragon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "snake_eye_commander": {
+      "name": "Snake Eye Commander",
+      "skin_id": "03103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_snake_eye_commander/avatars/moskov_snake_eye_commander_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_snake_eye_commander/portraits/moskov_snake_eye_commander_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "yasha": {
+      "name": "Yasha",
+      "skin_id": "03104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_yasha/avatars/moskov_yasha_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_yasha/portraits/moskov_yasha_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "javelin_champion": {
+      "name": "Javelin Champion",
+      "skin_id": "03105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_javelin_champion/avatars/moskov_javelin_champion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_javelin_champion/portraits/moskov_javelin_champion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "asian_javelin_champion": {
+      "name": "Asian Javelin Champion",
+      "skin_id": "03105a",
+      "release_order": 5,
+      "painted_of": "Javelin Champion",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_asian_javelin_champion/avatars/moskov_asian_javelin_champion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_asian_javelin_champion/portraits/moskov_asian_javelin_champion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "twilight_dragon": {
+      "name": "Twilight Dragon",
+      "skin_id": "03106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_twilight_dragon/avatars/moskov_twilight_dragon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_twilight_dragon/portraits/moskov_twilight_dragon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "decapitator": {
+      "name": "Decapitator",
+      "skin_id": "03107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_decapitator/avatars/moskov_decapitator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_decapitator/portraits/moskov_decapitator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blood_spear": {
+      "name": "Blood Spear",
+      "skin_id": "03108",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_blood_spear/avatars/moskov_blood_spear_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_blood_spear/portraits/moskov_blood_spear_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "doom_incarnate": {
+      "name": "Doom Incarnate",
+      "skin_id": "03109",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_doom_incarnate/avatars/moskov_doom_incarnate_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_doom_incarnate/portraits/moskov_doom_incarnate_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "violet_spear": {
+      "name": "Violet Spear",
+      "skin_id": "03110",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_violet_spear/avatars/moskov_violet_spear_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_violet_spear/portraits/moskov_violet_spear_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spear_of_dystopia": {
+      "name": "Spear of Dystopia",
+      "skin_id": "03110a",
+      "release_order": 10,
+      "painted_of": "Violet Spear",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_spear_of_dystopia/avatars/moskov_spear_of_dystopia_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_spear_of_dystopia/portraits/moskov_spear_of_dystopia_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "infernal_wyrmlord": {
+      "name": "Infernal Wyrmlord",
+      "skin_id": "03111",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_infernal_wyrmlord/avatars/moskov_infernal_wyrmlord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_infernal_wyrmlord/portraits/moskov_infernal_wyrmlord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "harbinger_of_chaos": {
+      "name": "Harbinger of Chaos",
+      "skin_id": "03112",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/moskov/moskov_harbinger_of_chaos/avatars/moskov_harbinger_of_chaos_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/moskov/moskov_harbinger_of_chaos/portraits/moskov_harbinger_of_chaos_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

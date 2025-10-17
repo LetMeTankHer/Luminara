@@ -1,0 +1,171 @@
+{
+  "id": "107",
+  "name": "Natan",
+  "lore": "A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more. Natan stood as Eruditio's leader, guiding the people in their search for hope in this world.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "spacetime_walker": {
+      "name": "Spacetime Walker",
+      "skin_id": "10701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_spacetime_walker/avatars/natan_spacetime_walker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_spacetime_walker/portraits/natan_spacetime_walker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "time_wielder": {
+      "name": "Time Wielder",
+      "skin_id": "10702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_time_wielder/avatars/natan_time_wielder_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_time_wielder/portraits/natan_time_wielder_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "chaos_hunter": {
+      "name": "Chaos Hunter",
+      "skin_id": "10703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_chaos_hunter/avatars/natan_chaos_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_chaos_hunter/portraits/natan_chaos_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "captain_chrono": {
+      "name": "Captain Chrono",
+      "skin_id": "10704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_captain_chrono/avatars/natan_captain_chrono_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_captain_chrono/portraits/natan_captain_chrono_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tidal_lord": {
+      "name": "Tidal Lord",
+      "skin_id": "10705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_tidal_lord/avatars/natan_tidal_lord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_tidal_lord/portraits/natan_tidal_lord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "temporal_vortex": {
+      "name": "Temporal Vortex",
+      "skin_id": "10706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_temporal_vortex/avatars/natan_temporal_vortex_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_temporal_vortex/portraits/natan_temporal_vortex_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "archon_of_knowledge": {
+      "name": "Archon of Knowledge",
+      "skin_id": "10707",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natan/natan_archon_of_knowledge/avatars/natan_archon_of_knowledge_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natan/natan_archon_of_knowledge/portraits/natan_archon_of_knowledge_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

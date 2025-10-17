@@ -1,0 +1,172 @@
+{
+  "id": "070",
+  "name": "Belerick",
+  "lore": "The descendants of the ancient tribe where once guided by the voice of the ancient tribe to the western desert, where they overdrew on their life force and turned into an oasis, bringing hope to the desperate Minoan survivors and later using their lives to save the tree of life of the Elves, achieving birth.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "guard_of_nature": {
+      "name": "Guard of Nature",
+      "skin_id": "07001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_guard_of_nature/avatars/belerick_guard_of_nature_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_guard_of_nature/portraits/belerick_guard_of_nature_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tigers_claw": {
+      "name": "Tigers Claw",
+      "skin_id": "07002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_tigers_claw/avatars/belerick_tigers_claw_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_tigers_claw/portraits/belerick_tigers_claw_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "torch_guardian": {
+      "name": "Torch Guardian",
+      "skin_id": "07003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_torch_guardian/avatars/belerick_torch_guardian_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_torch_guardian/portraits/belerick_torch_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_deep_one": {
+      "name": "The Deep One",
+      "skin_id": "07004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_the_deep_one/avatars/belerick_the_deep_one_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_the_deep_one/portraits/belerick_the_deep_one_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deep_reef": {
+      "name": "Deep Reef",
+      "skin_id": "07004a",
+      "release_order": 4,
+      "painted_of": "The Deep One",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_deep_reef/avatars/belerick_deep_reef_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_deep_reef/portraits/belerick_deep_reef_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "emerald_guardian": {
+      "name": "Emerald Guardian",
+      "skin_id": "07005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_emerald_guardian/avatars/belerick_emerald_guardian_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_emerald_guardian/portraits/belerick_emerald_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "arbiter_of_stars": {
+      "name": "Arbiter of Stars",
+      "skin_id": "07006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/belerick/belerick_arbiter_of_stars/avatars/belerick_arbiter_of_stars_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/belerick/belerick_arbiter_of_stars/portraits/belerick_arbiter_of_stars_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

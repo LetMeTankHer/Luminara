@@ -1,0 +1,195 @@
+{
+  "id": "062",
+  "name": "Kaja",
+  "lore": "Living in the Celestial Palace where the gods inhabit, he is the leader of the Nazar who is responsible for guarding the Celestial Palace. Being the incarnation of the Eagle Angel, he resists the Empire's invasion of the Celestial Palace holding a divine whip.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "nazar_king": {
+      "name": "Nazar King",
+      "skin_id": "06201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_nazar_king/avatars/kaja_nazar_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_nazar_king/portraits/kaja_nazar_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "commandment": {
+      "name": "Commandment",
+      "skin_id": "06202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_commandment/avatars/kaja_commandment_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_commandment/portraits/kaja_commandment_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "kaminari": {
+      "name": "Kaminari",
+      "skin_id": "06203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_kaminari/avatars/kaja_kaminari_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_kaminari/portraits/kaja_kaminari_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "horror_whiplash": {
+      "name": "Horror Whiplash",
+      "skin_id": "06204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_horror_whiplash/avatars/kaja_horror_whiplash_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_horror_whiplash/portraits/kaja_horror_whiplash_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "death_whiplash": {
+      "name": "Death Whiplash",
+      "skin_id": "06204a",
+      "release_order": 4,
+      "painted_of": "Horror Whiplash",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_death_whiplash/avatars/kaja_death_whiplash_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_death_whiplash/portraits/kaja_death_whiplash_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "skyblocker": {
+      "name": "Skyblocker",
+      "skin_id": "06205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_skyblocker/avatars/kaja_skyblocker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_skyblocker/portraits/kaja_skyblocker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crow_magician": {
+      "name": "Crow Magician",
+      "skin_id": "06206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_crow_magician/avatars/kaja_crow_magician_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_crow_magician/portraits/kaja_crow_magician_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "inferno_taskmaster": {
+      "name": "Inferno Taskmaster",
+      "skin_id": "06207",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kaja/kaja_inferno_taskmaster/avatars/kaja_inferno_taskmaster_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kaja/kaja_inferno_taskmaster/portraits/kaja_inferno_taskmaster_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

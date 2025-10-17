@@ -1,0 +1,222 @@
+{
+  "id": "086",
+  "name": "Lylia",
+  "lore": "A descendant of the great magician of the Magic Academy and known as the \"Little Witch\". Though at a young age, she has mastered the techniques to control little creature \"Gloom\".",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "little_wizard": {
+      "name": "Little Wizard",
+      "skin_id": "08601",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_little_wizard/avatars/lylia_little_wizard_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_little_wizard/portraits/lylia_little_wizard_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "school_idol": {
+      "name": "School Idol",
+      "skin_id": "08602",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_school_idol/avatars/lylia_school_idol_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_school_idol/portraits/lylia_school_idol_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "star_student": {
+      "name": "Star Student",
+      "skin_id": "08603",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_star_student/avatars/lylia_star_student_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_star_student/portraits/lylia_star_student_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "witchcrafter": {
+      "name": "Witchcrafter",
+      "skin_id": "08603",
+      "release_order": 3,
+      "painted_of": "Star Student",
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_witchcrafter/avatars/lylia_witchcrafter_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_witchcrafter/portraits/lylia_witchcrafter_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "future_star": {
+      "name": "Future Star",
+      "skin_id": "08604",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_future_star/avatars/lylia_future_star_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_future_star/portraits/lylia_future_star_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "haunted_doll": {
+      "name": "Haunted Doll",
+      "skin_id": "08605",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_haunted_doll/avatars/lylia_haunted_doll_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_haunted_doll/portraits/lylia_haunted_doll_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neobeast_lylia": {
+      "name": "Neobeast Lylia",
+      "skin_id": "08606",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_neobeast_lylia/avatars/lylia_neobeast_lylia_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_neobeast_lylia/portraits/lylia_neobeast_lylia_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "magitech_arsenal": {
+      "name": "Magitech Arsenal",
+      "skin_id": "08607",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_magitech_arsenal/avatars/lylia_magitech_arsenal_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_magitech_arsenal/portraits/lylia_magitech_arsenal_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "magitech_blaster": {
+      "name": "Magitech Blaster",
+      "skin_id": "08607a",
+      "release_order": 7,
+      "painted_of": "Magitech Arsenal",
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_magitech_blaster/avatars/lylia_magitech_blaster_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_magitech_blaster/portraits/lylia_magitech_blaster_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "magitech_ordnance": {
+      "name": "Magitech Ordnance",
+      "skin_id": "08607b",
+      "release_order": 7,
+      "painted_of": "Magitech Arsenal",
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_magitech_ordnance/avatars/lylia_magitech_ordnance_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_magitech_ordnance/portraits/lylia_magitech_ordnance_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragon_charmer": {
+      "name": "Dragon Charmer",
+      "skin_id": "08608",
+      "release_order": 8,
+      "avatars": {
+        "default": "assets/heroes/lylia/lylia_dragon_charmer/avatars/lylia_dragon_charmer_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/lylia/lylia_dragon_charmer/portraits/lylia_dragon_charmer_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

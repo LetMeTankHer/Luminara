@@ -1,0 +1,241 @@
+{
+  "id": "028",
+  "name": "Alpha",
+  "lore": "A pure cyborg made by Laboratory 1718. Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "blade_of_enmity": {
+      "name": "Blade of Enmity",
+      "skin_id": "02801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_blade_of_enmity/avatars/alpha_blade_of_enmity_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_blade_of_enmity/portraits/alpha_blade_of_enmity_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "onimusha_commander": {
+      "name": "Onimusha Commander",
+      "skin_id": "02802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_onimusha_commander/avatars/alpha_onimusha_commander_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_onimusha_commander/portraits/alpha_onimusha_commander_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fierce_dragon": {
+      "name": "Fierce Dragon",
+      "skin_id": "02803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_fierce_dragon/avatars/alpha_fierce_dragon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_fierce_dragon/portraits/alpha_fierce_dragon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sea_gladiator": {
+      "name": "Sea Gladiator",
+      "skin_id": "02804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_sea_gladiator/avatars/alpha_sea_gladiator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_sea_gladiator/portraits/alpha_sea_gladiator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crimson_warrior": {
+      "name": "Crimson Warrior",
+      "skin_id": "02805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_crimson_warrior/avatars/alpha_crimson_warrior_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_crimson_warrior/portraits/alpha_crimson_warrior_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "general_void": {
+      "name": "General Void",
+      "skin_id": "02806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_general_void/avatars/alpha_general_void_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_general_void/portraits/alpha_general_void_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "star_enforcer": {
+      "name": "Star Enforcer",
+      "skin_id": "02807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_star_enforcer/avatars/alpha_star_enforcer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_star_enforcer/portraits/alpha_star_enforcer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "galactic_enforcer": {
+      "name": "Galactic Enforcer",
+      "skin_id": "02807a",
+      "release_order": 7,
+      "painted_of": "Star Enforcer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_galactic_enforcer/avatars/alpha_galactic_enforcer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_galactic_enforcer/portraits/alpha_galactic_enforcer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mecha_king_perseus": {
+      "name": "Mecha King Perseus",
+      "skin_id": "02808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_mecha_king_perseus/avatars/alpha_mecha_king_perseus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_mecha_king_perseus/portraits/alpha_mecha_king_perseus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "revenant_of_roses": {
+      "name": "Revenant of Roses",
+      "skin_id": "02809",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alpha/alpha_revenant_of_roses/avatars/alpha_revenant_of_roses_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alpha/alpha_revenant_of_roses/portraits/alpha_revenant_of_roses_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

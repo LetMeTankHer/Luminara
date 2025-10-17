@@ -1,0 +1,220 @@
+{
+  "id": "075",
+  "name": "Kadita",
+  "lore": "A princess of a certain island country in the Vonetis Islands. She was victimized by political enemies and lost her beauty and power. When she threw herself into the sea in despair, an Elf in the sea rescued her.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "ocean_goddess": {
+      "name": "Ocean Goddess",
+      "skin_id": "07501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_ocean_goddess/avatars/kadita_ocean_goddess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_ocean_goddess/portraits/kadita_ocean_goddess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "atlantean_princess": {
+      "name": "Atlantean Princess",
+      "skin_id": "07502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_atlantean_princess/avatars/kadita_atlantean_princess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_atlantean_princess/portraits/kadita_atlantean_princess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "white_robin": {
+      "name": "White Robin",
+      "skin_id": "07503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_white_robin/avatars/kadita_white_robin_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_white_robin/portraits/kadita_white_robin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "violet_orchid": {
+      "name": "Violet Orchid",
+      "skin_id": "07503a",
+      "release_order": 3,
+      "painted_of": "White Robin",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_violet_orchid/avatars/kadita_violet_orchid_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_violet_orchid/portraits/kadita_violet_orchid_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hydromancer": {
+      "name": "Hydromancer",
+      "skin_id": "07505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_hydromancer/avatars/kadita_hydromancer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_hydromancer/portraits/kadita_hydromancer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "heart_of_the_sea": {
+      "name": "Heart of the Sea",
+      "skin_id": "07506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_heart_of_the_sea/avatars/kadita_heart_of_the_sea_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_heart_of_the_sea/portraits/kadita_heart_of_the_sea_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "maiden_of_the_tide": {
+      "name": "Maiden of the Tide",
+      "skin_id": "07507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_maiden_of_the_tide/avatars/kadita_maiden_of_the_tide_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_maiden_of_the_tide/portraits/kadita_maiden_of_the_tide_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lady_of_the_tide": {
+      "name": "Lady of the Tide",
+      "skin_id": "07507a",
+      "release_order": 7,
+      "painted_of": "Maiden of the Tide",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_lady_of_the_tide/avatars/kadita_lady_of_the_tide_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_lady_of_the_tide/portraits/kadita_lady_of_the_tide_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "muse_of_the_tide": {
+      "name": "Muse of the Tide",
+      "skin_id": "07507b",
+      "release_order": 7,
+      "painted_of": "Maiden of the Tide",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kadita/kadita_muse_of_the_tide/avatars/kadita_muse_of_the_tide_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kadita/kadita_muse_of_the_tide/portraits/kadita_muse_of_the_tide_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "skin_borders": [
+    {
+      "name": "Common",
+      "src": "assets/ui_assets/skin_borders/common_skin_border.png",
+      "tier": 1
+    },
+    {
+      "name": "Exceptional",
+      "src": "assets/ui_assets/skin_borders/exceptional_skin_border.png",
+      "tier": 2
+    },
+    {
+      "name": "Deluxe",
+      "src": "assets/ui_assets/skin_borders/deluxe_skin_border.png",
+      "tier": 3
+    },
+    {
+      "name": "Exquisite",
+      "src": "assets/ui_assets/skin_borders/exquisite_skin_border.png",
+      "tier": 4
+    },
+    {
+      "name": "Grand",
+      "src": "assets/ui_assets/skin_borders/grand_skin_border.png",
+      "tier": 5
+    },
+    {
+      "name": "Supreme",
+      "src": "assets/ui_assets/skin_borders/supreme_skin_border.png",
+      "tier": 6
+    }
+  ]
+}

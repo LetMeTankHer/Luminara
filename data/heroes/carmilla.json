@@ -1,0 +1,105 @@
+{
+  "id": "092",
+  "name": "Carmilla",
+  "lore": "As a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them, Carmilla had already guessed the identity of Cecilion.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "shadow_of_twilight": {
+      "name": "Shadow of Twilight",
+      "skin_id": "09201",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/carmilla/carmilla_shadow_of_twilight/avatars/carmilla_shadow_of_twilight_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/carmilla/carmilla_shadow_of_twilight/portraits/carmilla_shadow_of_twilight_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wisteria_countess": {
+      "name": "Wisteria Countess",
+      "skin_id": "09202",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/carmilla/carmilla_wisteria_countess/avatars/carmilla_wisteria_countess_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/carmilla/carmilla_wisteria_countess/portraits/carmilla_wisteria_countess_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "magician_girl": {
+      "name": "Magician Girl",
+      "skin_id": "09203",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/carmilla/carmilla_magician_girl/avatars/carmilla_magician_girl_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/carmilla/carmilla_magician_girl/portraits/carmilla_magician_girl_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_countess": {
+      "name": "Phantom Countess",
+      "skin_id": "09204",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/carmilla/carmilla_phantom_countess/avatars/carmilla_phantom_countess_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/carmilla/carmilla_phantom_countess/portraits/carmilla_phantom_countess_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "astral_arcana": {
+      "name": "Astral Arcana",
+      "skin_id": "09205",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/carmilla/carmilla_astral_arcana/avatars/carmilla_astral_arcana_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/carmilla/carmilla_astral_arcana/portraits/carmilla_astral_arcana_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

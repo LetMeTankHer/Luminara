@@ -1,0 +1,150 @@
+{
+  "id": "120",
+  "name": "Arlott",
+  "lore": "Ostracized for his half-demon and half-human lineage, the young Arlott joined the Demons in the Barren Lands but was betrayed by his demonic brethren during battle. However, after he was gravely wounded, he was saved by a human girl named Mila.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "lone_lancer": {
+      "name": "Lone Lancer",
+      "skin_id": "12001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/arlott/arlott_lone_lancer/avatars/arlott_lone_lancer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/arlott/arlott_lone_lancer/portraits/arlott_lone_lancer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wandering_lance": {
+      "name": "Wandering Lance",
+      "skin_id": "12002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/arlott/arlott_wandering_lance/avatars/arlott_wandering_lance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/arlott/arlott_wandering_lance/portraits/arlott_wandering_lance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fury_of_the_deep": {
+      "name": "Fury of the Deep",
+      "skin_id": "12003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/arlott/arlott_fury_of_the_deep/avatars/arlott_fury_of_the_deep_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/arlott/arlott_fury_of_the_deep/portraits/arlott_fury_of_the_deep_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scorn_of_the_deep": {
+      "name": "Scorn of the Deep",
+      "skin_id": "12003a",
+      "release_order": 3,
+      "painted_of": "Fury of the Deep",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/arlott/arlott_scorn_of_the_deep/avatars/arlott_scorn_of_the_deep_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/arlott/arlott_scorn_of_the_deep/portraits/arlott_scorn_of_the_deep_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ire_of_the_deep": {
+      "name": "Ire of the Deep",
+      "skin_id": "12003b",
+      "release_order": 3,
+      "painted_of": "Fury of the Deep",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/arlott/arlott_ire_of_the_deep/avatars/arlott_ire_of_the_deep_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/arlott/arlott_ire_of_the_deep/portraits/arlott_ire_of_the_deep_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "aeon_of_twilight": {
+      "name": "Aeon of Twilight",
+      "skin_id": "12004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/arlott/arlott_aeon_of_twilight/avatars/arlott_aeon_of_twilight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/arlott/arlott_aeon_of_twilight/portraits/arlott_aeon_of_twilight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

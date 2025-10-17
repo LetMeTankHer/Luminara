@@ -1,0 +1,220 @@
+{
+  "id": "090",
+  "name": "Silvanna",
+  "lore": "The princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "imperial_knightess": {
+      "name": "Imperial Knightess",
+      "skin_id": "09001",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_imperial_knightess/avatars/silvanna_imperial_knightess_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_imperial_knightess/portraits/silvanna_imperial_knightess_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hallowed_lance": {
+      "name": "Hallowed Lance",
+      "skin_id": "09002",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_hallowed_lance/avatars/silvanna_hallowed_lance_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_hallowed_lance/portraits/silvanna_hallowed_lance_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "midnight_justice": {
+      "name": "Midnight Justice",
+      "skin_id": "09003",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_midnight_justice/avatars/silvanna_midnight_justice_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_midnight_justice/portraits/silvanna_midnight_justice_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pure_heroine": {
+      "name": "Pure Heroine",
+      "skin_id": "09004",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_pure_heroine/avatars/silvanna_pure_heroine_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_pure_heroine/portraits/silvanna_pure_heroine_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "queen_frost": {
+      "name": "Queen Frost",
+      "skin_id": "09005",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_queen_frost/avatars/silvanna_queen_frost_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_queen_frost/portraits/silvanna_queen_frost_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "future_cop": {
+      "name": "Future Cop",
+      "skin_id": "09006",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_future_cop/avatars/silvanna_future_cop_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_future_cop/portraits/silvanna_future_cop_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "verdant_lancernt": {
+      "name": "Verdant Lancernt",
+      "skin_id": "09007",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_verdant_lancernt/avatars/silvanna_verdant_lancernt_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_verdant_lancernt/portraits/silvanna_verdant_lancernt_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "alluring_mystique": {
+      "name": "Alluring Mystique",
+      "skin_id": "09008",
+      "release_order": 8,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_alluring_mystique/avatars/silvanna_alluring_mystique_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_alluring_mystique/portraits/silvanna_alluring_mystique_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "classroom_charm": {
+      "name": "Classroom Charm",
+      "skin_id": "09009",
+      "release_order": 9,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_classroom_charm/avatars/silvanna_classroom_charm_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_classroom_charm/portraits/silvanna_classroom_charm_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "classroom_glam": {
+      "name": "Classroom Glam",
+      "skin_id": "09009a",
+      "release_order": 9,
+      "painted_of": "Classroom Charm",
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_classroom_glam/avatars/silvanna_classroom_glam_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_classroom_glam/portraits/silvanna_classroom_glam_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "meowkin_warden": {
+      "name": "Meowkin Warden",
+      "skin_id": "09010",
+      "release_order": 10,
+      "avatars": {
+        "default": "assets/heroes/silvanna/silvanna_meowkin_warden/avatars/silvanna_meowkin_warden_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/silvanna/silvanna_meowkin_warden/portraits/silvanna_meowkin_warden_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

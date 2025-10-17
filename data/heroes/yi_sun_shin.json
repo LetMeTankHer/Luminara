@@ -1,0 +1,218 @@
+{
+  "id": "030",
+  "name": "Yi Sun-shin",
+  "lore": "Yi Sun-shin is the leader of the City of the Dragon fleet and he is dedicated to his duties. But the ruler of the City of the Dragon believes the false accusations and demoted Yi Sun-shin to a commoner.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "paenlong_legend": {
+      "name": "Paenlong Legend",
+      "skin_id": "03001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_paenlong_legend/avatars/yi_sun_shin_paenlong_legend_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_paenlong_legend/portraits/yi_sun_shin_paenlong_legend_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "major_general": {
+      "name": "Major General",
+      "skin_id": "03002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_major_general/avatars/yi_sun_shin_major_general_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_major_general/portraits/yi_sun_shin_major_general_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "apocalypse_agent": {
+      "name": "Apocalypse Agent",
+      "skin_id": "03003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_apocalypse_agent/avatars/yi_sun_shin_apocalypse_agent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_apocalypse_agent/portraits/yi_sun_shin_apocalypse_agent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tactical_specialist": {
+      "name": "Tactical Specialist",
+      "skin_id": "03003a",
+      "release_order": 3,
+      "painted_of": "Apocalypse Agent",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_tactical_specialist/avatars/yi_sun_shin_tactical_specialist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_tactical_specialist/portraits/yi_sun_shin_tactical_specialist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "roguish_ranger": {
+      "name": "Roguish Ranger",
+      "skin_id": "03004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_roguish_ranger/avatars/yi_sun_shin_roguish_ranger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_roguish_ranger/portraits/yi_sun_shin_roguish_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lone_destructor": {
+      "name": "Lone Destructor",
+      "skin_id": "03005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_lone_destructor/avatars/yi_sun_shin_lone_destructor_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_lone_destructor/portraits/yi_sun_shin_lone_destructor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "azure_sentry": {
+      "name": "Azure Sentry",
+      "skin_id": "03006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_azure_sentry/avatars/yi_sun_shin_azure_sentry_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_azure_sentry/portraits/yi_sun_shin_azure_sentry_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fleet_warden": {
+      "name": "Fleet Warden",
+      "skin_id": "03007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_fleet_warden/avatars/yi_sun_shin_fleet_warden_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_fleet_warden/portraits/yi_sun_shin_fleet_warden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "surging_torrent": {
+      "name": "Surging Torrent",
+      "skin_id": "03008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_surging_torrent/avatars/yi_sun_shin_surging_torrent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yi_sun_shin/yi_sun_shin_surging_torrent/portraits/yi_sun_shin_surging_torrent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

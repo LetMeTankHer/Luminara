@@ -1,0 +1,196 @@
+{
+  "id": "114",
+  "name": "Melissa",
+  "lore": "As an illegitimate child of a noble, Melissa grew up in the Lumina City, capital of the Moniyan Empire, where she runs a small tailor shop and down with black magic, she uses cursed needles to fight solving problems for her clients in unique ways.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "cursed_needle": {
+      "name": "Cursed Needle",
+      "skin_id": "11401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_cursed_needle/avatars/melissa_cursed_needle_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_cursed_needle/portraits/melissa_cursed_needle_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "twinge_weaver": {
+      "name": "Twinge Weaver",
+      "skin_id": "11402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_twinge_weaver/avatars/melissa_twinge_weaver_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_twinge_weaver/portraits/melissa_twinge_weaver_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nobara_kugisaki": {
+      "name": "Nobara Kugisaki",
+      "skin_id": "11403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_nobara_kugisaki/avatars/melissa_nobara_kugisaki_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_nobara_kugisaki/portraits/melissa_nobara_kugisaki_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nightwalker": {
+      "name": "Nightwalker",
+      "skin_id": "11404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_nightwalker/avatars/melissa_nightwalker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_nightwalker/portraits/melissa_nightwalker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cursewalker": {
+      "name": "Cursewalker",
+      "skin_id": "11404a",
+      "release_order": 4,
+      "painted_of": "Nightwalker",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_cursewalker/avatars/melissa_cursewalker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_cursewalker/portraits/melissa_cursewalker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sparkle_melissa": {
+      "name": "Sparkle Melissa",
+      "skin_id": "11405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_sparkle_melissa/avatars/melissa_sparkle_melissa_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_sparkle_melissa/portraits/melissa_sparkle_melissa_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shimmer_melissa": {
+      "name": "Shimmer Melissa",
+      "skin_id": "11405a",
+      "release_order": 5,
+      "painted_of": "Sparkle Melissa",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_shimmer_melissa/avatars/melissa_shimmer_melissa_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_shimmer_melissa/portraits/melissa_shimmer_melissa_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "umbra_bloom": {
+      "name": "Umbra Bloom",
+      "skin_id": "11406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/melissa/melissa_umbra_bloom/avatars/melissa_umbra_bloom_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/melissa/melissa_umbra_bloom/portraits/melissa_umbra_bloom_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

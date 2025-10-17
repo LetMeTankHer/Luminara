@@ -1,0 +1,264 @@
+{
+  "id": "010",
+  "name": "Franco",
+  "lore": "Franco is the only warrior on the Frozen Ocean who can lead people in the fight against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "frozen_warrior": {
+      "name": "Frozen Warrior",
+      "skin_id": "01001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_frozen_warrior/avatars/franco_frozen_warrior_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_frozen_warrior/portraits/franco_frozen_warrior_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "masterchef": {
+      "name": "Masterchef",
+      "skin_id": "01002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_masterchef/avatars/franco_masterchef_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_masterchef/portraits/franco_masterchef_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "apocalypse": {
+      "name": "Apocalypse",
+      "skin_id": "01003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_apocalypse/avatars/franco_apocalypse_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_apocalypse/portraits/franco_apocalypse_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "locomotive": {
+      "name": "Locomotive",
+      "skin_id": "01004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_locomotive/avatars/franco_locomotive_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_locomotive/portraits/franco_locomotive_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wheatfield_nightmare": {
+      "name": "Wheatfield Nightmare",
+      "skin_id": "01005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_wheatfield_nightmare/avatars/franco_wheatfield_nightmare_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_wheatfield_nightmare/portraits/franco_wheatfield_nightmare_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "luminous_nightmare": {
+      "name": "Luminous Nightmare",
+      "skin_id": "01005a",
+      "release_order": 5,
+      "painted_of": "Wheatfield Nightmare",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_luminous_nightmare/avatars/franco_luminous_nightmare_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_luminous_nightmare/portraits/franco_luminous_nightmare_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "valhalla_ruler": {
+      "name": "Valhalla Ruler",
+      "skin_id": "01006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_valhalla_ruler/avatars/franco_valhalla_ruler_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_valhalla_ruler/portraits/franco_valhalla_ruler_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blazing_axe": {
+      "name": "Blazing Axe",
+      "skin_id": "01007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_blazing_axe/avatars/franco_blazing_axe_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_blazing_axe/portraits/franco_blazing_axe_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bone_crusher": {
+      "name": "Bone Crusher",
+      "skin_id": "01008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_bone_crusher/avatars/franco_bone_crusher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_bone_crusher/portraits/franco_bone_crusher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "king_of_hell": {
+      "name": "King of Hell",
+      "skin_id": "01009",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_king_of_hell/avatars/franco_king_of_hell_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_king_of_hell/portraits/franco_king_of_hell_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "quantum_vanguard": {
+      "name": "Quantum Vanguard",
+      "skin_id": "01010",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/franco/franco_quantum_vanguard/avatars/franco_quantum_vanguard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/franco/franco_quantum_vanguard/portraits/franco_quantum_vanguard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

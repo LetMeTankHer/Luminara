@@ -1,0 +1,85 @@
+{
+  "id": "128",
+  "name": "Kalea",
+  "lore": "The descendant of the legendary Great Serpent, Kalea once had trouble accepting her human-like body. But after discovering who she was, she learned to fight with her fists and powerful serpent tail while healing allies with the power of the Great Serpent surging inside her.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "surging_wave": {
+      "name": "Surging Wave",
+      "skin_id": "12801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kalea/kalea_surging_wave/avatars/kalea_surging_wave_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kalea/kalea_surging_wave/portraits/kalea_surging_wave_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/kalea/kalea_surging_wave/splash_art/kalea_surging_wave_splash_art_default.png"
+      }
+    },
+    "shimmering_waves": {
+      "name": "Shimmering Waves",
+      "skin_id": "12802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kalea/kalea_shimmering_waves/avatars/kalea_shimmering_waves_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kalea/kalea_shimmering_waves/portraits/kalea_shimmering_waves_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/kalea/kalea_shimmering_waves/splash_art/kalea_shimmering_waves_splash_art_default.png"
+      }
+    },
+    "sakura_haruno": {
+      "name": "Sakura Haruno",
+      "skin_id": "12803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kalea/kalea_sakura_haruno/avatars/kalea_sakura_haruno_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kalea/kalea_sakura_haruno/portraits/kalea_sakura_haruno_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/kalea/kalea_sakura_haruno/splash_art/kalea_sakura_haruno_splash_art_default.png"
+      }
+    }
+  }
+}

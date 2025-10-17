@@ -1,0 +1,167 @@
+{
+  "id": "094",
+  "name": "Popol and Kupa",
+  "lore": "Popol is a naughty boy who has ambitions and lofty ideals but is not understood. In order to prove himself, he went alone to hunt down the Icefield Dire Wolves, but accidentally fell into a trap.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "iceland_companions": {
+      "name": "Iceland Companions",
+      "skin_id": "09401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_iceland_companions/avatars/popol_and_kupa_iceland_companions_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_iceland_companions/portraits/popol_and_kupa_iceland_companions_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hunting_pals": {
+      "name": "Hunting Pals",
+      "skin_id": "09402",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_hunting_pals/avatars/popol_and_kupa_hunting_pals_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_hunting_pals/portraits/popol_and_kupa_hunting_pals_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tribal_howl": {
+      "name": "Tribal Howl",
+      "skin_id": "09403",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_tribal_howl/avatars/popol_and_kupa_tribal_howl_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_tribal_howl/portraits/popol_and_kupa_tribal_howl_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "trouble_makers": {
+      "name": "Trouble Makers",
+      "skin_id": "09404",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_trouble_makers/avatars/popol_and_kupa_trouble_makers_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_trouble_makers/portraits/popol_and_kupa_trouble_makers_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soundwave_and_ravage": {
+      "name": "Soundwave and Ravage",
+      "skin_id": "09405",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_soundwave_and_ravage/avatars/popol_and_kupa_soundwave_and_ravage_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_soundwave_and_ravage/portraits/popol_and_kupa_soundwave_and_ravage_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spirit_of_the_brush": {
+      "name": "Spirit of the Brush",
+      "skin_id": "09406",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_spirit_of_the_brush/avatars/popol_and_kupa_spirit_of_the_brush_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_spirit_of_the_brush/portraits/popol_and_kupa_spirit_of_the_brush_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "proto_hunter": {
+      "name": "Proto Hunter",
+      "skin_id": "09407",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_proto_hunter/avatars/popol_and_kupa_proto_hunter_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_proto_hunter/portraits/popol_and_kupa_proto_hunter_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "proto_stalker": {
+      "name": "Proto Stalker",
+      "skin_id": "09407a",
+      "release_order": 7,
+      "painted_of": "Proto Hunter",
+      "avatars": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_proto_stalker/avatars/popol_and_kupa_proto_stalker_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/popol_and_kupa/popol_and_kupa_proto_stalker/portraits/popol_and_kupa_proto_stalker_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

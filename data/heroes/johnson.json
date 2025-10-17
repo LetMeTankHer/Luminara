@@ -1,0 +1,265 @@
+{
+  "id": "032",
+  "name": "Johnson",
+  "lore": "Johnson was originally from a planet called Varis, where he worked as a delivery driver. On his world, auto racing was the most illustrious sport, but the major races were almost entirely monopolized by the rich and elite.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "wild_engine": {
+      "name": "Wild Engine",
+      "skin_id": "03201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_wild_engine/avatars/johnson_wild_engine_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_wild_engine/portraits/johnson_wild_engine_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fire_chief": {
+      "name": "Fire Chief",
+      "skin_id": "03202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_fire_chief/avatars/johnson_fire_chief_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_fire_chief/portraits/johnson_fire_chief_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "saber_automata": {
+      "name": "S.A.B.E.R. Automata",
+      "skin_id": "03203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_saber_automata/avatars/johnson_saber_automata_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_saber_automata/portraits/johnson_saber_automata_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jeepney_racer": {
+      "name": "Jeepney Racer",
+      "skin_id": "03204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_jeepney_racer/avatars/johnson_jeepney_racer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_jeepney_racer/portraits/johnson_jeepney_racer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pink_jeepney_racer": {
+      "name": "Pink Jeepney Racer",
+      "skin_id": "03204a",
+      "release_order": 4,
+      "painted_of": "Jeepney Racer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_pink_jeepney_racer/avatars/johnson_pink_jeepney_racer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_pink_jeepney_racer/portraits/johnson_pink_jeepney_racer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wreck_king": {
+      "name": "Wreck King",
+      "skin_id": "03205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_wreck_king/avatars/johnson_wreck_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_wreck_king/portraits/johnson_wreck_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "death_ride": {
+      "name": "Death Ride",
+      "skin_id": "03206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_death_ride/avatars/johnson_death_ride_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_death_ride/portraits/johnson_death_ride_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "death_chariot": {
+      "name": "Death Chariot",
+      "skin_id": "03206a",
+      "release_order": 6,
+      "painted_of": "Death Ride",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_death_chariot/avatars/johnson_death_chariot_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_death_chariot/portraits/johnson_death_chariot_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "optimus_prime": {
+      "name": "Optimus Prime",
+      "skin_id": "03207",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_optimus_prime/avatars/johnson_optimus_prime_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_optimus_prime/portraits/johnson_optimus_prime_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "starblazer": {
+      "name": "Starblazer",
+      "skin_id": "03208",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_starblazer/avatars/johnson_starblazer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_starblazer/portraits/johnson_starblazer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sovereign_of_realms": {
+      "name": "Sovereign of Realms",
+      "skin_id": "03209",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/johnson/johnson_sovereign_of_realms/avatars/johnson_sovereign_of_realms_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/johnson/johnson_sovereign_of_realms/portraits/johnson_sovereign_of_realms_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

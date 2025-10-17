@@ -1,0 +1,150 @@
+{
+  "id": "125",
+  "name": "Zhuxin",
+  "lore": "Zhuxin is an enigmatic young woman from the city of Zhu'an, nestled in the mountains of the Cadia Riverlands. Using her Lantern of Spirits, she guides the Ember butterflies and walks between life and death.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "beacon_of_spirits": {
+      "name": "Beacon of Spirits",
+      "skin_id": "12501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhuxin/zhuxin_beacon_of_spirits/avatars/zhuxin_beacon_of_spirits_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhuxin/zhuxin_beacon_of_spirits/portraits/zhuxin_beacon_of_spirits_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ethereal_serenity": {
+      "name": "Ethereal Serenity",
+      "skin_id": "12502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhuxin/zhuxin_ethereal_serenity/avatars/zhuxin_ethereal_serenity_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhuxin/zhuxin_ethereal_serenity/portraits/zhuxin_ethereal_serenity_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "emberwisp_mystic": {
+      "name": "Emberwisp Mystic",
+      "skin_id": "12503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhuxin/zhuxin_emberwisp_mystic/avatars/zhuxin_emberwisp_mystic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhuxin/zhuxin_emberwisp_mystic/portraits/zhuxin_emberwisp_mystic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "skywisp_mystic": {
+      "name": "Skywisp Mystic",
+      "skin_id": "12503a",
+      "release_order": 3,
+      "painted_of": "Emberwisp Mystic",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhuxin/zhuxin_skywisp_mystic/avatars/zhuxin_skywisp_mystic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhuxin/zhuxin_skywisp_mystic/portraits/zhuxin_skywisp_mystic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soulwisp_mystic": {
+      "name": "Soulwisp Mystic",
+      "skin_id": "12503b",
+      "release_order": 3,
+      "painted_of": "Emberwisp Mystic",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhuxin/zhuxin_soulwisp_mystic/avatars/zhuxin_soulwisp_mystic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhuxin/zhuxin_soulwisp_mystic/portraits/zhuxin_soulwisp_mystic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "p_ace_zhuxin": {
+      "name": "P.ACE Zhuxin",
+      "skin_id": "12305",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/avatars/zhuxin_p_ace_zhuxin_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhuxin/zhuxin_p_ace_zhuxin/portraits/zhuxin_p_ace_zhuxin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

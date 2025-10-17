@@ -1,0 +1,334 @@
+{
+  "id": "018",
+  "name": "Layla",
+  "lore": "In Eruditio—the City of Scholars, there's hardly anyone who doesn't know of Layla. She's the \"daughter of Eruditio\", just like a bright star that shines over the streets of Eruditio in the darkness of night.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "energy_gunner": {
+      "name": "Energy Gunner",
+      "skin_id": "01801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_energy_gunner/avatars/layla_energy_gunner_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_energy_gunner/portraits/layla_energy_gunner_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "green_flash": {
+      "name": "Green Flash",
+      "skin_id": "01802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_green_flash/avatars/layla_green_flash_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_green_flash/portraits/layla_green_flash_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bunny_babe": {
+      "name": "Bunny Babe",
+      "skin_id": "01803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_bunny_babe/avatars/layla_bunny_babe_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_bunny_babe/portraits/layla_bunny_babe_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cannon_and_roses": {
+      "name": "Cannon and Roses",
+      "skin_id": "01804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_cannon_and_roses/avatars/layla_cannon_and_roses_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_cannon_and_roses/portraits/layla_cannon_and_roses_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blue_spectre": {
+      "name": "Blue Spectre",
+      "skin_id": "01805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_blue_spectre/avatars/layla_blue_spectre_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_blue_spectre/portraits/layla_blue_spectre_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "classic_malefic_gunner": {
+      "name": "Classic Malefic Gunner",
+      "skin_id": "01806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_classic_malefic_gunner/avatars/layla_classic_malefic_gunner_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_classic_malefic_gunner/portraits/layla_classic_malefic_gunner_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "saber_breacher": {
+      "name": "S.A.B.E.R. Breacher",
+      "skin_id": "01807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_saber_breacher/avatars/layla_saber_breacher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_saber_breacher/portraits/layla_saber_breacher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blazing_gun": {
+      "name": "Blazing Gun",
+      "skin_id": "01808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_blazing_gun/avatars/layla_blazing_gun_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_blazing_gun/portraits/layla_blazing_gun_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "miss_hikari": {
+      "name": "Miss Hikari",
+      "skin_id": "01809",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_miss_hikari/avatars/layla_miss_hikari_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_miss_hikari/portraits/layla_miss_hikari_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "twilight_waltz": {
+      "name": "Twilight Waltz",
+      "skin_id": "01810",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_twilight_waltz/avatars/layla_twilight_waltz_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_twilight_waltz/portraits/layla_twilight_waltz_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "midnight_waltz": {
+      "name": "Midnight Waltz",
+      "skin_id": "01810a",
+      "release_order": 10,
+      "painted_of": "Twilight Waltz",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_midnight_waltz/avatars/layla_midnight_waltz_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_midnight_waltz/portraits/layla_midnight_waltz_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sunset_waltz": {
+      "name": "Sunset Waltz",
+      "skin_id": "01810b",
+      "release_order": 10,
+      "painted_of": "Twilight Waltz",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_sunset_waltz/avatars/layla_sunset_waltz_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_sunset_waltz/portraits/layla_sunset_waltz_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "paranormal_operative": {
+      "name": "Paranormal Operative",
+      "skin_id": "01811",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_paranormal_operative/avatars/layla_paranormal_operative_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_paranormal_operative/portraits/layla_paranormal_operative_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_beacon": {
+      "name": "The Beacon",
+      "skin_id": "01812",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/layla/layla_the_beacon/avatars/layla_the_beacon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/layla/layla_the_beacon/portraits/layla_the_beacon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

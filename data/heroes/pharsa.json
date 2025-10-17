@@ -1,0 +1,240 @@
+{
+  "id": "052",
+  "name": "Pharsa",
+  "lore": "As princess of the Crow Clan of Askati Forest, she was born with mutated blood. The mutation could gain her amazing abilities if she is awakened. When Alice invaded Askati Forest, the awakened Pharsa drove Alice away and lost her eyesight. After that, her lover turned himself into a crow to replace her eyes.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "wings_of_vengeance": {
+      "name": "Wings of Vengeance",
+      "skin_id": "05201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_wings_of_vengeance/avatars/pharsa_wings_of_vengeance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_wings_of_vengeance/portraits/pharsa_wings_of_vengeance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wings_of_heaven": {
+      "name": "Wings of Heaven",
+      "skin_id": "05202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_wings_of_heaven/avatars/pharsa_wings_of_heaven_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_wings_of_heaven/portraits/pharsa_wings_of_heaven_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "peafowls_dance": {
+      "name": "Peafowl's Dance",
+      "skin_id": "05203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_peafowls_dance/avatars/pharsa_peafowls_dance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_peafowls_dance/portraits/pharsa_peafowls_dance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "indigo_aviatrix": {
+      "name": "Indigo Aviatrix",
+      "skin_id": "05204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_indigo_aviatrix/avatars/pharsa_indigo_aviatrix_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_indigo_aviatrix/portraits/pharsa_indigo_aviatrix_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "enchanting_witch": {
+      "name": "Enchanting Witch",
+      "skin_id": "05205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_enchanting_witch/avatars/pharsa_enchanting_witch_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_enchanting_witch/portraits/pharsa_enchanting_witch_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "empress_phoenix": {
+      "name": "Empress Phoenix",
+      "skin_id": "05206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_empress_phoenix/avatars/pharsa_empress_phoenix_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_empress_phoenix/portraits/pharsa_empress_phoenix_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "samba_muse": {
+      "name": "Samba Muse",
+      "skin_id": "05207",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_samba_muse/avatars/pharsa_samba_muse_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_samba_muse/portraits/pharsa_samba_muse_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "peony_bloom": {
+      "name": "Peony Bloom",
+      "skin_id": "05208",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_peony_bloom/avatars/pharsa_peony_bloom_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_peony_bloom/portraits/pharsa_peony_bloom_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hierophant": {
+      "name": "Hierophant",
+      "skin_id": "05209",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_hierophant/avatars/pharsa_hierophant_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_hierophant/portraits/pharsa_hierophant_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neobeast_pharsa": {
+      "name": "Neobeast Pharsa",
+      "skin_id": "05210",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/pharsa/pharsa_neobeast_pharsa/avatars/pharsa_neobeast_pharsa_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/pharsa/pharsa_neobeast_pharsa/portraits/pharsa_neobeast_pharsa_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

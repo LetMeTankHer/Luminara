@@ -1,0 +1,196 @@
+{
+  "id": "072",
+  "name": "Thamuz",
+  "lore": "A warrior who believed in the Abyss and was appointed as the leader of the Abyss Legion. Because the Fire Demons were affected by the Abyss for thousands of years and are considered the race closest to Abyss, Thamuz has always had a high sense of superiority and self-esteem.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "lord_lava": {
+      "name": "Lord Lava",
+      "skin_id": "07201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_lord_lava/avatars/thamuz_lord_lava_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_lord_lava/portraits/thamuz_lord_lava_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lord_of_wraith": {
+      "name": "Lord of Wraith",
+      "skin_id": "07202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_lord_of_wraith/avatars/thamuz_lord_of_wraith_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_lord_of_wraith/portraits/thamuz_lord_of_wraith_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "liquid_fire": {
+      "name": "Liquid Fire",
+      "skin_id": "07203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_liquid_fire/avatars/thamuz_liquid_fire_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_liquid_fire/portraits/thamuz_liquid_fire_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fire_crystal": {
+      "name": "Fire Crystal",
+      "skin_id": "07203a",
+      "release_order": 3,
+      "painted_of": "Liquid Fire",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_fire_crystal/avatars/thamuz_fire_crystal_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_fire_crystal/portraits/thamuz_fire_crystal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "abyssal_reaper": {
+      "name": "Abyssal Reaper",
+      "skin_id": "07204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_abyssal_reaper/avatars/thamuz_abyssal_reaper_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_abyssal_reaper/portraits/thamuz_abyssal_reaper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sanctified_flame": {
+      "name": "Sanctified Flame",
+      "skin_id": "07205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_sanctified_flame/avatars/thamuz_sanctified_flame_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_sanctified_flame/portraits/thamuz_sanctified_flame_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sanctified_inferno": {
+      "name": "Sanctified Inferno",
+      "skin_id": "07205a",
+      "release_order": 5,
+      "painted_of": "Sanctified Flame",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_sanctified_inferno/avatars/thamuz_sanctified_inferno_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_sanctified_inferno/portraits/thamuz_sanctified_inferno_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_annihilator": {
+      "name": "The Annihilator",
+      "skin_id": "07206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/thamuz/thamuz_the_annihilator/avatars/thamuz_the_annihilator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/thamuz/thamuz_the_annihilator/portraits/thamuz_the_annihilator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

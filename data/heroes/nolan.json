@@ -1,0 +1,150 @@
+{
+  "id": "122",
+  "name": "Nolan",
+  "lore": "Nolan, a poised and prominent scholar from Eruditio, yearned to unlock the secrets of the multiverse. But after discovering a cosmic threat of unimaginable proportions, he was forced to give up everything he held dear in order to stop it.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "cosmic_wayfinder": {
+      "name": "Cosmic Wayfinder",
+      "skin_id": "12201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/nolan/nolan_cosmic_wayfinder/avatars/nolan_cosmic_wayfinder_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/nolan/nolan_cosmic_wayfinder/portraits/nolan_cosmic_wayfinder_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "voidwalker": {
+      "name": "Voidwalker",
+      "skin_id": "12202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/nolan/nolan_voidwalker/avatars/nolan_voidwalker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/nolan/nolan_voidwalker/portraits/nolan_voidwalker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fashion_mogul": {
+      "name": "Fashion Mogul",
+      "skin_id": "12203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/nolan/nolan_fashion_mogul/avatars/nolan_fashion_mogul_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/nolan/nolan_fashion_mogul/portraits/nolan_fashion_mogul_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fashion_tycoon": {
+      "name": "Fashion Tycoon",
+      "skin_id": "12203b",
+      "release_order": 3,
+      "painted_of": "Fashion Mogul",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/nolan/nolan_fashion_tycoon/avatars/nolan_fashion_tycoon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/nolan/nolan_fashion_tycoon/portraits/nolan_fashion_tycoon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fashion_magnate": {
+      "name": "Fashion Magnate",
+      "skin_id": "12203a",
+      "release_order": 3,
+      "painted_of": "Fashion Mogul",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/nolan/nolan_fashion_magnate/avatars/nolan_fashion_magnate_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/nolan/nolan_fashion_magnate/portraits/nolan_fashion_magnate_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_navigator": {
+      "name": "The Navigator",
+      "skin_id": "12204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/nolan/nolan_the_navigator/avatars/nolan_the_navigator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/nolan/nolan_the_navigator/portraits/nolan_the_navigator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

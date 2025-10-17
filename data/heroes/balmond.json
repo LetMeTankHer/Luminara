@@ -1,0 +1,261 @@
+{
+  "id": "002",
+  "name": "Balmond",
+  "lore": "Balmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons. During a battle, he consumed the blood of a Blood Demon and went into a rage.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "bloody_beast": {
+      "name": "Bloody Beast",
+      "skin_id": "00201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_bloody_beast/avatars/balmond_bloody_beast_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_bloody_beast/portraits/balmond_bloody_beast_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_bloody_beast/splash_art/balmond_bloody_beast_splash_art_default.png"
+      }
+    },
+    "power_source": {
+      "name": "Power Source",
+      "skin_id": "00202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_power_source/avatars/balmond_power_source_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_power_source/portraits/balmond_power_source_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_power_source/splash_art/balmond_power_source_splash_art_default.png"
+      }
+    },
+    "ghouls_fury": {
+      "name": "Ghouls Fury",
+      "skin_id": "00203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_ghouls_fury/avatars/balmond_ghouls_fury_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_ghouls_fury/portraits/balmond_ghouls_fury_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_ghouls_fury/splash_art/balmond_ghouls_fury_splash_art_default.png"
+      }
+    },
+    "savage_hunter": {
+      "name": "Savage Hunter",
+      "skin_id": "00204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_savage_hunter/avatars/balmond_savage_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_savage_hunter/portraits/balmond_savage_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_savage_hunter/splash_art/balmond_savage_hunter_splash_art_default.png"
+      }
+    },
+    "god_of_mountains": {
+      "name": "God of Mountains",
+      "skin_id": "00205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_god_of_mountains/avatars/balmond_god_of_mountains_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_god_of_mountains/portraits/balmond_god_of_mountains_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_god_of_mountains/splash_art/balmond_gods_of_mountains_splash_art_default.png"
+      }
+    },
+    "savage_pointguard": {
+      "name": "Savage Pointguard",
+      "skin_id": "00206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_savage_pointguard/avatars/balmond_savage_pointguard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_savage_pointguard/portraits/balmond_savage_pointguard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_savage_pointguard/splash_art/balmond_savage_pointguard_splash_art_default.png"
+      }
+    },
+    "mighty_pointguard": {
+      "name": "Mighty Pointguard",
+      "skin_id": "00206a",
+      "release_order": 6,
+      "painted_of": "Savage Pointguard",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_mighty_pointguard/avatars/balmond_mighty_pointguard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_mighty_pointguard/portraits/balmond_mighty_pointguard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_mighty_pointguard/splash_art/balmond_mighty_pointguard_splash_art_default.png"
+      }
+    },
+    "bioroid": {
+      "name": "Bioroid",
+      "skin_id": "00207",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_bioroid/avatars/balmond_bioroid_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_bioroid/portraits/balmond_bioroid_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_bioroid/splash_art/balmond_bioroid_splash_art_default.png"
+      }
+    },
+    "infernal_warlord": {
+      "name": "Infernal Warlord",
+      "skin_id": "00208",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_infernal_warlord/avatars/balmond_infernal_warlord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_infernal_warlord/portraits/balmond_infernal_warlord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_infernal_warlord/splash_art/balmond_infernal_warlord_splash_art_default.png"
+      }
+    },
+    "razor_edge": {
+      "name": "Razor Edge",
+      "skin_id": "00209",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/balmond/balmond_razor_edge/avatars/balmond_razor_edge_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/balmond/balmond_razor_edge/portraits/balmond_razor_edge_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": {
+        "default": "assets/heroes/balmond/balmond_razor_edge/splash_art/balmond_razor_edge_splash_art_default.png"
+      }
+    }
+  }
+}

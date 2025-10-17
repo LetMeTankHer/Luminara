@@ -1,0 +1,162 @@
+{
+  "id": "085",
+  "name": "Dyrroth",
+  "lore": "Prince of the Moniyan Empire, raised by Alice and Thamuz after being kidnapped. He won a duel witnessed by Thamuz. After the conflict between Light and Dark, the Son of Darkness was about to represent the lord of the Abyss and lead the Abyssal Army to the battlefront.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "prince_of_the_abyss": {
+      "name": "Prince of the Abyss",
+      "skin_id": "08501",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_prince_of_the_abyss/avatars/dyrroth_prince_of_the_abyss_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_prince_of_the_abyss/portraits/dyrroth_prince_of_the_abyss_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scalebore": {
+      "name": "Scalebore",
+      "skin_id": "08502",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_scalebore/avatars/dyrroth_scalebore_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_scalebore/portraits/dyrroth_scalebore_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "orochi_chris": {
+      "name": "Orochi Chris",
+      "skin_id": "08503",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_orochi_chris/avatars/dyrroth_orochi_chris_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_orochi_chris/portraits/dyrroth_orochi_chris_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ruins_scavenger": {
+      "name": "Ruins Scavenger",
+      "skin_id": "08504",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_ruins_scavenger/avatars/dyrroth_ruins_scavenger_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_ruins_scavenger/portraits/dyrroth_ruins_scavenger_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "prince_of_light": {
+      "name": "Prince of Light",
+      "skin_id": "08505",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_prince_of_light/avatars/dyrroth_prince_of_light_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_prince_of_light/portraits/dyrroth_prince_of_light_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "venom_cobra": {
+      "name": "Venom Cobra",
+      "skin_id": "08506",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_venom_cobra/avatars/dyrroth_venom_cobra_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_venom_cobra/portraits/dyrroth_venom_cobra_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "naraka_flame": {
+      "name": "Naraka Flame",
+      "skin_id": "08507",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_naraka_flame/avatars/dyrroth_naraka_flame_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_naraka_flame/portraits/dyrroth_naraka_flame_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "gon": {
+      "name": "Gon",
+      "skin_id": "08508",
+      "release_order": 8,
+      "avatars": {
+        "default": "assets/heroes/dyrroth/dyrroth_gon/avatars/dyrroth_gon_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/dyrroth/dyrroth_gon/portraits/dyrroth_gon_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

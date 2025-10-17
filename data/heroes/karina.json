@@ -1,0 +1,334 @@
+{
+  "id": "008",
+  "name": "Karina",
+  "lore": "Karina is the best killer among the Dark Elves who lived codependently with her younger sister Selena. But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "shadow_blade": {
+      "name": "Shadow Blade",
+      "skin_id": "00801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_shadow_blade/avatars/karina_shadow_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_shadow_blade/portraits/karina_shadow_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_blade": {
+      "name": "Phantom Blade",
+      "skin_id": "00802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_phantom_blade/avatars/karina_phantom_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_phantom_blade/portraits/karina_phantom_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "christmas_carnival": {
+      "name": "Christmas Carnival",
+      "skin_id": "00803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_christmas_carnival/avatars/karina_christmas_carnival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_christmas_carnival/portraits/karina_christmas_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "black_pearl": {
+      "name": "Black Pearl",
+      "skin_id": "00804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_black_pearl/avatars/karina_black_pearl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_black_pearl/portraits/karina_black_pearl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spider_lily": {
+      "name": "Spider Lily",
+      "skin_id": "00805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_spider_lily/avatars/karina_spider_lily_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_spider_lily/portraits/karina_spider_lily_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spider_lily_winter": {
+      "name": "Spider Lily Winter",
+      "skin_id": "00805a",
+      "release_order": 5,
+      "painted_of": "Spider Lily",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_spider_lily_winter/avatars/karina_spider_lily_winter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_spider_lily_winter/portraits/karina_spider_lily_winter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spider_lily_autumn": {
+      "name": "Spider Lily Autumn",
+      "skin_id": "00805b",
+      "release_order": 5,
+      "painted_of": "Spider Lily",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_spider_lily_autumn/avatars/karina_spider_lily_autumn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_spider_lily_autumn/portraits/karina_spider_lily_autumn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "doom_duelist": {
+      "name": "Doom Duelist",
+      "skin_id": "00806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_doom_duelist/avatars/karina_doom_duelist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_doom_duelist/portraits/karina_doom_duelist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "leona": {
+      "name": "Leona",
+      "skin_id": "00807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_leona/avatars/karina_leona_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_leona/portraits/karina_leona_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "gemini_halo": {
+      "name": "Gemini Halo",
+      "skin_id": "00808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_gemini_halo/avatars/karina_gemini_halo_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_gemini_halo/portraits/karina_gemini_halo_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blood_moon": {
+      "name": "Blood Moon",
+      "skin_id": "00809",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_blood_moon/avatars/karina_blood_moon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_blood_moon/portraits/karina_blood_moon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cutting_edge": {
+      "name": "Cutting Edge",
+      "skin_id": "00810",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_cutting_edge/avatars/karina_cutting_edge_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_cutting_edge/portraits/karina_cutting_edge_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "keyforged_champion": {
+      "name": "Keyforged Champion",
+      "skin_id": "00811",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_keyforged_champion/avatars/karina_keyforged_champion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_keyforged_champion/portraits/karina_keyforged_champion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "demon_queller": {
+      "name": "Demon Queller",
+      "skin_id": "00812",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karina/karina_demon_queller/avatars/karina_demon_queller_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karina/karina_demon_queller/portraits/karina_demon_queller_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

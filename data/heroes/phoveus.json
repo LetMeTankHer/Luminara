@@ -1,0 +1,127 @@
+{
+  "id": "106",
+  "name": "Phoveus",
+  "lore": "Phoveus was framed. Having been severely punished, he was then sent to fight with the vanguard. Once battle was over, Phoveus came across a most mysterious cage; and which was sealed the spirit of Astaros, God of Terror.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "chains_of_sin": {
+      "name": "Chains of Sin",
+      "skin_id": "10601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/phoveus/phoveus_chains_of_sin/avatars/phoveus_chains_of_sin_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/phoveus/phoveus_chains_of_sin/portraits/phoveus_chains_of_sin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "monolith_watcher": {
+      "name": "Monolith Watcher",
+      "skin_id": "10602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/phoveus/phoveus_monolith_watcher/avatars/phoveus_monolith_watcher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/phoveus/phoveus_monolith_watcher/portraits/phoveus_monolith_watcher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "matrix_maverick": {
+      "name": "Matrix Maverick",
+      "skin_id": "10604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/phoveus/phoveus_matrix_maverick/avatars/phoveus_matrix_maverick_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/phoveus/phoveus_matrix_maverick/portraits/phoveus_matrix_maverick_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "matrix_raider": {
+      "name": "Matrix Raider",
+      "skin_id": "10604a",
+      "release_order": 4,
+      "painted_of": "Matrix Maverick",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/phoveus/phoveus_matrix_raider/avatars/phoveus_matrix_raider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/phoveus/phoveus_matrix_raider/portraits/phoveus_matrix_raider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "matrix_marauder": {
+      "name": "Matrix Marauder",
+      "skin_id": "10604b",
+      "release_order": 4,
+      "painted_of": "Matrix Maverick",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/phoveus/phoveus_matrix_marauder/avatars/phoveus_matrix_marauder_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/phoveus/phoveus_matrix_marauder/portraits/phoveus_matrix_marauder_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

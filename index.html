@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Luminara/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>...</title>
+    <script type="module" crossorigin src="/Luminara/assets/main-C26VrPUp.js"></script>
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/preload-helper-DatU6rzX.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/GLTFLoader-geCNiA8N.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/utilities-B1GvWzLx.js">
+    <link rel="stylesheet" crossorigin href="/Luminara/assets/preload-helper-B5_9uHTz.css">
+  </head>
+
+  <body class="bg-body">
+    <!-- Navbar -->
+    <div id="navbarContainer"></div>
+
+    <!-- Hero Section -->
+    <section id="hero" class="h-screen relative">
+      <!-- Background image + blur overlay -->
+      <div class="absolute inset-0">
+        <img src="" id="hero-background" class="w-full h-full object-cover" />
+        <div class="absolute inset-0 bg-black/50 backdrop-blur-md"></div>
+      </div>
+
+      <!-- Single container: all together -->
+      <div class="relative w-full h-full z-20 flex flex-col lg:flex-row">
+        <!-- Section 1: 3D Model -->
+        <div
+          class="relative w-full lg:w-1/2 h-[80vh] lg:h-full flex items-center justify-center"
+        >
+          <!-- 3D Model Canvas -->
+
+          <canvas class="show-model w-full h-full"></canvas>
+
+          <!-- 3D Model Button -->
+          <a
+            href="#"
+            class="hero-3d-link absolute bottom-6 left-1/2 -translate-x-1/2 flex justify-between items-center w-[70vw] lg:w-80 px-3 lg:px-4 py-2 lg:py-3 rounded-2xl border-2 border-white hover:border-primary bg-black/50 z-50 animate-float-hover"
+          >
+            <div class="flex items-center justify-center">
+              <img
+                src=""
+                alt="Hero Avatar"
+                class="hero-img w-10 h-10 lg:w-12 lg:h-12 rounded-full border-2 border-primary"
+              />
+              <div class="ml-2 lg:ml-3">
+                <div
+                  class="hero-name font-semibold text-white text-sm lg:text-base"
+                ></div>
+                <div class="text-xs lg:text-sm italic text-gray-400">
+                  View 3D Model
+                </div>
+              </div>
+            </div>
+            <i
+              class="fa-solid fa-chevron-right text-lg lg:text-xl text-primary"
+            ></i>
+          </a>
+        </div>
+
+        <!-- Desktop content boxes (absolute, positioned relative to main wrapper) -->
+        <div
+          id="content-boxes"
+          class="relative w-full lg:w-1/2 hidden lg:flex flex-col"
+        >
+          <!-- Hero Info Box -->
+          <div
+            class="content-box absolute top-[15%] left-[10%] animate-float-hover md:w-130 md:h-72 rounded-xl shadow-lg p-4 text-text"
+            data-id="1"
+          >
+            <div
+              id="hero-info-box"
+              class="p-4 border rounded-xl shadow-md bg-background text-text w-[500px]"
+            ></div>
+          </div>
+          <!-- Hero Skills Box -->
+          <div
+            class="content-box absolute top-[20%] left-[10%] animate-float-hover md:w-130 md:h-72 rounded-xl shadow-lg p-4 text-text hidden"
+            data-id="2"
+          >
+            <!-- Skill Icons Row -->
+            <div id="skill-icons" class="flex gap-4">
+              <!-- icons will be injected here -->
+            </div>
+
+            <!-- Description Box -->
+            <div
+              id="skill-description"
+              class="mt-4 p-4 border rounded-xl shadow-md bg-background text-text w-[500px]"
+            >
+              <h3 id="skill-name" class="font-bold text-lg"></h3>
+              <p id="skill-type" class="text-sm text-text font-thin"></p>
+              <p id="skill-text" class="mt-2"></p>
+            </div>
+          </div>
+          <!-- Hero Profile -->
+          <div
+            class="content-box absolute top-[15%] left-[10%] animate-float-hover md:w-130 md:h-72 rounded-xl shadow-lg p-4 text-text"
+            data-id="3"
+          >
+            <div
+              id="hero-profile-box"
+              class="p-4 border rounded-xl shadow-md bg-background text-text w-[500px]"
+            ></div>
+          </div>
+          <button
+            class="absolute hidden lg:block w-15 h-15 text-sm bg-background rounded-full curved-btn animate-float-hover text-text"
+            data-id="1"
+          >
+            Info
+          </button>
+          <button
+            class="absolute hidden lg:block w-15 h-15 text-sm bg-background rounded-full curved-btn animate-float-hover text-text"
+            data-id="2"
+          >
+            Abilities
+          </button>
+          <button
+            class="absolute hidden lg:block w-15 h-15 text-sm bg-background rounded-full curved-btn animate-float-hover text-text"
+            data-id="3"
+          >
+            Profile
+          </button>
+        </div>
+
+        <!-- Desktop buttons (absolute) -->
+      </div>
+    </section>
+    <section>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quaerat
+        quia perspiciatis nesciunt minus dolores veritatis libero aspernatur
+        recusandae mollitia vero velit voluptate, corrupti odit aliquid,
+        repellat quasi! Commodi, voluptatum?
+      </p>
+    </section>
+
+
+  </body>
+</html>

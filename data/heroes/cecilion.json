@@ -1,0 +1,143 @@
+{
+  "id": "091",
+  "name": "Cecilion",
+  "lore": "As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "embrace_of_night": {
+      "name": "Embrace of Night",
+      "skin_id": "09101",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_embrace_of_night/avatars/cecilion_embrace_of_night_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_embrace_of_night/portraits/cecilion_embrace_of_night_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wisteria_count": {
+      "name": "Wisteria Count",
+      "skin_id": "09102",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_wisteria_count/avatars/cecilion_wisteria_count_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_wisteria_count/portraits/cecilion_wisteria_count_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_illusionist": {
+      "name": "The Illusionist",
+      "skin_id": "09103",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_the_illusionist/avatars/cecilion_the_illusionist_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_the_illusionist/portraits/cecilion_the_illusionist_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_count": {
+      "name": "Phantom Count",
+      "skin_id": "09104",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_phantom_count/avatars/cecilion_phantom_count_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_phantom_count/portraits/cecilion_phantom_count_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "stargazer": {
+      "name": "Stargazer",
+      "skin_id": "09105",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_stargazer/avatars/cecilion_stargazer_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_stargazer/portraits/cecilion_stargazer_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crimson_wings": {
+      "name": "Crimson Wings",
+      "skin_id": "09106",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_crimson_wings/avatars/cecilion_crimson_wings_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_crimson_wings/portraits/cecilion_crimson_wings_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hisoka": {
+      "name": "Hisoka",
+      "skin_id": "09107",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/cecilion/cecilion_hisoka/avatars/cecilion_hisoka_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/cecilion/cecilion_hisoka/portraits/cecilion_hisoka_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "id": "058",
+  "name": "Martis",
+  "lore": "The Shura clan have thrived in isolation for countless generations, in the Arcapada universe. Their men, renowned for being the world's bravest fighters, and their women famed for being the world's greatest beauties.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "ashura_king": {
+      "name": "Ashura King",
+      "skin_id": "05801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_ashura_king/avatars/martis_ashura_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_ashura_king/portraits/martis_ashura_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tyrant": {
+      "name": "Tyrant",
+      "skin_id": "05802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_tyrant/avatars/martis_tyrant_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_tyrant/portraits/martis_tyrant_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "searing_maw": {
+      "name": "Searing Maw",
+      "skin_id": "05803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_searing_maw/avatars/martis_searing_maw_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_searing_maw/portraits/martis_searing_maw_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "god_of_war": {
+      "name": "God of War",
+      "skin_id": "05804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_god_of_war/avatars/martis_god_of_war_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_god_of_war/portraits/martis_god_of_war_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "capricorn": {
+      "name": "Capricorn",
+      "skin_id": "05805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_capricorn/avatars/martis_capricorn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_capricorn/portraits/martis_capricorn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deathrock": {
+      "name": "Deathrock",
+      "skin_id": "05806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_deathrock/avatars/martis_deathrock_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_deathrock/portraits/martis_deathrock_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "levi": {
+      "name": "Levi",
+      "skin_id": "05807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_levi/avatars/martis_levi_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_levi/portraits/martis_levi_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "darkwater_terror": {
+      "name": "Darkwater Terror",
+      "skin_id": "05808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_darkwater_terror/avatars/martis_darkwater_terror_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_darkwater_terror/portraits/martis_darkwater_terror_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nethersea_terror": {
+      "name": "Nethersea Terror",
+      "skin_id": "05808a",
+      "release_order": 8,
+      "painted_of": "Darkwater Terror",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_nethersea_terror/avatars/martis_nethersea_terror_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_nethersea_terror/portraits/martis_nethersea_terror_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bloodtide_terror": {
+      "name": "Bloodtide Terror",
+      "skin_id": "05808b",
+      "release_order": 8,
+      "painted_of": "Darkwater Terror",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/martis/martis_bloodtide_terror/avatars/martis_bloodtide_terror_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/martis/martis_bloodtide_terror/portraits/martis_bloodtide_terror_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

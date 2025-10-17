@@ -1,0 +1,171 @@
+{
+  "id": "036",
+  "name": "Aurora",
+  "lore": "Aurora, the Maiden of the Glacier, commanding the unwavering faith of innumerable mortals in the North, bestows eternity upon the world.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "maiden_of_the_glacier": {
+      "name": "Maiden of the Glacier",
+      "skin_id": "03601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_maiden_of_the_glacier/avatars/aurora_maiden_of_the_glacier_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_maiden_of_the_glacier/portraits/aurora_maiden_of_the_glacier_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "natures_throne": {
+      "name": "Nature's Throne",
+      "skin_id": "03602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_natures_throne/avatars/aurora_natures_throne_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_natures_throne/portraits/aurora_natures_throne_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "heartbreak_empress": {
+      "name": "Heartbreak Empress",
+      "skin_id": "03603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_heartbreak_empress/avatars/aurora_heartbreak_empress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_heartbreak_empress/portraits/aurora_heartbreak_empress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "foxy_lady": {
+      "name": "Foxy Lady",
+      "skin_id": "03604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_foxy_lady/avatars/aurora_foxy_lady_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_foxy_lady/portraits/aurora_foxy_lady_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "aquarius": {
+      "name": "Aquarius",
+      "skin_id": "03605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_aquarius/avatars/aurora_aquarius_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_aquarius/portraits/aurora_aquarius_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "kula_diamond": {
+      "name": "Kula Diamond",
+      "skin_id": "03606",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_kula_diamond/avatars/aurora_kula_diamond_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_kula_diamond/portraits/aurora_kula_diamond_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "veil_of_the_celestials": {
+      "name": "Veil of the Celestials",
+      "skin_id": "03607",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aurora/aurora_veil_of_the_celestials/avatars/aurora_veil_of_the_celestials_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aurora/aurora_veil_of_the_celestials/portraits/aurora_veil_of_the_celestials_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

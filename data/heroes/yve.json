@@ -1,0 +1,150 @@
+{
+  "id": "101",
+  "name": "Yve",
+  "lore": "Yve came down from the sky above the Frozen Ocean. She considered everything and everyone beneath her notice and was only interested in finding Zhask. Her instincts told her that her old nemesis had once appeared here.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "astrowarden": {
+      "name": "Astrowarden",
+      "skin_id": "10101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yve/yve_astrowarden/avatars/yve_astrowarden_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yve/yve_astrowarden/portraits/yve_astrowarden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "forest_hymn": {
+      "name": "Forest Hymn",
+      "skin_id": "10102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yve/yve_forest_hymn/avatars/yve_forest_hymn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yve/yve_forest_hymn/portraits/yve_forest_hymn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ruin_protectress": {
+      "name": "Ruin Protectress",
+      "skin_id": "10103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yve/yve_ruin_protectress/avatars/yve_ruin_protectress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yve/yve_ruin_protectress/portraits/yve_ruin_protectress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flame_lotus": {
+      "name": "Flame Lotus",
+      "skin_id": "10104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yve/yve_flame_lotus/avatars/yve_flame_lotus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yve/yve_flame_lotus/portraits/yve_flame_lotus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ashen_lotus": {
+      "name": "Ashen Lotus",
+      "skin_id": "10104a",
+      "release_order": 4,
+      "painted_of": "Flame Lotus",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yve/yve_ashen_lotus/avatars/yve_ashen_lotus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yve/yve_ashen_lotus/portraits/yve_ashen_lotus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "radiant_lotus": {
+      "name": "Radiant Lotus",
+      "skin_id": "10104b",
+      "release_order": 4,
+      "painted_of": "Flame Lotus",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/yve/yve_radiant_lotus/avatars/yve_radiant_lotus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/yve/yve_radiant_lotus/portraits/yve_radiant_lotus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

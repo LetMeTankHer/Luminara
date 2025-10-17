@@ -1,0 +1,265 @@
+{
+  "id": "034",
+  "name": "Estes",
+  "lore": "At the habitat of the moon elves, somewhere west of the Moonlake, lies the legendary Emerald Woodland, which was the birthplace of the first generation of elves. Every elven king was born in the Tree of Life at the center of the Emerald Woodland.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "moon_elf_king": {
+      "name": "Moon Elf King",
+      "skin_id": "03401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_moon_elf_king/avatars/estes_moon_elf_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_moon_elf_king/portraits/estes_moon_elf_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "holy_priest": {
+      "name": "Holy Priest",
+      "skin_id": "03402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_holy_priest/avatars/estes_holy_priest_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_holy_priest/portraits/estes_holy_priest_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "galaxy_dominator": {
+      "name": "Galaxy Dominator",
+      "skin_id": "03403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_galaxy_dominator/avatars/estes_galaxy_dominator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_galaxy_dominator/portraits/estes_galaxy_dominator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "white_crane": {
+      "name": "White Crane",
+      "skin_id": "03404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_white_crane/avatars/estes_white_crane_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_white_crane/portraits/estes_white_crane_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crow_bishop": {
+      "name": "Crow Bishop",
+      "skin_id": "03405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_crow_bishop/avatars/estes_crow_bishop_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_crow_bishop/portraits/estes_crow_bishop_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "red_crow": {
+      "name": "Red Crow",
+      "skin_id": "03405a",
+      "release_order": 5,
+      "painted_of": "Crow Bishop",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_red_crow/avatars/estes_red_crow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_red_crow/portraits/estes_red_crow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rattan_dragon": {
+      "name": "Rattan Dragon",
+      "skin_id": "03406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_rattan_dragon/avatars/estes_rattan_dragon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_rattan_dragon/portraits/estes_rattan_dragon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blacklist_international": {
+      "name": "Blacklist International",
+      "skin_id": "03407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_blacklist_international/avatars/estes_blacklist_international_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_blacklist_international/portraits/estes_blacklist_international_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "arcane_magistrate": {
+      "name": "Arcane Magistrate",
+      "skin_id": "03408",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_arcane_magistrate/avatars/estes_arcane_magistrate_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_arcane_magistrate/portraits/estes_arcane_magistrate_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "arcane_judicator": {
+      "name": "Arcane Judicator",
+      "skin_id": "03408a",
+      "release_order": 8,
+      "painted_of": "Arcane Magistrate",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_arcane_judicator/avatars/estes_arcane_judicator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_arcane_judicator/portraits/estes_arcane_judicator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sparkle_estes": {
+      "name": "Sparkle Estes",
+      "skin_id": "03409",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/estes/estes_sparkle_estes/avatars/estes_sparkle_estes_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/estes/estes_sparkle_estes/portraits/estes_sparkle_estes_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

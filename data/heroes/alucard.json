@@ -1,0 +1,274 @@
+{
+  "id": "007",
+  "name": "Alucard",
+  "lore": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "demon_hunter": {
+      "name": "Demon Hunter",
+      "skin_id": "00701",
+      "release_order": 1,
+      "audio_type": "standard",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_demon_hunter/avatars/alucard_demon_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_demon_hunter/portraits/alucard_demon_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lone_hero": {
+      "name": "Lone Hero",
+      "skin_id": "00702",
+      "release_order": 2,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_lone_hero/avatars/alucard_lone_hero_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_lone_hero/portraits/alucard_lone_hero_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fiery_inferno": {
+      "name": "Fiery Inferno",
+      "skin_id": "00703",
+      "release_order": 3,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_fiery_inferno/avatars/alucard_fiery_inferno_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_fiery_inferno/portraits/alucard_fiery_inferno_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "child_of_the_fall": {
+      "name": "Child of the Fall",
+      "skin_id": "00704",
+      "release_order": 4,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_child_of_the_fall/avatars/alucard_child_of_the_fall_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_child_of_the_fall/portraits/alucard_child_of_the_fall_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "viscount": {
+      "name": "Viscount",
+      "skin_id": "00705",
+      "release_order": 5,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_viscount/avatars/alucard_viscount_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_viscount/portraits/alucard_viscount_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "romantic_fantasy": {
+      "name": "Romantic Fantasy",
+      "skin_id": "00706",
+      "release_order": 6,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_romantic_fantasy/avatars/alucard_romantic_fantasy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_romantic_fantasy/portraits/alucard_romantic_fantasy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "obsidian_blade": {
+      "name": "Obsidian Blade",
+      "skin_id": "00707",
+      "release_order": 7,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_obsidian_blade/avatars/alucard_obsidian_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_obsidian_blade/portraits/alucard_obsidian_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "empire_agent": {
+      "name": "Empire Agent",
+      "skin_id": "00708",
+      "release_order": 8,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_empire_agent/avatars/alucard_empire_agent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_empire_agent/portraits/alucard_empire_agent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lightborn_striker": {
+      "name": "Lightborn Striker",
+      "skin_id": "00709",
+      "release_order": 9,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_lightborn_striker/avatars/alucard_lightborn_striker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_lightborn_striker/portraits/alucard_lightborn_striker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "obi_wan_kenobi": {
+      "name": "Obi Wan Kenobi",
+      "skin_id": "00710",
+      "release_order": 10,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_obi_wan_kenobi/avatars/alucard_obi_wan_kenobi_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_obi_wan_kenobi/portraits/alucard_obi_wan_kenobi_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "demons_bane": {
+      "name": "Demon’s Bane",
+      "skin_id": "00711",
+      "release_order": 11,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alucard/alucard_demons_bane/avatars/alucard_demons_bane_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alucard/alucard_demons_bane/portraits/alucard_demons_bane_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

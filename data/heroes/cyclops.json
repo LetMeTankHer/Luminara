@@ -1,0 +1,241 @@
+{
+  "id": "033",
+  "name": "Cyclops",
+  "lore": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame. As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "starsoul_magician": {
+      "name": "Starsoul Magician",
+      "skin_id": "03301",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_starsoul_magician/avatars/cyclops_starsoul_magician_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_starsoul_magician/portraits/cyclops_starsoul_magician_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exorcist": {
+      "name": "Exorcist",
+      "skin_id": "03302",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_exorcist/avatars/cyclops_exorcist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_exorcist/portraits/cyclops_exorcist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "super_adventurer": {
+      "name": "Super Adventurer",
+      "skin_id": "03303",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_super_adventurer/avatars/cyclops_super_adventurer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_super_adventurer/portraits/cyclops_super_adventurer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "super_sportsman": {
+      "name": "Super Sportsman",
+      "skin_id": "03303a",
+      "release_order": 3,
+      "painted_of": "Super Adventurer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_super_sportsman/avatars/cyclops_super_sportsman_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_super_sportsman/portraits/cyclops_super_sportsman_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "saber_enforcer": {
+      "name": "S.A.B.E.R. Enforcer",
+      "skin_id": "03304",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_saber_enforcer/avatars/cyclops_saber_enforcer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_saber_enforcer/portraits/cyclops_saber_enforcer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deep_sea_rescuer": {
+      "name": "Deep Sea Rescuer",
+      "skin_id": "03305",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_deep_sea_rescuer/avatars/cyclops_deep_sea_rescuer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_deep_sea_rescuer/portraits/cyclops_deep_sea_rescuer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "zombie_bambino": {
+      "name": "Zombie Bambino",
+      "skin_id": "03306",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_zombie_bambino/avatars/cyclops_zombie_bambino_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_zombie_bambino/portraits/cyclops_zombie_bambino_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "master_yoda": {
+      "name": "Master Yoda",
+      "skin_id": "03307",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_master_yoda/avatars/cyclops_master_yoda_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_master_yoda/portraits/cyclops_master_yoda_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "straw_doll": {
+      "name": "Straw Doll",
+      "skin_id": "03308",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_straw_doll/avatars/cyclops_straw_doll_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_straw_doll/portraits/cyclops_straw_doll_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "yokai_warlock": {
+      "name": "Yokai Warlock",
+      "skin_id": "03309",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cyclops/cyclops_yokai_warlock/avatars/cyclops_yokai_warlock_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cyclops/cyclops_yokai_warlock/portraits/cyclops_yokai_warlock_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

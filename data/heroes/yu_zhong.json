@@ -1,0 +1,143 @@
+{
+  "id": "095",
+  "name": "Yu Zhong",
+  "lore": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "black_dragon": {
+      "name": "Black Dragon",
+      "skin_id": "09501",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_black_dragon/avatars/yu_zhong_black_dragon_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_black_dragon/portraits/yu_zhong_black_dragon_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "emerald_dragon": {
+      "name": "Emerald Dragon",
+      "skin_id": "09502",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_emerald_dragon/avatars/yu_zhong_emerald_dragon_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_emerald_dragon/portraits/yu_zhong_emerald_dragon_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "biohazard": {
+      "name": "Biohazard",
+      "skin_id": "09503",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_biohazard/avatars/yu_zhong_biohazard_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_biohazard/portraits/yu_zhong_biohazard_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blood_serpent": {
+      "name": "Blood Serpent",
+      "skin_id": "09504",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_blood_serpent/avatars/yu_zhong_blood_serpent_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_blood_serpent/portraits/yu_zhong_blood_serpent_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exorcist_yu_zhong": {
+      "name": "Exorcist Yu Zhong",
+      "skin_id": "09505",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_exorcist_yu_zhong/avatars/yu_zhong_exorcist_yu_zhong_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_exorcist_yu_zhong/portraits/yu_zhong_exorcist_yu_zhong_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragons_shade": {
+      "name": "Dragons Shade",
+      "skin_id": "09507",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_dragons_shade/avatars/yu_zhong_dragons_shade_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_dragons_shade/portraits/yu_zhong_dragons_shade_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cosmic_dragon": {
+      "name": "Cosmic Dragon",
+      "skin_id": "09508",
+      "release_order": 8,
+      "avatars": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_cosmic_dragon/avatars/yu_zhong_cosmic_dragon_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/yu_zhong/yu_zhong_cosmic_dragon/portraits/yu_zhong_cosmic_dragon_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "126",
+  "name": "Suyou",
+  "lore": "As the last descendant of the Exorcists of Nuo, Suyou carried the power of the immortal deity within his body, using it to guide the people toward enlightenment.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "mask_of_the_immortal": {
+      "name": "Mask of the Immortal",
+      "skin_id": "12601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/suyou/suyou_mask_of_the_immortal/avatars/suyou_mask_of_the_immortal_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/suyou/suyou_mask_of_the_immortal/portraits/suyou_mask_of_the_immortal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "venerated_vigilance": {
+      "name": "Venerated Vigilance",
+      "skin_id": "12602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/suyou/suyou_venerated_vigilance/avatars/suyou_venerated_vigilance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/suyou/suyou_venerated_vigilance/portraits/suyou_venerated_vigilance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sasuke_uchiha": {
+      "name": "Sasuke Uchiha",
+      "skin_id": "12603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/suyou/suyou_sasuke_uchiha/avatars/suyou_sasuke_uchiha_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/suyou/suyou_sasuke_uchiha/portraits/suyou_sasuke_uchiha_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "project_immortal": {
+      "name": "Project Immortal",
+      "skin_id": "12604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/suyou/suyou_project_immortal/avatars/suyou_project_immortal_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/suyou/suyou_project_immortal/portraits/suyou_project_immortal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

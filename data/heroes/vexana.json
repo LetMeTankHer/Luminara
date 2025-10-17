@@ -1,0 +1,194 @@
+{
+  "id": "038",
+  "name": "Vexana",
+  "lore": "Vexana was the majestic ruler of Necrokeep, the gentle mother of the undead, but also the only glimmer of light that penetrated the Mist, bringing hope to this cursed land shunned by both life and death.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "shimmer_of_hope": {
+      "name": "Shimmer of Hope",
+      "skin_id": "03801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_shimmer_of_hope/avatars/vexana_shimmer_of_hope_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_shimmer_of_hope/portraits/vexana_shimmer_of_hope_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lucent_beacon": {
+      "name": "Lucent Beacon",
+      "skin_id": "03802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_lucent_beacon/avatars/vexana_lucent_beacon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_lucent_beacon/portraits/vexana_lucent_beacon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sanguine_rose": {
+      "name": "Sanguine Rose",
+      "skin_id": "03803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_sanguine_rose/avatars/vexana_sanguine_rose_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_sanguine_rose/portraits/vexana_sanguine_rose_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cursed_shackle": {
+      "name": "Cursed Shackle",
+      "skin_id": "03804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_cursed_shackle/avatars/vexana_cursed_shackle_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_cursed_shackle/portraits/vexana_cursed_shackle_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "circus_magician": {
+      "name": "Circus Magician",
+      "skin_id": "03805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_circus_magician/avatars/vexana_circus_magician_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_circus_magician/portraits/vexana_circus_magician_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_sun_empress": {
+      "name": "The Sun Empress",
+      "skin_id": "03806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_the_sun_empress/avatars/vexana_the_sun_empress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_the_sun_empress/portraits/vexana_the_sun_empress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "twisted_fairytale": {
+      "name": "Twisted Fairytale",
+      "skin_id": "03807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_twisted_fairytale/avatars/vexana_twisted_fairytale_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_twisted_fairytale/portraits/vexana_twisted_fairytale_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "twilight_star": {
+      "name": "Twilight Star",
+      "skin_id": "03808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/vexana/vexana_twilight_star/avatars/vexana_twilight_star_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/vexana/vexana_twilight_star/portraits/vexana_twilight_star_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

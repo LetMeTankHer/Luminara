@@ -1,0 +1,150 @@
+{
+  "id": "123",
+  "name": "Cici",
+  "lore": "Cici, the lead act of the Whimsical Wonders theater troupe, accompanied by her magical companion Yoyo, embarked on their annual tour. She chose Castle Aberleen, the city where her aunt was once called the Queen of Revelry, as her first destination.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "buoyant_performer": {
+      "name": "Buoyant Performer",
+      "skin_id": "12301",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cici/cici_buoyant_performer/avatars/cici_buoyant_performer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cici/cici_buoyant_performer/portraits/cici_buoyant_performer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "whimsical_carnival": {
+      "name": "Whimsical Carnival",
+      "skin_id": "12302",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cici/cici_whimsical_carnival/avatars/cici_whimsical_carnival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cici/cici_whimsical_carnival/portraits/cici_whimsical_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "circus_reverie": {
+      "name": "Circus Reverie",
+      "skin_id": "12303",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cici/cici_circus_reverie/avatars/cici_circus_reverie_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cici/cici_circus_reverie/portraits/cici_circus_reverie_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "circus_fantasy": {
+      "name": "Circus Fantasy",
+      "skin_id": "12303a",
+      "release_order": 3,
+      "painted_of": "Circus Reverie",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cici/cici_circus_fantasy/avatars/cici_circus_fantasy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cici/cici_circus_fantasy/portraits/cici_circus_fantasy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "circus_glamour": {
+      "name": "Circus Glamour",
+      "skin_id": "12303b",
+      "release_order": 3,
+      "painted_of": "Circus Reverie",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cici/cici_circus_glamour/avatars/cici_circus_glamour_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cici/cici_circus_glamour/portraits/cici_circus_glamour_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "p_ace_cici": {
+      "name": "P.ACE Cici",
+      "skin_id": "12304",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/cici/cici_p_ace_cici/avatars/cici_p_ace_cici_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/cici/cici_p_ace_cici/portraits/cici_p_ace_cici_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

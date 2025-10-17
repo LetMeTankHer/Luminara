@@ -1,0 +1,287 @@
+{
+  "id": "055",
+  "name": "Angela",
+  "lore": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "bunny_love": {
+      "name": "Bunny Love",
+      "skin_id": "05501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_bunny_love/avatars/angela_bunny_love_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_bunny_love/portraits/angela_bunny_love_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dove_and_love": {
+      "name": "Dove and Love",
+      "skin_id": "05502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_dove_and_love/avatars/angela_dove_and_love_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_dove_and_love/portraits/angela_dove_and_love_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shanghai_maiden": {
+      "name": "Shanghai Maiden",
+      "skin_id": "05503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_shanghai_maiden/avatars/angela_shanghai_maiden_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_shanghai_maiden/portraits/angela_shanghai_maiden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "venom_vespid": {
+      "name": "Venom Vespid",
+      "skin_id": "05504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_venom_vespid/avatars/angela_venom_vespid_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_venom_vespid/portraits/angela_venom_vespid_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scream_doll": {
+      "name": "Scream Doll",
+      "skin_id": "05505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_scream_doll/avatars/angela_scream_doll_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_scream_doll/portraits/angela_scream_doll_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "midnight_marionette": {
+      "name": "Midnight Marionette",
+      "skin_id": "05505a",
+      "release_order": 5,
+      "painted_of": "Scream Doll",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_midnight_marionette/avatars/angela_midnight_marionette_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_midnight_marionette/portraits/angela_midnight_marionette_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_vibes": {
+      "name": "Summer Vibes",
+      "skin_id": "05506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_summer_vibes/avatars/angela_summer_vibes_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_summer_vibes/portraits/angela_summer_vibes_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "floral_elf": {
+      "name": "Floral Elf",
+      "skin_id": "05507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_floral_elf/avatars/angela_floral_elf_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_floral_elf/portraits/angela_floral_elf_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "heartstring": {
+      "name": "Heartstring",
+      "skin_id": "05508",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_heartstring/avatars/angela_heartstring_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_heartstring/portraits/angela_heartstring_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_cherubin": {
+      "name": "Cyber Cherubin",
+      "skin_id": "05509",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_cyber_cherubin/avatars/angela_cyber_cherubin_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_cyber_cherubin/portraits/angela_cyber_cherubin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "avatar_of_time": {
+      "name": "Avatar of Time",
+      "skin_id": "05510",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_avatar_of_time/avatars/angela_avatar_of_time_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_avatar_of_time/portraits/angela_avatar_of_time_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "strings_of_fate": {
+      "name": "Strings of Fate",
+      "skin_id": "05511",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/angela/angela_strings_of_fate/avatars/angela_strings_of_fate_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/angela/angela_strings_of_fate/portraits/angela_strings_of_fate_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

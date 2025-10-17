@@ -1,0 +1,218 @@
+{
+  "id": "015",
+  "name": "Eudora",
+  "lore": "Eudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "lightning_weaver": {
+      "name": "Lightning Weaver",
+      "skin_id": "01501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_lightning_weaver/avatars/eudora_lightning_weaver_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_lightning_weaver/portraits/eudora_lightning_weaver_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flame_red_lips": {
+      "name": "Flame Red Lips",
+      "skin_id": "01502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_flame_red_lips/avatars/eudora_flame_red_lips_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_flame_red_lips/portraits/eudora_flame_red_lips_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "christmas_carnival": {
+      "name": "Christmas Carnival",
+      "skin_id": "01503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_christmas_carnival/avatars/eudora_christmas_carnival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_christmas_carnival/portraits/eudora_christmas_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "emerald_enchantress": {
+      "name": "Emerald Enchantress",
+      "skin_id": "01504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_emerald_enchantress/avatars/eudora_emerald_enchantress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_emerald_enchantress/portraits/eudora_emerald_enchantress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "vivo_selfie_goddess": {
+      "name": "Vivo Selfie Goddess",
+      "skin_id": "01505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_vivo_selfie_goddess/avatars/eudora_vivo_selfie_goddess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_vivo_selfie_goddess/portraits/eudora_vivo_selfie_goddess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "photogenic": {
+      "name": "Photogenic",
+      "skin_id": "01505a",
+      "release_order": 5,
+      "painted_of": "Vivo Selfie Goddess",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_photogenic/avatars/eudora_photogenic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_photogenic/portraits/eudora_photogenic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "countess_scarlet": {
+      "name": "Countess Scarlet",
+      "skin_id": "01506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_countess_scarlet/avatars/eudora_countess_scarlet_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_countess_scarlet/portraits/eudora_countess_scarlet_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cosmic_voyage": {
+      "name": "Cosmic Voyage",
+      "skin_id": "01507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_cosmic_voyage/avatars/eudora_cosmic_voyage_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_cosmic_voyage/portraits/eudora_cosmic_voyage_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "atomic_pop_eudora": {
+      "name": "Atomic Pop Eudora",
+      "skin_id": "01508",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/eudora/eudora_atomic_pop_eudora/avatars/eudora_atomic_pop_eudora_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/eudora/eudora_atomic_pop_eudora/portraits/eudora_atomic_pop_eudora_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

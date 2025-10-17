@@ -1,0 +1,218 @@
+{
+  "id": "078",
+  "name": "Khufra",
+  "lore": "The ruler of the ancient city of Tivacan was furious, cold blooded and greedy. In order to obtain the help of the astrologers, the astrologer Esmeralda launched a crazy pursuit.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "desert_tyrant": {
+      "name": "Desert Tyrant",
+      "skin_id": "07801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_desert_tyrant/avatars/khufra_desert_tyrant_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_desert_tyrant/portraits/khufra_desert_tyrant_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "desert_owl": {
+      "name": "Desert Owl",
+      "skin_id": "07802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_desert_owl/avatars/khufra_desert_owl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_desert_owl/portraits/khufra_desert_owl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "apophis": {
+      "name": "Apophis",
+      "skin_id": "07803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_apophis/avatars/khufra_apophis_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_apophis/portraits/khufra_apophis_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "gentleman_thief": {
+      "name": "Gentleman Thief",
+      "skin_id": "07804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_gentleman_thief/avatars/khufra_gentleman_thief_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_gentleman_thief/portraits/khufra_gentleman_thief_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "classic_crook": {
+      "name": "Classic Crook",
+      "skin_id": "07804a",
+      "release_order": 4,
+      "painted_of": "Gentleman Thief",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_classic_crook/avatars/khufra_classic_crook_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_classic_crook/portraits/khufra_classic_crook_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "volcanic_overlord": {
+      "name": "Volcanic Overlord",
+      "skin_id": "07805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_volcanic_overlord/avatars/khufra_volcanic_overlord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_volcanic_overlord/portraits/khufra_volcanic_overlord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dreadful_clown": {
+      "name": "Dreadful Clown",
+      "skin_id": "07806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_dreadful_clown/avatars/khufra_dreadful_clown_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_dreadful_clown/portraits/khufra_dreadful_clown_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "iron_hook": {
+      "name": "Iron Hook",
+      "skin_id": "07807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_iron_hook/avatars/khufra_iron_hook_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_iron_hook/portraits/khufra_iron_hook_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cursed_scroll": {
+      "name": "Cursed Scroll",
+      "skin_id": "07808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khufra/khufra_cursed_scroll/avatars/khufra_cursed_scroll_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khufra/khufra_cursed_scroll/portraits/khufra_cursed_scroll_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

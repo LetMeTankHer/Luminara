@@ -1,0 +1,195 @@
+{
+  "id": "019",
+  "name": "Minotaur",
+  "lore": "In olden times, there was once a state named Minoa in Agelta Drylands. The prince in the state, Minotaur fatally injured his father in a fit of rage, after which he exiled himself to the Minoan Labyrinth in shame and regret.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "son_of_minos": {
+      "name": "Son of Minos",
+      "skin_id": "01901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_son_of_minos/avatars/minotaur_son_of_minos_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_son_of_minos/portraits/minotaur_son_of_minos_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bursting_yama": {
+      "name": "Bursting Yama",
+      "skin_id": "01902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_bursting_yama/avatars/minotaur_bursting_yama_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_bursting_yama/portraits/minotaur_bursting_yama_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "orbiter": {
+      "name": "Orbiter",
+      "skin_id": "01903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_orbiter/avatars/minotaur_orbiter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_orbiter/portraits/minotaur_orbiter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sacred_hammer": {
+      "name": "Sacred Hammer",
+      "skin_id": "01904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_sacred_hammer/avatars/minotaur_sacred_hammer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_sacred_hammer/portraits/minotaur_sacred_hammer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hammer_of_despair": {
+      "name": "Hammer of Despair",
+      "skin_id": "01904a",
+      "release_order": 4,
+      "painted_of": "Sacred Hammer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_hammer_of_despair/avatars/minotaur_hammer_of_despair_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_hammer_of_despair/portraits/minotaur_hammer_of_despair_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "taurus": {
+      "name": "Taurus",
+      "skin_id": "01905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_taurus/avatars/minotaur_taurus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_taurus/portraits/minotaur_taurus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dreadnought": {
+      "name": "Dreadnought",
+      "skin_id": "01906",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_dreadnought/avatars/minotaur_dreadnought_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_dreadnought/portraits/minotaur_dreadnought_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nether_overseer": {
+      "name": "Nether Overseer",
+      "skin_id": "01907",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minotaur/minotaur_nether_overseer/avatars/minotaur_nether_overseer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minotaur/minotaur_nether_overseer/portraits/minotaur_nether_overseer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

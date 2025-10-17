@@ -1,0 +1,172 @@
+{
+  "id": "035",
+  "name": "Hilda",
+  "lore": "Nestled between the tundras of the Northern Vale and the Moniyan Plain lies a unique land with a massive and ancient stone formation for which it is named the Megalith Wasteland. The Megalith Wasteland must be passed if one is to reach Northern Vale. It was also, Hilda's homeland.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "power_of_megalith": {
+      "name": "Power of Megalith",
+      "skin_id": "03501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_power_of_megalith/avatars/hilda_power_of_megalith_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_power_of_megalith/portraits/hilda_power_of_megalith_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "power_of_wildness": {
+      "name": "Power of Wildness",
+      "skin_id": "03502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_power_of_wildness/avatars/hilda_power_of_wildness_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_power_of_wildness/portraits/hilda_power_of_wildness_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flower_of_the_wastes": {
+      "name": "Flower of the Wastes",
+      "skin_id": "03503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_flower_of_the_wastes/avatars/hilda_flower_of_the_wastes_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_flower_of_the_wastes/portraits/hilda_flower_of_the_wastes_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sacred_guard": {
+      "name": "Sacred Guard",
+      "skin_id": "03504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_sacred_guard/avatars/hilda_sacred_guard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_sacred_guard/portraits/hilda_sacred_guard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "aries": {
+      "name": "Aries",
+      "skin_id": "03505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_aries/avatars/hilda_aries_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_aries/portraits/hilda_aries_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bass_craze": {
+      "name": "Bass Craze",
+      "skin_id": "03506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_bass_craze/avatars/hilda_bass_craze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_bass_craze/portraits/hilda_bass_craze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "carmine_craze": {
+      "name": "Carmine Craze",
+      "skin_id": "03506a",
+      "release_order": 6,
+      "painted_of": "Bass Craze",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hilda/hilda_carmine_craze/avatars/hilda_carmine_craze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hilda/hilda_carmine_craze/portraits/hilda_carmine_craze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

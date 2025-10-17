@@ -1,0 +1,195 @@
+{
+  "id": "045",
+  "name": "Argus",
+  "lore": "Argus and his sister, Rafaela, were raised by their mother. Both children were blessed with flawless looks and a promising bloodline; yet in these lands, he as treated very differently to his sister.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "dark_angel": {
+      "name": "Dark Angel",
+      "skin_id": "04501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_dark_angel/avatars/argus_dark_angel_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_dark_angel/portraits/argus_dark_angel_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "light_of_dawn": {
+      "name": "Light of Dawn",
+      "skin_id": "04502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_light_of_dawn/avatars/argus_light_of_dawn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_light_of_dawn/portraits/argus_light_of_dawn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dark_draconic": {
+      "name": "Dark Draconic",
+      "skin_id": "04503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_dark_draconic/avatars/argus_dark_draconic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_dark_draconic/portraits/argus_dark_draconic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "catastrophe": {
+      "name": "Catastrophe",
+      "skin_id": "04504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_catastrophe/avatars/argus_catastrophe_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_catastrophe/portraits/argus_catastrophe_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "malediction": {
+      "name": "Malediction",
+      "skin_id": "04504a",
+      "release_order": 4,
+      "painted_of": "Catastrophe",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_malediction/avatars/argus_malediction_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_malediction/portraits/argus_malediction_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cataclysm": {
+      "name": "Cataclysm",
+      "skin_id": "04505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_cataclysm/avatars/argus_cataclysm_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_cataclysm/portraits/argus_cataclysm_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "darth_vader": {
+      "name": "Darth Vader",
+      "skin_id": "04506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_darth_vader/avatars/argus_darth_vader_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_darth_vader/portraits/argus_darth_vader_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "winged_nightmare": {
+      "name": "Winged Nightmare",
+      "skin_id": "04507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/argus/argus_winged_nightmare/avatars/argus_winged_nightmare_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/argus/argus_winged_nightmare/portraits/argus_winged_nightmare_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

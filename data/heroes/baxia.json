@@ -1,0 +1,124 @@
+{
+  "id": "087",
+  "name": "Baxia",
+  "lore": "After losing his master and comrades during the Battle of the Twin Dragons, Baxia, the spirit of the Mystic Tortoise, took on the responsibility of protecting the Cadia Riverlands. While unshakeable like a mountain on the outside, the weight of the fallen had a heavy toll on his life.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "mystic_tortoise": {
+      "name": "Mystic Tortoise",
+      "skin_id": "08701",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/baxia/baxia_mystic_tortoise/avatars/baxia_mystic_tortoise_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/baxia/baxia_mystic_tortoise/portraits/baxia_mystic_tortoise_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wild_totem": {
+      "name": "Wild Totem",
+      "skin_id": "08702",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/baxia/baxia_wild_totem/avatars/baxia_wild_totem_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/baxia/baxia_wild_totem/portraits/baxia_wild_totem_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "badass_roller": {
+      "name": "Badass Roller",
+      "skin_id": "08703",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/baxia/baxia_badass_roller/avatars/baxia_badass_roller_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/baxia/baxia_badass_roller/portraits/baxia_badass_roller_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ba_tender": {
+      "name": "Ba-tender",
+      "skin_id": "08704",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/baxia/baxia_ba_tender/avatars/baxia_ba_tender_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/baxia/baxia_ba_tender/portraits/baxia_ba_tender_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "black_tortoise": {
+      "name": "Black Tortoise",
+      "skin_id": "08705",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/baxia/baxia_black_tortoise/avatars/baxia_black_tortoise_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/baxia/baxia_black_tortoise/portraits/baxia_black_tortoise_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dauntless_shield": {
+      "name": "Dauntless Shield",
+      "skin_id": "08706",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/baxia/baxia_dauntless_shield/avatars/baxia_dauntless_shield_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/baxia/baxia_dauntless_shield/portraits/baxia_dauntless_shield_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

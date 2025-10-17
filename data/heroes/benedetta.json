@@ -1,0 +1,194 @@
+{
+  "id": "097",
+  "name": "Benedetta",
+  "lore": "After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "shadow_ranger": {
+      "name": "Shadow Ranger",
+      "skin_id": "09701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_shadow_ranger/avatars/benedetta_shadow_ranger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_shadow_ranger/portraits/benedetta_shadow_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "honor_blade": {
+      "name": "Honor Blade",
+      "skin_id": "09702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_honor_blade/avatars/benedetta_honor_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_honor_blade/portraits/benedetta_honor_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "street_blow": {
+      "name": "Street Blow",
+      "skin_id": "09703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_street_blow/avatars/benedetta_street_blow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_street_blow/portraits/benedetta_street_blow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "death_oath": {
+      "name": "Death Oath",
+      "skin_id": "09704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_death_oath/avatars/benedetta_death_oath_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_death_oath/portraits/benedetta_death_oath_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "moonblade": {
+      "name": "Moonblade",
+      "skin_id": "09705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_moonblade/avatars/benedetta_moonblade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_moonblade/portraits/benedetta_moonblade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "panigale_v4s_rider": {
+      "name": "Panigale V4s Rider",
+      "skin_id": "09706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_panigale_v4s_rider/avatars/benedetta_panigale_v4s_rider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_panigale_v4s_rider/portraits/benedetta_panigale_v4s_rider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "quantum_edge": {
+      "name": "Quantum Edge",
+      "skin_id": "09707",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_quantum_edge/avatars/benedetta_quantum_edge_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_quantum_edge/portraits/benedetta_quantum_edge_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_mirage": {
+      "name": "Phantom Mirage",
+      "skin_id": "09708",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/benedetta/benedetta_phantom_mirage/avatars/benedetta_phantom_mirage_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/benedetta/benedetta_phantom_mirage/portraits/benedetta_phantom_mirage_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "103",
+  "name": "Paquito",
+  "lore": "Paquito was born in a small village in southwestern Moniyan. To survive and prosper in a land like this so far from the royal capital, you had to be strong. And so , he'd had but one dream since he was a little boy: To become the world's strongest fighter.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "the_heavenly_fist": {
+      "name": "The Heavenly Fist",
+      "skin_id": "10301",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_the_heavenly_fist/avatars/paquito_the_heavenly_fist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_the_heavenly_fist/portraits/paquito_the_heavenly_fist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "death_blow": {
+      "name": "Death Blow",
+      "skin_id": "10302",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_death_blow/avatars/paquito_death_blow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_death_blow/portraits/paquito_death_blow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "manny_pacquiao": {
+      "name": "Manny Pacquiao",
+      "skin_id": "10303",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_manny_pacquiao/avatars/paquito_manny_pacquiao_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_manny_pacquiao/portraits/paquito_manny_pacquiao_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "underground_boxer": {
+      "name": "Underground Boxer",
+      "skin_id": "10304",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_underground_boxer/avatars/paquito_underground_boxer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_underground_boxer/portraits/paquito_underground_boxer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fulgent_punch": {
+      "name": "Fulgent Punch",
+      "skin_id": "10305",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_fulgent_punch/avatars/paquito_fulgent_punch_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_fulgent_punch/portraits/paquito_fulgent_punch_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fist_of_light": {
+      "name": "Fist of Light",
+      "skin_id": "10306",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_fist_of_light/avatars/paquito_fist_of_light_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_fist_of_light/portraits/paquito_fist_of_light_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blazing_tiger": {
+      "name": "Blazing Tiger",
+      "skin_id": "10307",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_blazing_tiger/avatars/paquito_blazing_tiger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_blazing_tiger/portraits/paquito_blazing_tiger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "terry_bogard": {
+      "name": "Terry Bogard",
+      "skin_id": "10308",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_terry_bogard/avatars/paquito_terry_bogard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_terry_bogard/portraits/paquito_terry_bogard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fist_of_glory": {
+      "name": "Fist of Glory",
+      "skin_id": "10309",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/paquito/paquito_fist_of_glory/avatars/paquito_fist_of_glory_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/paquito/paquito_fist_of_glory/portraits/paquito_fist_of_glory_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

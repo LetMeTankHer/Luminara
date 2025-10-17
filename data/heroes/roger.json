@@ -1,0 +1,264 @@
+{
+  "id": "039",
+  "name": "Roger",
+  "lore": "Roger was once a human being. During a battle with the werewolf White Fang, he was killed by White Fang's sharp teeth and resurrected as a werewolf. Roger, who had been reborn, vowed to take revenge and eradicate the threat of the werewolves from this world.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "dire_wolf_hunter": {
+      "name": "Dire Wolf Hunter",
+      "skin_id": "03901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_dire_wolf_hunter/avatars/roger_dire_wolf_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_dire_wolf_hunter/portraits/roger_dire_wolf_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dark_gent": {
+      "name": "Dark Gent",
+      "skin_id": "03902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_dark_gent/avatars/roger_dark_gent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_dark_gent/portraits/roger_dark_gent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dr_beast": {
+      "name": "Dr. Beast",
+      "skin_id": "03903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_dr_beast/avatars/roger_dr_beast_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_dr_beast/portraits/roger_dr_beast_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "anubis": {
+      "name": "Anubis",
+      "skin_id": "03904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_anubis/avatars/roger_anubis_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_anubis/portraits/roger_anubis_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_hunter": {
+      "name": "Phantom Hunter",
+      "skin_id": "03905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_phantom_hunter/avatars/roger_phantom_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_phantom_hunter/portraits/roger_phantom_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "raging_hunter": {
+      "name": "Raging Hunter",
+      "skin_id": "03905a",
+      "release_order": 5,
+      "painted_of": "Phantom Hunter",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_raging_hunter/avatars/roger_raging_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_raging_hunter/portraits/roger_raging_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyborg_werewolf": {
+      "name": "Cyborg Werewolf",
+      "skin_id": "03906",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_cyborg_werewolf/avatars/roger_cyborg_werewolf_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_cyborg_werewolf/portraits/roger_cyborg_werewolf_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_ranger": {
+      "name": "Phantom Ranger",
+      "skin_id": "03907",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_phantom_ranger/avatars/roger_phantom_ranger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_phantom_ranger/portraits/roger_phantom_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fiend_haunter": {
+      "name": "Fiend Haunter",
+      "skin_id": "03908",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_fiend_haunter/avatars/roger_fiend_haunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_fiend_haunter/portraits/roger_fiend_haunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "grimlock": {
+      "name": "Grimlock",
+      "skin_id": "03909",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_grimlock/avatars/roger_grimlock_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_grimlock/portraits/roger_grimlock_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "invokers_restraint": {
+      "name": "Invoker's Restraint",
+      "skin_id": "03910",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/roger/roger_invokers_restraint/avatars/roger_invokers_restraint_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/roger/roger_invokers_restraint/portraits/roger_invokers_restraint_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

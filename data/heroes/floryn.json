@@ -1,0 +1,148 @@
+{
+  "id": "112",
+  "name": "Floryn",
+  "lore": "Since the day she was born, Floryn had never stepped out of the Oasis. The latter isolated her from the harsh environment of the desert, allowing her to live a life carefree.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "the_budding_hope": {
+      "name": "The Budding Hope",
+      "skin_id": "11201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/floryn/floryn_the_budding_hope/avatars/floryn_the_budding_hope_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/floryn/floryn_the_budding_hope/portraits/floryn_the_budding_hope_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "springtide": {
+      "name": "Springtide",
+      "skin_id": "11202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/floryn/floryn_springtide/avatars/floryn_springtide_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/floryn/floryn_springtide/portraits/floryn_springtide_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fluffy_dream": {
+      "name": "Fluffy Dream",
+      "skin_id": "11203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/floryn/floryn_fluffy_dream/avatars/floryn_fluffy_dream_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/floryn/floryn_fluffy_dream/portraits/floryn_fluffy_dream_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "paw_power": {
+      "name": "Paw Power",
+      "skin_id": "11204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/floryn/floryn_paw_power/avatars/floryn_paw_power_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/floryn/floryn_paw_power/portraits/floryn_paw_power_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "yatai_waitress": {
+      "name": "Yatai Waitress",
+      "skin_id": "11205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/floryn/floryn_yatai_waitress/avatars/floryn_yatai_waitress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/floryn/floryn_yatai_waitress/portraits/floryn_yatai_waitress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "melody_of_light": {
+      "name": "Melody of Light",
+      "skin_id": "11206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/floryn/floryn_melody_of_light/avatars/floryn_melody_of_light_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/floryn/floryn_melody_of_light/portraits/floryn_melody_of_light_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

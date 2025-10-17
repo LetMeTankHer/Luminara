@@ -1,0 +1,48 @@
+{
+    "hero_selection": {
+        "background": [
+            {
+                "name": "miya_honor_hero_select_bg",
+                "file": "assets/heroes/miya/miya_honor/audio/hero_selection/background/miya_honor_hero_select_bg.mp3",
+                "translation": "",
+                "subtitle": "Honor Hero Select Bg"
+            }
+        ],
+        "dialog": {
+            "arabic": [],
+            "bahasa_indonesia": [],
+            "chinese": [],
+            "english": [],
+            "espanol": [],
+            "japanese": [],
+            "portuguese": [],
+            "russian": [],
+            "tagalog": [],
+            "turkish": []
+        }
+    },
+    "in_game_dialog": {
+        "arabic": [],
+        "bahasa_indonesia": [],
+        "chinese": [],
+        "english": [],
+        "espanol": [],
+        "japanese": [],
+        "portuguese": [],
+        "russian": [],
+        "tagalog": [],
+        "turkish": []
+    },
+    "main_interface_dialog": {
+        "arabic": [],
+        "bahasa_indonesia": [],
+        "chinese": [],
+        "english": [],
+        "espanol": [],
+        "japanese": [],
+        "portuguese": [],
+        "russian": [],
+        "tagalog": [],
+        "turkish": []
+    }
+}

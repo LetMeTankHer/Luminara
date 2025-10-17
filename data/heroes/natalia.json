@@ -1,0 +1,265 @@
+{
+  "id": "024",
+  "name": "Natalia",
+  "lore": "Natalia was orphaned from the war and she was raised as a little girl by the Monastery of Light. Natalia was trained into becoming one of the Light assassins.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "bright_claw": {
+      "name": "Bright Claw",
+      "skin_id": "02401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_bright_claw/avatars/natalia_bright_claw_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_bright_claw/portraits/natalia_bright_claw_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "glass_blade": {
+      "name": "Glass Blade",
+      "skin_id": "02402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_glass_blade/avatars/natalia_glass_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_glass_blade/portraits/natalia_glass_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_dancer": {
+      "name": "Phantom Dancer",
+      "skin_id": "02403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_phantom_dancer/avatars/natalia_phantom_dancer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_phantom_dancer/portraits/natalia_phantom_dancer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deadly_mamba": {
+      "name": "Deadly Mamba",
+      "skin_id": "02404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_deadly_mamba/avatars/natalia_deadly_mamba_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_deadly_mamba/portraits/natalia_deadly_mamba_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rogue_mamba": {
+      "name": "Rogue Mamba",
+      "skin_id": "02404a",
+      "release_order": 4,
+      "painted_of": "Deadly Mamba",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_rogue_mamba/avatars/natalia_rogue_mamba_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_rogue_mamba/portraits/natalia_rogue_mamba_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "midnight_raven": {
+      "name": "Midnight Raven",
+      "skin_id": "02405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_midnight_raven/avatars/natalia_midnight_raven_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_midnight_raven/portraits/natalia_midnight_raven_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crimson_raven": {
+      "name": "Crimson Raven",
+      "skin_id": "02405a",
+      "release_order": 5,
+      "painted_of": "Midnight Raven",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_crimson_raven/avatars/natalia_crimson_raven_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_crimson_raven/portraits/natalia_crimson_raven_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "grim_strangler": {
+      "name": "Grim Strangler",
+      "skin_id": "02406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_grim_strangler/avatars/natalia_grim_strangler_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_grim_strangler/portraits/natalia_grim_strangler_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_spectre": {
+      "name": "Cyber Spectre",
+      "skin_id": "02407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_cyber_spectre/avatars/natalia_cyber_spectre_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_cyber_spectre/portraits/natalia_cyber_spectre_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "warrioress_paragon": {
+      "name": "Warrioress Paragon",
+      "skin_id": "02408",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_warrioress_paragon/avatars/natalia_warrioress_paragon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_warrioress_paragon/portraits/natalia_warrioress_paragon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soul_huntress": {
+      "name": "Soul Huntress",
+      "skin_id": "02409",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/natalia/natalia_soul_huntress/avatars/natalia_soul_huntress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/natalia/natalia_soul_huntress/portraits/natalia_soul_huntress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Luminara/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>...</title>
+    <script type="module" crossorigin src="/Luminara/assets/portrait-BKaFa9Q8.js"></script>
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/preload-helper-DatU6rzX.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/utilities-B1GvWzLx.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/extras-UNMDuSVK.js">
+    <link rel="stylesheet" crossorigin href="/Luminara/assets/preload-helper-B5_9uHTz.css">
+  </head>
+
+  <body class="bg-body">
+    <!-- Navbar -->
+    <div id="navbarContainer"></div>
+
+    <!-- Breadcrumb -->
+    <div class="mt-32 px-6 text-sm text-gray-400">
+      <nav class="flex items-center space-x-2">
+        <a
+          data-path="index.html"
+          class="hover:text-primary text-text-dull cursor-pointer bread-link"
+          >Home</a
+        >
+        <span>&gt;</span>
+        <a
+          data-path="extras.html"
+          class="text-text hover:text-primary cursor-pointer bread-link"
+          >Extras</a
+        >
+        <span>&gt;</span>
+        <span class="text-text font-semibold">Portraits</span>
+      </nav>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-[3fr_1fr] gap-6 px-6 mt-6">
+      <!-- Sidebar / Advertisement -->
+      <aside class="order-1 lg:order-2">
+        <div class="sticky top-28 bg-background rounded-xl shadow-md p-4">
+          <h3 class="font-bold mb-3 text-text">Sponsored</h3>
+          <a href="https://example.com" target="_blank">
+            <img
+              src="/assets/ads/sample-ad.jpg"
+              alt="Advertisement"
+              class="rounded-lg shadow text-text"
+            />
+          </a>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <div class="order-2 lg:order-1 flex flex-col gap-4 w-full mb-6">
+        <!-- Search Bar -->
+        <div class="mb-4">
+          <input
+            type="text"
+            id="heroSearch"
+            placeholder="Search by heroes' name....."
+            class="w-full p-2 rounded-md text-text bg-background placeholder:text-text-dull focus:outline-none focus:ring-2 focus:ring-primary"
+          />
+        </div>
+
+        <div
+          id="heroList"
+          class="flex overflow-x-auto gap-6 py-3 px-2 mb-2 scrollbar-thin scrollbar-thumb-primary scrollbar-track-background relative z-10"
+        ></div>
+
+        <!-- Portraits Container -->
+        <div
+          id="portraitsContainer"
+          class="flex flex-col gap-6 overflow-y-auto p-6 bg-background rounded-md"
+        >
+          <!-- JS will populate hero sections here -->
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

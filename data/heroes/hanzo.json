@@ -1,0 +1,149 @@
+{
+  "id": "069",
+  "name": "Hanzo",
+  "lore": "A genius ninja of the Shadow Sect in the Scarlet Shadow. In order to pursue great power, he absorbed the \"Hanekage\" into his body, and used the enemy's flesh and blood to provide nourishment for the \"Hanekage\".",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "akuma_ninja": {
+      "name": "Akuma Ninja",
+      "skin_id": "06901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanzo/hanzo_akuma_ninja/avatars/hanzo_akuma_ninja_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hanzo/hanzo_akuma_ninja/portraits/hanzo_akuma_ninja_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_pale_phantom": {
+      "name": "The Pale Phantom",
+      "skin_id": "06902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanzo/hanzo_the_pale_phantom/avatars/hanzo_the_pale_phantom_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hanzo/hanzo_the_pale_phantom/portraits/hanzo_the_pale_phantom_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "undead_king": {
+      "name": "Undead King",
+      "skin_id": "06903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanzo/hanzo_undead_king/avatars/hanzo_undead_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hanzo/hanzo_undead_king/portraits/hanzo_undead_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "insidious_tutor": {
+      "name": "Insidious Tutor",
+      "skin_id": "06904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanzo/hanzo_insidious_tutor/avatars/hanzo_insidious_tutor_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hanzo/hanzo_insidious_tutor/portraits/hanzo_insidious_tutor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "evil_tutor": {
+      "name": "Evil Tutor",
+      "skin_id": "06904a",
+      "release_order": 4,
+      "painted_of": "Insidious Tutor",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanzo/hanzo_evil_tutor/avatars/hanzo_evil_tutor_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hanzo/hanzo_evil_tutor/portraits/hanzo_evil_tutor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soulfire_netherlord": {
+      "name": "Soulfire Netherlord",
+      "skin_id": "06905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hanzo/hanzo_soulfire_netherlord/avatars/hanzo_soulfire_netherlord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hanzo/hanzo_soulfire_netherlord/portraits/hanzo_soulfire_netherlord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "102",
+  "name": "Mathilda",
+  "lore": "The tribe where Mathilda lives has guarded the Holy Mountain for generations. Once, members of the tribe rescued a group of sand hunters under Kane, but unexpectedly they bit the hand that fed them by taking the Holy Mountain as their own.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "swift_plume": {
+      "name": "Swift Plume",
+      "skin_id": "10201",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/mathilda/mathilda_swift_plume/avatars/mathilda_swift_plume_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/mathilda/mathilda_swift_plume/portraits/mathilda_swift_plume_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "unrestrained_delight": {
+      "name": "Unrestrained Delight",
+      "skin_id": "10202",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/mathilda/mathilda_unrestrained_delight/avatars/mathilda_unrestrained_delight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/mathilda/mathilda_unrestrained_delight/portraits/mathilda_unrestrained_delight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "floral_crown": {
+      "name": "Floral Crown",
+      "skin_id": "10203",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/mathilda/mathilda_floral_crown/avatars/mathilda_floral_crown_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/mathilda/mathilda_floral_crown/portraits/mathilda_floral_crown_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dream_groove": {
+      "name": "Dream Groove",
+      "skin_id": "10204",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/mathilda/mathilda_dream_groove/avatars/mathilda_dream_groove_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/mathilda/mathilda_dream_groove/portraits/mathilda_dream_groove_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "arcane_verdict": {
+      "name": "Arcane Verdict",
+      "skin_id": "10205",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/mathilda/mathilda_arcane_verdict/avatars/mathilda_arcane_verdict_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/mathilda/mathilda_arcane_verdict/portraits/mathilda_arcane_verdict_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dreambound_pixie": {
+      "name": "Dreambound Pixie",
+      "skin_id": "10206",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/mathilda/mathilda_dreambound_pixie/avatars/mathilda_dreambound_pixie_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/mathilda/mathilda_dreambound_pixie/portraits/mathilda_dreambound_pixie_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

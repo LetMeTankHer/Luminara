@@ -1,0 +1,311 @@
+{
+  "id": "025",
+  "name": "Kagura",
+  "lore": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path. When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "onmyouji_master": {
+      "name": "Onmyouji Master",
+      "skin_id": "02501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_onmyouji_master/avatars/kagura_onmyouji_master_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_onmyouji_master/portraits/kagura_onmyouji_master_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flower_season": {
+      "name": "Flower Season",
+      "skin_id": "02502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_flower_season/avatars/kagura_flower_season_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_flower_season/portraits/kagura_flower_season_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cherry_witch": {
+      "name": "Cherry Witch",
+      "skin_id": "02503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_cherry_witch/avatars/kagura_cherry_witch_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_cherry_witch/portraits/kagura_cherry_witch_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "amethyst_wizard": {
+      "name": "Amethyst Wizard",
+      "skin_id": "02503a",
+      "release_order": 3,
+      "painted_of": "Cherry Witch",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_amethyst_wizard/avatars/kagura_amethyst_wizard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_amethyst_wizard/portraits/kagura_amethyst_wizard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_festival": {
+      "name": "Summer Festival",
+      "skin_id": "02504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_summer_festival/avatars/kagura_summer_festival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_summer_festival/portraits/kagura_summer_festival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pink_summer_festival": {
+      "name": "Pink Summer Festival",
+      "skin_id": "02504a",
+      "release_order": 4,
+      "painted_of": "Summer Festival",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_pink_summer_festival/avatars/kagura_pink_summer_festival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_pink_summer_festival/portraits/kagura_pink_summer_festival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragon_maiden": {
+      "name": "Dragon Maiden",
+      "skin_id": "02505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_dragon_maiden/avatars/kagura_dragon_maiden_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_dragon_maiden/portraits/kagura_dragon_maiden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rainy_walk": {
+      "name": "Rainy Walk",
+      "skin_id": "02506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_rainy_walk/avatars/kagura_rainy_walk_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_rainy_walk/portraits/kagura_rainy_walk_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "water_lily": {
+      "name": "Water Lily",
+      "skin_id": "02507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_water_lily/avatars/kagura_water_lily_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_water_lily/portraits/kagura_water_lily_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exorcist_kagura": {
+      "name": "Exorcist Kagura",
+      "skin_id": "02508",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_exorcist_kagura/avatars/kagura_exorcist_kagura_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_exorcist_kagura/portraits/kagura_exorcist_kagura_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "beyond_the_clouds_kagura": {
+      "name": "Beyond the Clouds Kagura",
+      "skin_id": "02509",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_beyond_the_clouds_kagura/avatars/kagura_beyond_the_clouds_kagura_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_beyond_the_clouds_kagura/portraits/kagura_beyond_the_clouds_kagura_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jade_blossom": {
+      "name": "Jade Blossom",
+      "skin_id": "02510",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_jade_blossom/avatars/kagura_jade_blossom_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_jade_blossom/portraits/kagura_jade_blossom_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lady_parasol": {
+      "name": "Lady Parasol",
+      "skin_id": "02511",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/kagura/kagura_lady_parasol/avatars/kagura_lady_parasol_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/kagura/kagura_lady_parasol/portraits/kagura_lady_parasol_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

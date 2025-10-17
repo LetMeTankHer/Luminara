@@ -1,0 +1,164 @@
+{
+  "emblems": [
+    {
+      "name": "Basic Common",
+      "file": "assets/ui_assets/emblems/basic_common_emblem.png",
+      "core": [
+        {
+          "name": "Impure Rage",
+          "file": "assets/ui_assets/emblems/impure_rage_talent.png"
+        },
+        {
+          "name": "Quantum Charge",
+          "file": "assets/ui_assets/emblems/quantum_charge_talent.png"
+        },
+        {
+          "name": "War Cry",
+          "file": "assets/ui_assets/emblems/war_cry_talent.png"
+        },
+        {
+          "name": "Temporal Reign",
+          "file": "assets/ui_assets/emblems/temporal_reign_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Thrill",
+          "file": "assets/ui_assets/emblems/thrill_talent.png"
+        },
+        {
+          "name": "Swift",
+          "file": "assets/ui_assets/emblems/swift_talent.png"
+        },
+        {
+          "name": "Wilderness Blessing",
+          "file": "assets/ui_assets/emblems/wilderness_blessing_talent.png"
+        },
+        {
+          "name": "Seasoned Hunter",
+          "file": "assets/ui_assets/emblems/seasoned_hunter_talent.png"
+        }
+      ]
+    },
+    {
+      "name": "Tank",
+      "file": "assets/ui_assets/emblems/tank_emblem.png",
+      "core": [
+        {
+          "name": "Concussive Blast",
+          "file": "assets/ui_assets/emblems/concussive_blast_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Vitality",
+          "file": "assets/ui_assets/emblems/vitality_talent.png"
+        },
+        {
+          "name": "Tenacity",
+          "file": "assets/ui_assets/emblems/tenacity_talent.png"
+        }
+      ]
+    },
+    {
+      "name": "Assassin",
+      "file": "assets/ui_assets/emblems/assassin_emblem.png",
+      "core": [
+        {
+          "name": "Killing Spree",
+          "file": "assets/ui_assets/emblems/killing_spree_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Rupture",
+          "file": "assets/ui_assets/emblems/rupture_talent.png"
+        },
+        {
+          "name": "Master Assassin",
+          "file": "assets/ui_assets/emblems/master_assassin_talent.png"
+        }
+      ]
+    },
+    {
+      "name": "Mage",
+      "file": "assets/ui_assets/emblems/mage_emblem.png",
+      "core": [
+        {
+          "name": "Lethal Ignition",
+          "file": "assets/ui_assets/emblems/lethal_ignition_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Inspire",
+          "file": "assets/ui_assets/emblems/inspire_talent.png"
+        },
+        {
+          "name": "Bargain Hunter",
+          "file": "assets/ui_assets/emblems/bargain_hunter_talent.png"
+        }
+      ]
+    },
+    {
+      "name": "Fighter",
+      "file": "assets/ui_assets/emblems/fighter_emblem.png",
+      "core": [
+        {
+          "name": "Brave Smite",
+          "file": "assets/ui_assets/emblems/brave_smite_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Firmness",
+          "file": "assets/ui_assets/emblems/firmness_talent.png"
+        },
+        {
+          "name": "Festival of Blood",
+          "file": "assets/ui_assets/emblems/festival_of_blood_talent.png"
+        }
+      ]
+    },
+    {
+      "name": "Suport",
+      "file": "assets/ui_assets/emblems/support_emblem.png",
+      "core": [
+        {
+          "name": "Focusing Mark",
+          "file": "assets/ui_assets/emblems/focusing_mark_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Agility",
+          "file": "assets/ui_assets/emblems/agility_talent.png"
+        },
+        {
+          "name": "Pull Yourself Together",
+          "file": "assets/ui_assets/emblems/pull_yourself_together_talent.png"
+        }
+      ]
+    },
+    {
+      "name": "Marksman",
+      "file": "assets/ui_assets/emblems/marksman_emblem.png",
+      "core": [
+        {
+          "name": "Weakness Finder",
+          "file": "assets/ui_assets/emblems/weakness_finder_talent.png"
+        }
+      ],
+      "standard": [
+        {
+          "name": "Fatal",
+          "file": "assets/ui_assets/emblems/fatal_talent.png"
+        },
+        {
+          "name": "Weapon Master",
+          "file": "assets/ui_assets/emblems/weapon_master_talent.png"
+        }
+      ]
+    }
+  ]
+}

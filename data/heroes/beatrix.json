@@ -1,0 +1,218 @@
+{
+  "id": "105",
+  "name": "Beatrix",
+  "lore": "A year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks. Unlike the other newcomers, this young girl named Beatrix seemed to possess profound knowledge of and astonishing talent for science.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "dawnbreak_soldier": {
+      "name": "Dawnbreak Soldier",
+      "skin_id": "10501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_dawnbreak_soldier/avatars/beatrix_dawnbreak_soldier_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_dawnbreak_soldier/portraits/beatrix_dawnbreak_soldier_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "x_factor": {
+      "name": "X Factor",
+      "skin_id": "10502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_x_factor/avatars/beatrix_x_factor_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_x_factor/portraits/beatrix_x_factor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blitz_attack": {
+      "name": "Blitz Attack",
+      "skin_id": "10503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_blitz_attack/avatars/beatrix_blitz_attack_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_blitz_attack/portraits/beatrix_blitz_attack_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "space_agent": {
+      "name": "Space Agent",
+      "skin_id": "10504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_space_agent/avatars/beatrix_space_agent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_space_agent/portraits/beatrix_space_agent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "light_chaser": {
+      "name": "Light Chaser",
+      "skin_id": "10505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_light_chaser/avatars/beatrix_light_chaser_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_light_chaser/portraits/beatrix_light_chaser_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "light_seeker": {
+      "name": "Light Seeker",
+      "skin_id": "10505a",
+      "release_order": 5,
+      "painted_of": "Light Chaser",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_light_seeker/avatars/beatrix_light_seeker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_light_seeker/portraits/beatrix_light_seeker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "stellar_briliance": {
+      "name": "Stellar Briliance",
+      "skin_id": "10506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_stellar_briliance/avatars/beatrix_stellar_briliance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_stellar_briliance/portraits/beatrix_stellar_briliance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "vibrant_fiesta": {
+      "name": "Vibrant Fiesta",
+      "skin_id": "10507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_vibrant_fiesta/avatars/beatrix_vibrant_fiesta_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_vibrant_fiesta/portraits/beatrix_vibrant_fiesta_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sky_force_maverick": {
+      "name": "Sky Force Maverick",
+      "skin_id": "10510",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/beatrix/beatrix_sky_force_maverick/avatars/beatrix_sky_force_maverick_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/beatrix/beatrix_sky_force_maverick/portraits/beatrix_sky_force_maverick_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "id": "100",
+  "name": "Brody",
+  "lore": "Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons. In countless battles, Brody gradually recalled his past.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "the_lone_star": {
+      "name": "The Lone Star",
+      "skin_id": "10001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_the_lone_star/avatars/brody_the_lone_star_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_the_lone_star/portraits/brody_the_lone_star_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nameless_stray": {
+      "name": "Nameless Stray",
+      "skin_id": "10002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_nameless_stray/avatars/brody_nameless_stray_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_nameless_stray/portraits/brody_nameless_stray_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "stun_brody": {
+      "name": "Stun Brody",
+      "skin_id": "10003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_stun_brody/avatars/brody_stun_brody_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_stun_brody/portraits/brody_stun_brody_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lethal_fang": {
+      "name": "Lethal Fang",
+      "skin_id": "10004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_lethal_fang/avatars/brody_lethal_fang_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_lethal_fang/portraits/brody_lethal_fang_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ore_chemist": {
+      "name": "Ore Chemist",
+      "skin_id": "10005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_ore_chemist/avatars/brody_ore_chemist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_ore_chemist/portraits/brody_ore_chemist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "quantum_grip": {
+      "name": "Quantum Grip",
+      "skin_id": "10006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_quantum_grip/avatars/brody_quantum_grip_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_quantum_grip/portraits/brody_quantum_grip_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "apbren": {
+      "name": "APBren",
+      "skin_id": "10007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_apbren/avatars/brody_apbren_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_apbren/portraits/brody_apbren_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neobeast_brody": {
+      "name": "Neobeast Brody",
+      "skin_id": "10008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/brody/brody_neobeast_brody/avatars/brody_neobeast_brody_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/brody/brody_neobeast_brody/portraits/brody_neobeast_brody_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

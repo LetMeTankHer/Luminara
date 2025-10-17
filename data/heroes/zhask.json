@@ -1,0 +1,220 @@
+{
+  "id": "050",
+  "name": "Zhask",
+  "lore": "Zhask expanded his swarm as he pleased in the universe, disrupting its balance in the process. Yve pursued him, but Zhask was able to escape every time.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "the_king_of_swarms": {
+      "name": "The King of Swarms",
+      "skin_id": "05001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_the_king_of_swarms/avatars/zhask_the_king_of_swarms_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_the_king_of_swarms/portraits/zhask_the_king_of_swarms_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crystallized_predator": {
+      "name": "Crystallized Predator",
+      "skin_id": "05002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_crystallized_predator/avatars/zhask_crystallized_predator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_crystallized_predator/portraits/zhask_crystallized_predator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bone_flamen": {
+      "name": "Bone Flamen",
+      "skin_id": "05003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_bone_flamen/avatars/zhask_bone_flamen_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_bone_flamen/portraits/zhask_bone_flamen_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cancer": {
+      "name": "Cancer",
+      "skin_id": "05004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_cancer/avatars/zhask_cancer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_cancer/portraits/zhask_cancer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "extraterrestrial": {
+      "name": "Extraterrestrial",
+      "skin_id": "05005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_extraterrestrial/avatars/zhask_extraterrestrial_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_extraterrestrial/portraits/zhask_extraterrestrial_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "terrant_deviant": {
+      "name": "Terrant Deviant",
+      "skin_id": "05005a",
+      "release_order": 5,
+      "painted_of": "Extraterrestrial",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_terrant_deviant/avatars/zhask_terrant_deviant_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_terrant_deviant/portraits/zhask_terrant_deviant_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deaths_shadow": {
+      "name": "Death's Shadow",
+      "skin_id": "05006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_deaths_shadow/avatars/zhask_deaths_shadow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_deaths_shadow/portraits/zhask_deaths_shadow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deaths_harbinger": {
+      "name": "Death's Harbinger",
+      "skin_id": "05006a",
+      "release_order": 6,
+      "painted_of": "Death's Shadow",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_deaths_harbinger/avatars/zhask_deaths_harbinger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_deaths_harbinger/portraits/zhask_deaths_harbinger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deaths_omen": {
+      "name": "Death's Omen",
+      "skin_id": "05006b",
+      "release_order": 6,
+      "painted_of": "Death's Shadow",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/zhask/zhask_deaths_omen/avatars/zhask_deaths_omen_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/zhask/zhask_deaths_omen/portraits/zhask_deaths_omen_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

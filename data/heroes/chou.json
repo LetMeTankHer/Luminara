@@ -1,0 +1,334 @@
+{
+  "id": "026",
+  "name": "Chou",
+  "lore": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "kung_fu_boy": {
+      "name": "Kung Fu Boy",
+      "skin_id": "02601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_kung_fu_boy/avatars/chou_kung_fu_boy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_kung_fu_boy/portraits/chou_kung_fu_boy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hip_hop_boy": {
+      "name": "Hip Hop Boy",
+      "skin_id": "02602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_hip_hop_boy/avatars/chou_hip_hop_boy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_hip_hop_boy/portraits/chou_hip_hop_boy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragon_boy": {
+      "name": "Dragon Boy",
+      "skin_id": "02603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_dragon_boy/avatars/chou_dragon_boy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_dragon_boy/portraits/chou_dragon_boy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "king_of_muay_thai": {
+      "name": "King of Muay Thai",
+      "skin_id": "02604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_king_of_muay_thai/avatars/chou_king_of_muay_thai_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_king_of_muay_thai/portraits/chou_king_of_muay_thai_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "undefeated_champion": {
+      "name": "Undefeated Champion",
+      "skin_id": "02604a",
+      "release_order": 4,
+      "painted_of": "King of Muay Thai",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_undefeated_champion/avatars/chou_undefeated_champion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_undefeated_champion/portraits/chou_undefeated_champion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "furious_tiger": {
+      "name": "Furious Tiger",
+      "skin_id": "02605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_furious_tiger/avatars/chou_furious_tiger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_furious_tiger/portraits/chou_furious_tiger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "red_tiger": {
+      "name": "Red Tiger",
+      "skin_id": "02605a",
+      "release_order": 5,
+      "painted_of": "Furious Tiger",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_red_tiger/avatars/chou_red_tiger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_red_tiger/portraits/chou_red_tiger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "iori_yagami": {
+      "name": "Iori Yagami",
+      "skin_id": "02607",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_iori_yagami/avatars/chou_iori_yagami_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_iori_yagami/portraits/chou_iori_yagami_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "go_ballistic": {
+      "name": "Go Ballistic",
+      "skin_id": "02607a",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_go_ballistic/avatars/chou_go_ballistic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_go_ballistic/portraits/chou_go_ballistic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "thunderfist": {
+      "name": "Thunderfist",
+      "skin_id": "02608",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_thunderfist/avatars/chou_thunderfist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_thunderfist/portraits/chou_thunderfist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "stun_chou": {
+      "name": "Stun Chou",
+      "skin_id": "02609",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_stun_chou/avatars/chou_stun_chou_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_stun_chou/portraits/chou_stun_chou_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragon_shiryu": {
+      "name": "Dragon Shiryu",
+      "skin_id": "02610",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_dragon_shiryu/avatars/chou_dragon_shiryu_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_dragon_shiryu/portraits/chou_dragon_shiryu_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "libra_shiryu": {
+      "name": "Libra Shiryu",
+      "skin_id": "02611",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_libra_shiryu/avatars/chou_libra_shiryu_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_libra_shiryu/portraits/chou_libra_shiryu_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "echo": {
+      "name": "Echo",
+      "skin_id": "02612",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chou/chou_echo/avatars/chou_echo_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chou/chou_echo/portraits/chou_echo_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

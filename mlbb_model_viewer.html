@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Luminara/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>...</title>
+    <script type="module" crossorigin src="/Luminara/assets/mlbb_model_viewer-DxN8zHYL.js"></script>
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/preload-helper-DatU6rzX.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/utilities-B1GvWzLx.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/GLTFLoader-geCNiA8N.js">
+    <link rel="stylesheet" crossorigin href="/Luminara/assets/preload-helper-B5_9uHTz.css">
+  </head>
+
+  <body class="bg-body">
+    <!-- Navbar -->
+    <div id="navbarContainer"></div>
+
+    <!-- Breadcrumb -->
+    <div class="mt-32 px-6 text-sm text-gray-400">
+      <nav class="breadcrumb flex items-center space-x-2">
+        <a
+          data-path="index.html"
+          class="hover:text-primary text-text-dull cursor-pointer bread-link"
+          >Home</a
+        >
+        <span>&gt;</span>
+        <a
+          data-path="heroes.html"
+          class="hover:text-primary text-text-dull cursor-pointer bread-link"
+          >Heroes</a
+        >
+        <span>&gt;</span>
+        <a href="#" class="hero-name font-semibold hover:text-primary"
+          >Hero Name</a
+        >
+        <span>&gt;</span>
+        <div class="relative inline-block">
+          <button
+            id="skin-dropdown-btn"
+            class="px-2 py-0.5 text-text cursor-pointer flex items-center gap-1"
+          >
+            <span id="skin-dropdown-current">Select Skin</span>
+            <i class="fa-solid fa-chevron-down text-sm"></i>
+          </button>
+          <ul
+            id="skin-dropdown-list"
+            class="absolute left-0 mt-1 min-w-[200px] w-auto max-w-xs overflow-auto border rounded bg-background shadow-lg hidden z-50"
+          >
+            <!-- Skin items populated dynamically -->
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+    <!-- Main Box -->
+    <div class="grid grid-cols-1 lg:grid-cols-5 gap-4 px-6 my-6">
+      <!-- Left Section (model + info) -->
+      <div
+        class="order-2 lg:order-1 lg:col-span-4 flex flex-col lg:flex-row rounded-xl border bg-body shadow-md overflow-hidden h-[600px] scrollbar-thin scrollbar-thumb-primary scrollbar-track-background"
+      >
+        <!-- Model Viewer (sticky on lg) -->
+        <div
+          class="flex-1 flex items-center justify-center bg-background min-w-[200px] lg:sticky lg:top-0 h-64 lg:h-[600px]"
+        >
+          <canvas class="mlbb_hero_viewer w-full h-full"></canvas>
+        </div>
+
+        <!-- Resizer Handle -->
+        <div
+          id="resizer"
+          class="hidden lg:flex w-2 h-full bg-text-dull cursor-col-resize hover:bg-primary relative flex-col justify-center items-center transition"
+        >
+          <!-- Grip dots (vertical) -->
+          <div class="flex flex-col gap-1 h-10">
+            <span class="w-1 h-1 bg-background rounded-full"></span>
+            <span class="w-1 h-1 bg-background rounded-full"></span>
+            <span class="w-1 h-1 bg-background rounded-full"></span>
+          </div>
+        </div>
+
+        <!-- Extra Information (scrollable) -->
+        <div
+          id="information"
+          class="overflow-y-auto p-2 bg-body flex-shrink min-w-[300px] w-full lg:w-[300px] max-h-64 lg:max-h-[600px]"
+        >
+          <div class="flex flex-col gap-4 w-full min-w-0">
+            <!-- Ads Box -->
+            <div
+              class="w-full rounded-lg shadow p-4 flex items-center justify-center h-48 bg-background border border-text-dull"
+            >
+              <span class="text-text-dull">Advertisement Space</span>
+            </div>
+
+            <!-- Hero Panel -->
+            <div
+              id="hero-panel"
+              class="panel flex flex-col border-b-2 border-text-dull w-full min-w-0"
+            >
+              <!-- Panel Header -->
+              <div
+                id="hero-header"
+                class="panel-header flex items-center justify-between cursor-pointer py-2 px-1"
+              >
+                <div class="flex items-center gap-2 text-text font-semibold">
+                  <i class="fa-solid fa-circle-info"></i>
+                  <span>Hero Info</span>
+                </div>
+                <i
+                  class="fa-solid fa-chevron-down text-text-dull transition-transform duration-200"
+                ></i>
+              </div>
+
+              <!-- Panel Content -->
+              <div
+                id="hero-content"
+                class="panel-content flex flex-col gap-4 p-3 hidden w-full min-w-0"
+              >
+                <!-- Hero Info (Avatar + Name) -->
+                <div class="flex items-center gap-4 w-full min-w-0">
+                  <img
+                    id="hero-avatar"
+                    src=""
+                    alt="Avatar"
+                    class="w-20 h-20 rounded-lg object-cover"
+                  />
+                  <h2
+                    id="skin-name"
+                    class="text-lg font-bold text-text truncate"
+                  ></h2>
+                </div>
+
+                <!-- Lore -->
+                <div
+                  id="skin-lore-box"
+                  class="text-sm leading-relaxed text-text-dull break-words w-full min-w-0"
+                >
+                  <p id="skin-lore" class="w-full">Lore will appear here...</p>
+                </div>
+
+                <!-- Buttons -->
+                <div class="flex flex-col gap-4 w-full min-w-0">
+                  <button
+                    id="btn-splash"
+                    class="flex items-center justify-center gap-2 text-text rounded-lg w-full py-2 border border-text-dull hover:bg-background/80"
+                  >
+                    <i class="fas fa-image"></i> Splash Art
+                  </button>
+                  <button
+                    id="btn-portrait"
+                    class="flex items-center justify-center gap-2 text-text rounded-lg w-full py-2 border border-text-dull hover:bg-background/80"
+                  >
+                    <i class="fas fa-user"></i> Portrait
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Variation Panel -->
+            <div
+              id="variation-panel"
+              class="panel flex flex-col border-b-2 border-text-dull w-full min-w-0"
+            >
+              <div
+                id="variation-header"
+                class="panel-header flex items-center justify-between cursor-pointer py-2 px-1"
+              >
+                <div class="flex items-center gap-2 text-text font-semibold">
+                  <i class="fa-solid fa-palette"></i>
+                  <span>Variation</span>
+                </div>
+                <i
+                  class="fa-solid fa-chevron-down text-text-dull transition-transform duration-200"
+                ></i>
+              </div>
+
+              <div
+                id="variation-content"
+                class="panel-content flex flex-col gap-4 p-3 hidden w-full min-w-0"
+              >
+                <!-- Models -->
+                <div class="text-text flex flex-col gap-2 w-full min-w-0">
+                  <span class="font-bold">Models</span>
+                  <div class="models-list flex gap-2 w-full min-w-0"></div>
+                </div>
+
+                <!-- Painted Variations -->
+                <div class="painted-list text-text w-full min-w-0">
+                  <span class="font-bold">Painted</span>
+                  <div class="painted mt-2 flex flex-wrap gap-3"></div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Animation Panel -->
+            <div
+              id="animation-panel"
+              class="panel flex flex-col border-b-2 border-text-dull w-full min-w-0"
+            >
+              <div
+                id="animation-header"
+                class="panel-header flex items-center justify-between cursor-pointer py-2 px-1"
+              >
+                <div class="flex items-center gap-2 text-text font-semibold">
+                  <i class="fa-solid fa-film"></i>
+                  <span>Animations</span>
+                </div>
+                <i
+                  class="fa-solid fa-chevron-down text-text-dull transition-transform duration-200"
+                ></i>
+              </div>
+
+              <div
+                id="animation-content"
+                class="panel-content flex flex-col gap-4 p-3 hidden w-full min-w-0"
+              >
+                <!-- First Row: Previous | Animation Name | Next -->
+                <div class="flex items-center gap-2 min-w-0 w-full">
+                  <button
+                    class="flex items-center justify-center w-10 h-10 rounded bg-background hover:bg-background/80 text-text transition border border-text-dull flex-shrink-0"
+                    id="btn-prev"
+                  >
+                    <i class="fas fa-chevron-left"></i>
+                  </button>
+
+                  <button
+                    id="btn-animation-list"
+                    class="flex-1 flex items-center justify-center gap-2 rounded bg-background hover:bg-background/80 text-text transition font-semibold border border-text-dull h-10 min-w-0 overflow-hidden"
+                  >
+                    <i class="fas fa-film flex-shrink-0"></i>
+                    <span
+                      id="current-animation"
+                      class="text-text overflow-hidden whitespace-nowrap text-ellipsis"
+                      style="max-width: calc(100% - 20px)"
+                      >Idle</span
+                    >
+                  </button>
+
+                  <button
+                    class="flex items-center justify-center w-10 h-10 rounded bg-background hover:bg-background/80 text-text transition border border-text-dull flex-shrink-0"
+                    id="btn-next"
+                  >
+                    <i class="fas fa-chevron-right"></i>
+                  </button>
+                </div>
+
+                <!-- Second Row: Pause | Progress Bar | Speed -->
+                <div class="flex items-center gap-2 min-w-0 w-full">
+                  <button
+                    id="btn-playpause"
+                    class="flex items-center justify-center w-10 h-10 rounded bg-background hover:bg-background/80 text-text transition border border-text-dull flex-shrink-0"
+                  >
+                    <i class="fas fa-pause"></i>
+                  </button>
+
+                  <input
+                    type="range"
+                    id="progress-bar"
+                    min="0"
+                    max="100"
+                    value="0"
+                    class="flex-1 h-1 rounded-lg accent-primary min-w-0"
+                  />
+
+                  <button
+                    id="btn-speed"
+                    class="flex items-center justify-center gap-1 px-3 py-1 rounded bg-background hover:bg-background/80 text-text transition border border-text-dull h-10 flex-shrink-0"
+                  >
+                    <span>1x</span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Section (20%): Advertisement -->
+      <aside class="order-1 lg:order-2 lg:col-span-1">
+        <div
+          class="sticky top-28 bg-background border rounded-xl shadow-md p-4"
+        >
+          <h3 class="font-bold mb-3 text-text">Sponsored</h3>
+          <a href="https://example.com" target="_blank">
+            <img
+              src="/assets/ads/sample-ad.jpg"
+              alt="Advertisement"
+              class="rounded-lg shadow"
+            />
+          </a>
+        </div>
+      </aside>
+    </div>
+  </body>
+</html>

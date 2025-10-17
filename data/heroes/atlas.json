@@ -1,0 +1,144 @@
+{
+  "id": "093",
+  "name": "Atlas",
+  "lore": "Atlas is one of the ancient Abysmal Sea creature, sealed in the deep sea by the Ancient Ones. Atlas found the Mecha built by Iceland Golems in the Abysmal Sea in the past.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "ocean_gladiator": {
+      "name": "Ocean Gladiator",
+      "skin_id": "09301",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_ocean_gladiator/avatars/atlas_ocean_gladiator_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_ocean_gladiator/portraits/atlas_ocean_gladiator_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "reactor_core": {
+      "name": "Reactor Core",
+      "skin_id": "09302",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_reactor_core/avatars/atlas_reactor_core_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_reactor_core/portraits/atlas_reactor_core_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fuel_turbine": {
+      "name": "Fuel Turbine",
+      "skin_id": "09303",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_fuel_turbine/avatars/atlas_fuel_turbine_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_fuel_turbine/portraits/atlas_fuel_turbine_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "battle_turbine": {
+      "name": "Battle Turbine",
+      "skin_id": "09303a",
+      "release_order": 3,
+      "painted_of": "Fuel Turbine",
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_battle_turbine/avatars/atlas_battle_turbine_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_battle_turbine/portraits/atlas_battle_turbine_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "space_mech": {
+      "name": "Space Mech",
+      "skin_id": "09304",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_space_mech/avatars/atlas_space_mech_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_space_mech/portraits/atlas_space_mech_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rune_of_sentinel": {
+      "name": "Rune of Sentinel",
+      "skin_id": "09305",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_rune_of_sentinel/avatars/atlas_rune_of_sentinel_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_rune_of_sentinel/portraits/atlas_rune_of_sentinel_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mecha_infernus": {
+      "name": "Mecha Infernus",
+      "skin_id": "09306",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/atlas/atlas_mecha_infernus/avatars/atlas_mecha_infernus_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/atlas/atlas_mecha_infernus/portraits/atlas_mecha_infernus_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

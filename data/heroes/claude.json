@@ -1,0 +1,358 @@
+{
+  "id": "065",
+  "name": "Claude",
+  "lore": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "master_thief": {
+      "name": "Master Thief",
+      "skin_id": "06501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_master_thief/avatars/claude_master_thief_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_master_thief/portraits/claude_master_thief_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "golden_bullet": {
+      "name": "Golden Bullet",
+      "skin_id": "06502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_golden_bullet/avatars/claude_golden_bullet_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_golden_bullet/portraits/claude_golden_bullet_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "plunderous_pirate": {
+      "name": "Plunderous Pirate",
+      "skin_id": "06503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_plunderous_pirate/avatars/claude_plunderous_pirate_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_plunderous_pirate/portraits/claude_plunderous_pirate_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mecha_dragon": {
+      "name": "Mecha Dragon",
+      "skin_id": "06504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_mecha_dragon/avatars/claude_mecha_dragon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_mecha_dragon/portraits/claude_mecha_dragon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_chill": {
+      "name": "Summer Chill",
+      "skin_id": "06505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_summer_chill/avatars/claude_summer_chill_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_summer_chill/portraits/claude_summer_chill_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_cool": {
+      "name": "Summer Cool",
+      "skin_id": "06505a",
+      "release_order": 5,
+      "painted_of": "Summer Chill",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_summer_cool/avatars/claude_summer_cool_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_summer_cool/portraits/claude_summer_cool_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "christmas_carnival": {
+      "name": "Christmas Carnival",
+      "skin_id": "06506",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_christmas_carnival/avatars/claude_christmas_carnival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_christmas_carnival/portraits/claude_christmas_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "earths_mightiest": {
+      "name": "Earth's Mightiest",
+      "skin_id": "06507",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_earths_mightiest/avatars/claude_earths_mightiest_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_earths_mightiest/portraits/claude_earths_mightiest_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "msc_mightiest": {
+      "name": "MSC Mightiest",
+      "skin_id": "06507a",
+      "release_order": 7,
+      "painted_of": "Earth's Mightiest",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_msc_mightiest/avatars/claude_msc_mightiest_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_msc_mightiest/portraits/claude_msc_mightiest_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blazing_trace": {
+      "name": "Blazing Trace",
+      "skin_id": "06508",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_blazing_trace/avatars/claude_blazing_trace_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_blazing_trace/portraits/claude_blazing_trace_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bad_bro": {
+      "name": "Bad Bro",
+      "skin_id": "06509",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_bad_bro/avatars/claude_bad_bro_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_bad_bro/portraits/claude_bad_bro_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "heart_aflame": {
+      "name": "Heart Aflame",
+      "skin_id": "06510",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_heart_aflame/avatars/claude_heart_aflame_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_heart_aflame/portraits/claude_heart_aflame_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "challengers_spark": {
+      "name": "Challenger's Spark",
+      "skin_id": "06511",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_challengers_spark/avatars/claude_challengers_spark_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_challengers_spark/portraits/claude_challengers_spark_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "challengers_flare": {
+      "name": "Challenger's Flare",
+      "skin_id": "06511a",
+      "release_order": 11,
+      "painted_of": "Challenger's Spark",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_challengers_flare/avatars/claude_challengers_flare_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_challengers_flare/portraits/claude_challengers_flare_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cosmic_blaze": {
+      "name": "Cosmic Blaze",
+      "skin_id": "06512",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/claude/claude_cosmic_blaze/avatars/claude_cosmic_blaze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/claude/claude_cosmic_blaze/portraits/claude_cosmic_blaze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

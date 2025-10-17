@@ -1,0 +1,242 @@
+{
+  "id": "051",
+  "name": "Helcurt",
+  "lore": "Helcurt was born into the Styx Clan of the Abyss and bore the stigma of his clan's betrayal against the Lord of the Abyss. However, in a twist of fate, he was put on the Tribunal tasked with executing traitors for the Lord.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "shadowbringer": {
+      "name": "Shadowbringer",
+      "skin_id": "05101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_shadowbringer/avatars/helcurt_shadowbringer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_shadowbringer/portraits/helcurt_shadowbringer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exoracial_executer": {
+      "name": "Exoracial Executer",
+      "skin_id": "05102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_exoracial_executer/avatars/helcurt_exoracial_executer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_exoracial_executer/portraits/helcurt_exoracial_executer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ice_scythe": {
+      "name": "Ice Scythe",
+      "skin_id": "05103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_ice_scythe/avatars/helcurt_ice_scythe_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_ice_scythe/portraits/helcurt_ice_scythe_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "evolved_predator": {
+      "name": "Evolved Predator",
+      "skin_id": "05104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_evolved_predator/avatars/helcurt_evolved_predator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_evolved_predator/portraits/helcurt_evolved_predator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fatal_stinger": {
+      "name": "Fatal Stinger",
+      "skin_id": "05104a",
+      "release_order": 4,
+      "painted_of": "Evolved Predator",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_fatal_stinger/avatars/helcurt_fatal_stinger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_fatal_stinger/portraits/helcurt_fatal_stinger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scorpio": {
+      "name": "Scorpio",
+      "skin_id": "05105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_scorpio/avatars/helcurt_scorpio_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_scorpio/portraits/helcurt_scorpio_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dream_prowler": {
+      "name": "Dream Prowler",
+      "skin_id": "05106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_dream_prowler/avatars/helcurt_dream_prowler_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_dream_prowler/portraits/helcurt_dream_prowler_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_prowler": {
+      "name": "Phantom Prowler",
+      "skin_id": "05106a",
+      "release_order": 6,
+      "painted_of": "Dream Prowler",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_phantom_prowler/avatars/helcurt_phantom_prowler_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_phantom_prowler/portraits/helcurt_phantom_prowler_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_infiltrator": {
+      "name": "Cyber Infiltrator",
+      "skin_id": "05107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_cyber_infiltrator/avatars/helcurt_cyber_infiltrator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_cyber_infiltrator/portraits/helcurt_cyber_infiltrator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "kaiju_of_the_deep": {
+      "name": "Kaiju of the Deep",
+      "skin_id": "05108",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/helcurt/helcurt_kaiju_of_the_deep/avatars/helcurt_kaiju_of_the_deep_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/helcurt/helcurt_kaiju_of_the_deep/portraits/helcurt_kaiju_of_the_deep_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

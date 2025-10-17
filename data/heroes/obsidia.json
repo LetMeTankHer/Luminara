@@ -1,0 +1,136 @@
+{
+  "id": "130",
+  "name": "Obsidia",
+  "lore": "Deep in the vast, dark depths of the Abyss, Obsidia hunts. The stench of rot emanates from ancient blood, like beacons flickering in the darkness, marking the path of her prey—the Spawns of Decay. As her power grows, the bones of her weapon multiply, swaying in her wake. ",
+  "info": {
+    "release_date": "September 17, 2025",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane_recommendation": "Gold Lane",
+    "price": {
+      "battle_points": 32000,
+      "diamonds": 499
+    },
+    "skill_resource": "Mana",
+    "damage_type": "Physical",
+    "basic_attack_type": "Ranged",
+    "ratings": {
+      "durability": 2,
+      "offense": 7,
+      "control_effects": 1,
+      "difficulty": 4
+    }
+  },
+  "profile": {
+    "internal_name": "shenyuan",
+    "origin": "Abyss Crack, The Barren Lands",
+    "gender": "Female",
+    "title": "Sovereign of Dark's End",
+    "relationships": {
+      "allies": ["Selena", "Alice", "Thamuz", "Dyrroth"],
+      "enemies": ["Lord of Darkness"]
+    }
+  },
+  "abilities": {
+    "passive": {
+      "name": "Return to Bone",
+      "type": "Buff",
+      "description": "When Obsidia deals damage to enemies, she gains Bone Energy (Basic Attacks against non-hero units grant 1 Energy, against hero units grant 2 Energy, and skills grant 3 times the Energy. No Energy is gained from hitting creeps). When Bone Energy reaches 30, it forms a Bone Shard, up to 25 shards. When Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing (7% Total Physical Attack) Physical Damage and inheriting 7% Attack Effects."
+    },
+    "skill1": {
+      "name": "Abyssal Bone Needle",
+      "type": "Damage AOE",
+      "description": "Obsidia launches an Abyssal Bone Needle dealing 325 (+80% Total Physical Attack) Physical Damage to enemies hit and triggering Return to Bone on the first enemy hero attack.",
+      "level_scaling": {
+        "cooldown": [4.5, 4.2, 3.9, 3.6, 3.3, 3.0],
+        "mana_cost": [35, 38, 41, 44, 47, 50],
+        "base_damage": [325, 360, 395, 430, 465, 500]
+      }
+    },
+    "skill2": {
+      "name": "Phantom Shadowmeld",
+      "type": "Speed Up",
+      "description": "Obsidia descends into the Abyss and enters Shadowmeld Form, gaining 500% Movement Speed for 0.3s.",
+      "level_scaling": {
+        "cooldown": [4.5, 4.2, 3.9, 3.6, 3.3, 3.0],
+        "mana_cost": [35, 40, 45, 50, 55, 60]
+      }
+    },
+    "ultimate": {
+      "name": "Hunt of Bone",
+      "type": "CC Mobility",
+      "description": "Obsidia shoots Bones of Wrath, in the target direction, dealing 125 (+60% Total Physical Attack) Physical Damage and briefly stunning the first enemy hero hit, and pulls herself near them. The Bones of Wrath then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The enemy cannot use displacement skills, and their movement will pull Obsidia along. During this time, Obsidia gains 5 temporary Bone Shards. This effect lasts 3s. During this time, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is enhanced, with its duration increased to 1s and cooldown reduced to 33%.",
+      "level_scaling": {
+        "cooldown": [40.0, 35.0, 30.0],
+        "mana_cost": [100, 50, 0],
+        "base_damage": [125, 175, 225]
+      }
+    }
+  },
+  "skins": {
+    "sovereign_of_darks_end": {
+      "name": "Sovereign of Darks End",
+      "skin_id": "13001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/audio/hero_selection/background",
+          "dialog": "assets/heroes/obsidia/obsidia_standard/audio/hero_selection/dialog"
+        },
+        "in_game_dialog": "assets/heroes/obsidia/obsidia_standard/audio/in_game_dialog"
+      },
+      "avatars": {
+        "default": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/avatars/obsidia_sovereign_of_darks_end_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/models/obsidia_sovereign_of_darks_end_entrance.glb",
+        "in_game": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/models/obsidia_sovereign_of_darks_end_in_game.glb",
+        "raw": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/models/obsidia_sovereign_of_darks_end_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/portraits/obsidia_sovereign_of_darks_end_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_passive.png",
+        "skill1": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_skill1.png",
+        "skill2": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_skill2.png",
+        "ultimate": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/obsidia/obsidia_sovereign_of_darks_end/splash_art/obsidia_sovereign_of_darks_end_splash_art_default.png"
+      }
+    },
+    "undying_remnants": {
+      "name": "Undying Remants",
+      "skin_id": "13002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/obsidia/obsidia_undying_remnants/audio/hero_selection/background",
+          "dialog": "assets/heroes/obsidia/obsidia_standard/audio/hero_selection/dialog"
+        },
+        "in_game_dialog": "assets/heroes/obsidia/obsidia_standard/audio/in_game_dialog"
+      },
+      "avatars": {
+        "default": "assets/heroes/obsidia/obsidia_undying_remnants/avatars/obsidia_undying_remnants_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/obsidia/obsidia_undying_remnants/models/obsidia_undying_remnants_entrance.glb",
+        "in_game": "assets/heroes/obsidia/obsidia_undying_remnants/models/obsidia_undying_remnants_in_game.glb",
+        "raw": "assets/heroes/obsidia/obsidia_undying_remnants/models/obsidia_undying_remnants_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/obsidia/obsidia_undying_remnants/portraits/obsidia_undying_remnants_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_passive.png",
+        "skill1": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_skill1.png",
+        "skill2": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_skill2.png",
+        "ultimate": "assets/heroes/obsidia/obsidia_standard/skill_icons/obsidia_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/obsidia/obsidia_undying_remnants/splash_art/obsidia_undying_remnants_splash_art_default.png"
+      }
+    }
+  }
+}

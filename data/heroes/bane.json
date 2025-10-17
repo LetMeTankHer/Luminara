@@ -1,0 +1,219 @@
+{
+  "id": "011",
+  "name": "Bane",
+  "lore": "Bane is a pirate stationed in the Frozen Ocean. He once ruthlessly ruled the vast seas of the Northern Vale. He was a sworn enemy of Franco, later suffering a defeat at Franco's hands.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "frozen_king": {
+      "name": "Frozen King",
+      "skin_id": "01101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_frozen_king/avatars/bane_frozen_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_frozen_king/portraits/bane_frozen_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "castle_master": {
+      "name": "Castle Master",
+      "skin_id": "01102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_castle_master/avatars/bane_castle_master_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_castle_master/portraits/bane_castle_master_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deep_sea_monster": {
+      "name": "Deep Sea Monster",
+      "skin_id": "01103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_deep_sea_monster/avatars/bane_deep_sea_monster_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_deep_sea_monster/portraits/bane_deep_sea_monster_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "warlord": {
+      "name": "Warlord",
+      "skin_id": "01104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_warlord/avatars/bane_warlord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_warlord/portraits/bane_warlord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "underworld_outlaw": {
+      "name": "Underworld Outlaw",
+      "skin_id": "01105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_underworld_outlaw/avatars/bane_underworld_outlaw_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_underworld_outlaw/portraits/bane_underworld_outlaw_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soul_defiler": {
+      "name": "Soul Defiler",
+      "skin_id": "01106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_soul_defiler/avatars/bane_soul_defiler_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_soul_defiler/portraits/bane_soul_defiler_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lord_of_scalding_seas": {
+      "name": "Lord of Scalding Seas",
+      "skin_id": "01107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_lord_of_scalding_seas/avatars/bane_lord_of_scalding_seas_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_lord_of_scalding_seas/portraits/bane_lord_of_scalding_seas_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lord_of_nights_gloom": {
+      "name": "Lord of Night's Gloom",
+      "skin_id": "01107a",
+      "release_order": 7,
+      "painted_of": "Lord of Scalding Seas",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_lord_of_nights_gloom/avatars/bane_lord_of_nights_gloom_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_lord_of_nights_gloom/portraits/bane_lord_of_nights_gloom_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lord_of_nether_fire": {
+      "name": "Lord of Nether Fire",
+      "skin_id": "01107b",
+      "release_order": 7,
+      "painted_of": "Lord of Scalding Seas",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/bane/bane_lord_of_nether_fire/avatars/bane_lord_of_nether_fire_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/bane/bane_lord_of_nether_fire/portraits/bane_lord_of_nether_fire_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

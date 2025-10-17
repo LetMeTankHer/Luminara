@@ -1,0 +1,149 @@
+{
+  "id": "129",
+  "name": "Zetian",
+  "lore": "Zetian is the Empress of Shendu, Divine Capital of the Cadia Riverlands, as well as the \"Tomb Keeper\" who erected the unmarked monument in memory of the Ancient Ones.",
+  "info": {
+    "release_date": "18 June 2025",
+    "role": "Mage",
+    "specialty": "Damage/Crowd Control",
+    "lane_recommendation": "Mid Lane",
+    "skill_resource": "Mana",
+    "damage_type": "Magic",
+    "basic_attack_type": "Ranged",
+    "ratings": {
+      "durability": 3,
+      "offense": 8,
+      "control_effects": 5,
+      "difficulty": 2
+    }
+  },
+  "profile": {
+    "full_name": "Wu Zetian",
+    "alias": ["Celestial Empress", "Empress Wu", "Lady Wu"],
+    "chinese_name": "武则天 (Wǔzétiān)",
+    "internal_name": "wuzetian",
+    "birthday": "February 17 (Aquarius)",
+    "origin": "Cadia Riverlands",
+    "gender": "Female",
+    "occupation": "Empress of Shendu",
+    "affiliation": "Oriental Fighters",
+    "abilities": ["Imperial Phoenix Power"],
+    "height": "179 cm",
+    "traits": ["Gracefully Calm", "Empress's majesty"],
+    "relationships": {
+      "companions": ["Zilong", "Ling Ling", "Wanwan", "Baxia"]
+    }
+  },
+  "abilities": {
+    "passive": {
+      "name": "Celestial Armament",
+      "type": "Shield CC",
+      "description": "Phoenix Crown: When Zetian hits enemy heroes with Phoenix Strike or Phoenix Descent, she gains 0.5% Spell Vamp for 5s, stacking up to 10 times.Celestial Robe: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who dares approach her while dealing 90 (+10*Hero Level) (+50% Total Magic Power) Magic Damage to them. She also gains a 300 (+20*Hero Level) (+50% Total Magic Power) Shield that lasts 3s. This effect has a 120s cooldown."
+    },
+    "skill1": {
+      "name": "Phoenix Strike",
+      "type": "Damage / Speed Up",
+      "spell_vamp_ratio": "100%",
+      "description": "Zetian unleashes a Phoenix Wave in the target direction. If it hits an enemy, she automatically casts another wave, up to 3 times. Movement speed +10% while casting, can use other skills. Third wave hits larger area and includes a small pull effect. 80% Spell Vamp efficiency against Minions.",
+      "level_scaling": {
+        "cooldown": [7.0, 6.6, 6.2, 5.8, 5.4, 5.0],
+        "mana_cost": [70, 80, 90, 100, 110, 120],
+        "base_damage": [185, 200, 215, 230, 245, 260],
+        "extra_base_damage": [185, 200, 215, 230, 245, 260],
+        "third_wave_damage": [330, 390, 450, 510, 570, 630]
+      }
+    },
+    "skill2": {
+      "name": "Phoenix Descent",
+      "type": "Slow Debuff",
+      "spell_vamp_ratio": "50%",
+      "description": "Zetian summons a Phoenix Spirit at the target location, dealing Magic Damage and applying 50% Slow. The Spirit hovers for 3s, dealing 20 (+10% Total Magic Power) every 0.5s and reducing enemy Magic Defense by 10%. Can be recast to charge the Spirit.",
+      "level_scaling": {
+        "cooldown": [15.0, 15.0, 15.0, 15.0, 15.0, 15.0],
+        "mana_cost": [80, 90, 100, 110, 120, 130],
+        "base_damage": [150, 165, 180, 195, 210, 225],
+        "extra_damage_per_tick": [20, 24, 28, 32, 36, 40],
+        "magic_def_reduction": ["10%", "12%", "14%", "16%", "18%", "20%"]
+      }
+    },
+    "ultimate": {
+      "name": "Fury of the Phoenix",
+      "type": "CC Damage",
+      "spell_vamp_ratio": "50%",
+      "description": "Zetian grants all allies 60% Movement Speed (decays over 3s) and deals 400 (+100% Total Magic Power) Magic Damage to all enemies, stunning for 1s. She gains vision of all enemies and can cast other skills while channeling.",
+      "level_scaling": {
+        "cooldown": [90, 80, 70],
+        "mana_cost": [150, 180, 210],
+        "base_damage": [400, 550, 700],
+        "movement_speed_bonus": ["40%", "50%", "60%"]
+      }
+    }
+  },
+  "skins": {
+    "celestial_empress": {
+      "name": "Celestial Empress",
+      "skin_id": "12901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/zetian/zetian_celestial_empress/audio/hero_selection/background",
+          "dialog": "assets/heroes/zetian/zetian_standard/audio/hero_selection/dialog"
+        },
+        "in_game_dialog": "assets/heroes/zetian/zetian_standard/audio/in_game_dialog",
+        "main_interface_dialog": "assets/heroes/zetian/zetian_standard/audio/main_interface_dialog"
+      },
+      "avatars": {
+        "default": "assets/heroes/zetian/zetian_celestial_empress/avatars/zetian_celestial_empress_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/zetian/zetian_celestial_empress/models/zetian_celestial_empress_entrance.glb",
+        "in_game": "assets/heroes/zetian/zetian_celestial_empress/models/zetian_celestial_empress_in_game.glb",
+        "raw": "assets/heroes/zetian/zetian_celestial_empress/models/zetian_celestial_empress_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/zetian/zetian_celestial_empress/portraits/zetian_celestial_empress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_standard_passive.png",
+        "skill1": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_standard_skill1.png",
+        "skill2": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_standard_skill2.png",
+        "ultimate": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/zetian/zetian_celestial_empress/splash_art/zetian_celestial_empress_splash_art_default.png"
+      }
+    },
+    "heavenly_splendor": {
+      "name": "Heavenly Splendor",
+      "skin_id": "12902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/zetian/zetian_heavenly_splendor/audio/hero_selection/background",
+          "dialog": "assets/heroes/zetian/zetian_standard/audio/hero_selection/dialog"
+        },
+        "in_game_dialog": "assets/heroes/zetian/zetian_standard/audio/in_game_dialog"
+      },
+      "avatars": {
+        "default": "assets/heroes/zetian/zetian_heavenly_splendor/avatars/zetian_heavenly_splendor_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/zetian/zetian_heavenly_splendor/models/zetian_heavenly_splendor_entrance.glb",
+        "in_game": "assets/heroes/zetian/zetian_heavenly_splendor/models/zetian_heavenly_splendor_in_game.glb",
+        "raw": "assets/heroes/zetian/zetian_heavenly_splendor/models/zetian_heavenly_splendor_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/zetian/zetian_heavenly_splendor/portraits/zetian_heavenly_splendor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_stadard_passive.png",
+        "skill1": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_stadard_skill1.png",
+        "skill2": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_stadard_skill2.png",
+        "ultimate": "assets/heroes/zetian/zetian_standard/skill_icons/zetian_stadard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/zetian/zetian_heavenly_splendor/splash_art/zetian_heavenly_splendor_splash_art_default.png"
+      }
+    }
+  }
+}

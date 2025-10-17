@@ -1,0 +1,287 @@
+{
+  "id": "040",
+  "name": "Karrie",
+  "lore": "Karrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "lost_star": {
+      "name": "Lost Star",
+      "skin_id": "04001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_lost_star/avatars/karrie_lost_star_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_lost_star/portraits/karrie_lost_star_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rising_star": {
+      "name": "Rising Star",
+      "skin_id": "04002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_rising_star/avatars/karrie_rising_star_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_rising_star/portraits/karrie_rising_star_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bladed_mantis": {
+      "name": "Bladed Mantis",
+      "skin_id": "04003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_bladed_mantis/avatars/karrie_bladed_mantis_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_bladed_mantis/portraits/karrie_bladed_mantis_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragon_queen": {
+      "name": "Dragon Queen",
+      "skin_id": "04004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_dragon_queen/avatars/karrie_dragon_queen_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_dragon_queen/portraits/karrie_dragon_queen_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jester": {
+      "name": "Jester",
+      "skin_id": "04005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_jester/avatars/karrie_jester_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_jester/portraits/karrie_jester_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fool": {
+      "name": "Fool",
+      "skin_id": "04005a",
+      "release_order": 5,
+      "painted_of": "Jester",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_fool/avatars/karrie_fool_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_fool/portraits/karrie_fool_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hawkwatch": {
+      "name": "Hawkwatch",
+      "skin_id": "04006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_hawkwatch/avatars/karrie_hawkwatch_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_hawkwatch/portraits/karrie_hawkwatch_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "gill_girl": {
+      "name": "Gill Girl",
+      "skin_id": "04007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_gill_girl/avatars/karrie_gill_girl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_gill_girl/portraits/karrie_gill_girl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neon_lightwheel": {
+      "name": "Neon Lightwheel",
+      "skin_id": "04008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_neon_lightwheel/avatars/karrie_neon_lightwheel_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_neon_lightwheel/portraits/karrie_neon_lightwheel_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wheel_of_justice": {
+      "name": "Wheel of Justice",
+      "skin_id": "04009",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_wheel_of_justice/avatars/karrie_wheel_of_justice_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_wheel_of_justice/portraits/karrie_wheel_of_justice_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ice_talon": {
+      "name": "Ice Talon",
+      "skin_id": "04010",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_ice_talon/avatars/karrie_ice_talon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_ice_talon/portraits/karrie_ice_talon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "breath_of_naraka": {
+      "name": "Breath of Naraka",
+      "skin_id": "04011",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/karrie/karrie_breath_of_naraka/avatars/karrie_breath_of_naraka_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/karrie/karrie_breath_of_naraka/portraits/karrie_breath_of_naraka_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

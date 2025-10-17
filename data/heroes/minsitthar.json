@@ -1,0 +1,195 @@
+{
+  "id": "074",
+  "name": "Minsitthar",
+  "lore": "A prince of the Vonetis Sea's Mahar Pura, good at fighting and winning. He was expelled by his father because of a heretical love affair he had. When his brother raised the flag of rebellion, Minsitthar, who was in exile, returned to his motherland, put down the rebellion and became the new king.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "courageous_warrior": {
+      "name": "Courageous Warrior",
+      "skin_id": "07401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_courageous_warrior/avatars/minsitthar_courageous_warrior_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_courageous_warrior/portraits/minsitthar_courageous_warrior_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "king_of_war": {
+      "name": "King of War",
+      "skin_id": "07402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_king_of_war/avatars/minsitthar_king_of_war_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_king_of_war/portraits/minsitthar_king_of_war_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "gilded_king": {
+      "name": "Gilded King",
+      "skin_id": "07403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_gilded_king/avatars/minsitthar_gilded_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_gilded_king/portraits/minsitthar_gilded_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crimson_lion": {
+      "name": "Crimson Lion",
+      "skin_id": "07405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_crimson_lion/avatars/minsitthar_crimson_lion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_crimson_lion/portraits/minsitthar_crimson_lion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "radiant_lion": {
+      "name": "Radiant Lion",
+      "skin_id": "07405a",
+      "release_order": 5,
+      "painted_of": "Crimson Lion",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_radiant_lion/avatars/minsitthar_radiant_lion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_radiant_lion/portraits/minsitthar_radiant_lion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sol_invictus": {
+      "name": "Sol Invictus",
+      "skin_id": "07406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_sol_invictus/avatars/minsitthar_sol_invictus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_sol_invictus/portraits/minsitthar_sol_invictus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "symbol_of_valor": {
+      "name": "Symbol of Valor",
+      "skin_id": "07407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_symbol_of_valor/avatars/minsitthar_symbol_of_valor_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_symbol_of_valor/portraits/minsitthar_symbol_of_valor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "golden_marshal": {
+      "name": "Golden Marshal",
+      "skin_id": "07408",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/minsitthar/minsitthar_golden_marshal/avatars/minsitthar_golden_marshal_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/minsitthar/minsitthar_golden_marshal/portraits/minsitthar_golden_marshal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

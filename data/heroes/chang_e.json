@@ -1,0 +1,287 @@
+{
+  "id": "061",
+  "name": "Chang'e",
+  "lore": "Chang'e is the youngest disciple of the Great Dragon and from an early age, she exhibited amazing magical potential, quickly mastering the Great Dragon's greatest spell―The Sacred Satellite.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "moon_palace_immortal": {
+      "name": "Moon Palace Immortal",
+      "skin_id": "06101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_moon_palace_immortal/avatars/chang_e_moon_palace_immortal_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_moon_palace_immortal/portraits/chang_e_moon_palace_immortal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "moonstruck": {
+      "name": "Moonstruck",
+      "skin_id": "06102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_moonstruck/avatars/chang_e_moonstruck_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_moonstruck/portraits/chang_e_moonstruck_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crimson_moon": {
+      "name": "Crimson Moon",
+      "skin_id": "06103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_crimson_moon/avatars/chang_e_crimson_moon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_crimson_moon/portraits/chang_e_crimson_moon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "azure_moon": {
+      "name": "Azure Moon",
+      "skin_id": "06103a",
+      "release_order": 3,
+      "painted_of": "Crimson Moon",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_azure_moon/avatars/chang_e_azure_moon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_azure_moon/portraits/chang_e_azure_moon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "floral_elfo": {
+      "name": "Floral Elfo",
+      "skin_id": "06104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_floral_elfo/avatars/chang_e_floral_elfo_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_floral_elfo/portraits/chang_e_floral_elfo_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lunar_magic": {
+      "name": "Lunar Magic",
+      "skin_id": "06105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_lunar_magic/avatars/chang_e_lunar_magic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_lunar_magic/portraits/chang_e_lunar_magic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "strawberry_parfait": {
+      "name": "Strawberry Parfait",
+      "skin_id": "06106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_strawberry_parfait/avatars/chang_e_strawberry_parfait_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_strawberry_parfait/portraits/chang_e_strawberry_parfait_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "vine_cradle": {
+      "name": "Vine Cradle",
+      "skin_id": "06107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_vine_cradle/avatars/chang_e_vine_cradle_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_vine_cradle/portraits/chang_e_vine_cradle_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "moon_artist": {
+      "name": "Moon Artist",
+      "skin_id": "06108",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_moon_artist/avatars/chang_e_moon_artist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_moon_artist/portraits/chang_e_moon_artist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "new_moon": {
+      "name": "New Moon",
+      "skin_id": "06109",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_new_moon/avatars/chang_e_new_moon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_new_moon/portraits/chang_e_new_moon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tech_tensai": {
+      "name": "Tech Tensai",
+      "skin_id": "06110",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_tech_tensai/avatars/chang_e_tech_tensai_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_tech_tensai/portraits/chang_e_tech_tensai_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "moonglow_troupe": {
+      "name": "Moonglow Troupe",
+      "skin_id": "06111",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chang_e/chang_e_moonglow_troupe/avatars/chang_e_moonglow_troupe_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chang_e/chang_e_moonglow_troupe/portraits/chang_e_moonglow_troupe_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

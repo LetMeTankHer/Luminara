@@ -1,0 +1,125 @@
+{
+  "id": "108",
+  "name": "Aulus",
+  "lore": "Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "warrior_of_ferocity": {
+      "name": "Warrior of Ferocity",
+      "skin_id": "10801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aulus/aulus_warrior_of_ferocity/avatars/aulus_warrior_of_ferocity_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aulus/aulus_warrior_of_ferocity/portraits/aulus_warrior_of_ferocity_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "berserker": {
+      "name": "Berserker",
+      "skin_id": "10802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aulus/aulus_berserker/avatars/aulus_berserker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aulus/aulus_berserker/portraits/aulus_berserker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "barren_pioneer": {
+      "name": "Barren Pioneer",
+      "skin_id": "10803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aulus/aulus_barren_pioneer/avatars/aulus_barren_pioneer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aulus/aulus_barren_pioneer/portraits/aulus_barren_pioneer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "war_lion": {
+      "name": "War Lion",
+      "skin_id": "10804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aulus/aulus_war_lion/avatars/aulus_war_lion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aulus/aulus_war_lion/portraits/aulus_war_lion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ironmane_reaver": {
+      "name": "Ironmane Reaver",
+      "skin_id": "10805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aulus/aulus_ironmane_reaver/avatars/aulus_ironmane_reaver_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aulus/aulus_ironmane_reaver/portraits/aulus_ironmane_reaver_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

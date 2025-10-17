@@ -1,0 +1,736 @@
+{
+    "hero_selection": {
+        "background": [
+            {
+                "name": "miya_christmas_carnival_hero_select_bg",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/background/miya_christmas_carnival_hero_select_bg.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival Hero Select Bg"
+            }
+        ],
+        "dialog": {
+            "arabic": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_ar_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/arabic/miya_christmas_carnival_hero_select_ar_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select 01"
+                }
+            ],
+            "bahasa_indonesia": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_id_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/bahasa_indonesia/miya_christmas_carnival_hero_select_id_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select Id 01"
+                }
+            ],
+            "chinese": [],
+            "english": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_en_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/english/miya_christmas_carnival_hero_select_en_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select En 01"
+                }
+            ],
+            "espanol": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_es_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/espanol/miya_christmas_carnival_hero_select_es_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select Es 01"
+                }
+            ],
+            "japanese": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_ja_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/japanese/miya_christmas_carnival_hero_select_ja_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select Ja 01"
+                }
+            ],
+            "portuguese": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_pt_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/portuguese/miya_christmas_carnival_hero_select_pt_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select Pt 01"
+                }
+            ],
+            "russian": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_ru_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/russian/miya_christmas_carnival_hero_select_ru_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select Ru 01"
+                }
+            ],
+            "tagalog": [],
+            "turkish": [
+                {
+                    "name": "miya_christmas_carnival_hero_select_tr_line_01",
+                    "file": "assets/heroes/miya/miya_christmas_carnival/audio/hero_selection/dialog/turkish/miya_christmas_carnival_hero_select_tr_line_01.mp3",
+                    "translation": "",
+                    "subtitle": "Christmas Carnival Hero Select Tr 01"
+                }
+            ]
+        }
+    },
+    "in_game_dialog": {
+        "arabic": [
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ar_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/arabic/miya_christmas_carnival_in_game_ar_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game 13"
+            }
+        ],
+        "bahasa_indonesia": [
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_id_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/bahasa_indonesia/miya_christmas_carnival_in_game_id_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Id 13"
+            }
+        ],
+        "chinese": [],
+        "english": [
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_en_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/english/miya_christmas_carnival_in_game_en_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game En 13"
+            }
+        ],
+        "espanol": [
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_es_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/espanol/miya_christmas_carnival_in_game_es_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Es 13"
+            }
+        ],
+        "japanese": [
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ja_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/japanese/miya_christmas_carnival_in_game_ja_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ja 13"
+            }
+        ],
+        "portuguese": [
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_pt_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/portuguese/miya_christmas_carnival_in_game_pt_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Pt 13"
+            }
+        ],
+        "russian": [
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_ru_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/russian/miya_christmas_carnival_in_game_ru_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Ru 13"
+            }
+        ],
+        "tagalog": [],
+        "turkish": [
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_01",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_01.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 01"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_02",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_02.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 02"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_03",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_03.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 03"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_04",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_04.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 04"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_05",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_05.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 05"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_06",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_06.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 06"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_07",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_07.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 07"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_08",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_08.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 08"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_09",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_09.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 09"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_10",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_10.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 10"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_11",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_11.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 11"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_12",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_12.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 12"
+            },
+            {
+                "name": "miya_christmas_carnival_in_game_tr_line_13",
+                "file": "assets/heroes/miya/miya_christmas_carnival/audio/in_game_dialog/turkish/miya_christmas_carnival_in_game_tr_line_13.mp3",
+                "translation": "",
+                "subtitle": "Christmas Carnival In Game Tr 13"
+            }
+        ]
+    },
+    "main_interface_dialog": {
+        "arabic": [],
+        "bahasa_indonesia": [],
+        "chinese": [],
+        "english": [],
+        "espanol": [],
+        "japanese": [],
+        "portuguese": [],
+        "russian": [],
+        "tagalog": [],
+        "turkish": []
+    }
+}

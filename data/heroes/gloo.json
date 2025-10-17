@@ -1,0 +1,79 @@
+{
+  "id": "104",
+  "name": "Gloo",
+  "lore": "Goos were found to be intelligent and pure beings, proud of their 'group wisdom' they shared which was mostly used to pull pranks on the neighboring Elves.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "swamp_spirits": {
+      "name": "Swamp Spirits",
+      "skin_id": "10401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gloo/gloo_swamp_spirits/avatars/gloo_swamp_spirits_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gloo/gloo_swamp_spirits/portraits/gloo_swamp_spirits_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "verdant_enchanter": {
+      "name": "Verdant Enchanter",
+      "skin_id": "10402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gloo/gloo_verdant_enchanter/avatars/gloo_verdant_enchanter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gloo/gloo_verdant_enchanter/portraits/gloo_verdant_enchanter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jellyman": {
+      "name": "Jellyman",
+      "skin_id": "10403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gloo/gloo_jellyman/avatars/gloo_jellyman_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gloo/gloo_jellyman/portraits/gloo_jellyman_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

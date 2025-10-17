@@ -1,0 +1,265 @@
+{
+  "id": "081",
+  "name": "Esmeralda",
+  "lore": "Born into a family of Agelta astrologers, she is the greatest astrologers on the Land of Dawn. Through the treasure star-moon box, she learned the fact that the tyrant Khufra was about to wake up. The re-sealing of Khufra became her new mission as an astrologer.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "astrologer": {
+      "name": "Astrologer",
+      "skin_id": "08101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_astrologer/avatars/esmeralda_astrologer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_astrologer/portraits/esmeralda_astrologer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ruddy_dusk": {
+      "name": "Ruddy Dusk",
+      "skin_id": "08102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_ruddy_dusk/avatars/esmeralda_ruddy_dusk_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_ruddy_dusk/portraits/esmeralda_ruddy_dusk_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "poison_vine": {
+      "name": "Poison Vine",
+      "skin_id": "08103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_poison_vine/avatars/esmeralda_poison_vine_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_poison_vine/portraits/esmeralda_poison_vine_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lady_thief": {
+      "name": "Lady Thief",
+      "skin_id": "08104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_lady_thief/avatars/esmeralda_lady_thief_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_lady_thief/portraits/esmeralda_lady_thief_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scene_stealer": {
+      "name": "Scene Stealer",
+      "skin_id": "08104",
+      "release_order": 4,
+      "painted_of": "Lady Thief",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_scene_stealer/avatars/esmeralda_scene_stealer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_scene_stealer/portraits/esmeralda_scene_stealer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cleopatra": {
+      "name": "Cleopatra",
+      "skin_id": "08105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_cleopatra/avatars/esmeralda_cleopatra_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_cleopatra/portraits/esmeralda_cleopatra_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blazing_shadow": {
+      "name": "Blazing Shadow",
+      "skin_id": "08106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_blazing_shadow/avatars/esmeralda_blazing_shadow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_blazing_shadow/portraits/esmeralda_blazing_shadow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_foreseer": {
+      "name": "The Foreseer",
+      "skin_id": "08107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_the_foreseer/avatars/esmeralda_the_foreseer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_the_foreseer/portraits/esmeralda_the_foreseer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "light_envoy": {
+      "name": "Light Envoy",
+      "skin_id": "08108",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_light_envoy/avatars/esmeralda_light_envoy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_light_envoy/portraits/esmeralda_light_envoy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "astral_muse": {
+      "name": "Astral Muse",
+      "skin_id": "08109",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_astral_muse/avatars/esmeralda_astral_muse_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_astral_muse/portraits/esmeralda_astral_muse_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "stellar_muse": {
+      "name": "Stellar Muse",
+      "skin_id": "08109",
+      "release_order": 9,
+      "painted_of": "Astral Muse",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/esmeralda/esmeralda_stellar_muse/avatars/esmeralda_stellar_muse_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/esmeralda/esmeralda_stellar_muse/portraits/esmeralda_stellar_muse_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

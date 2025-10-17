@@ -1,0 +1,266 @@
+{
+  "id": "043",
+  "name": "Irithel",
+  "lore": "Irithel was abandoned in the jungle by her parents when she was a little girl. Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "jungle_heart": {
+      "name": "Jungle Heart",
+      "skin_id": "04301",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_jungle_heart/avatars/irithel_jungle_heart_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_jungle_heart/portraits/irithel_jungle_heart_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "silver_cyclone": {
+      "name": "Silver Cyclone",
+      "skin_id": "04302",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_silver_cyclone/avatars/irithel_silver_cyclone_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_silver_cyclone/portraits/irithel_silver_cyclone_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hellfire": {
+      "name": "Hellfire",
+      "skin_id": "04303",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_hellfire/avatars/irithel_hellfire_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_hellfire/portraits/irithel_hellfire_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ice_spike": {
+      "name": "Ice Spike",
+      "skin_id": "04303a",
+      "release_order": 3,
+      "painted_of": "Hellfire",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_ice_spike/avatars/irithel_ice_spike_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_ice_spike/portraits/irithel_ice_spike_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nightarrow": {
+      "name": "Nightarrow",
+      "skin_id": "04304",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_nightarrow/avatars/irithel_nightarrow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_nightarrow/portraits/irithel_nightarrow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sagittarius": {
+      "name": "Sagittarius",
+      "skin_id": "04305",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_sagittarius/avatars/irithel_sagittarius_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_sagittarius/portraits/irithel_sagittarius_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "astral_wanderer": {
+      "name": "Astral Wanderer",
+      "skin_id": "04306",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_astral_wanderer/avatars/irithel_astral_wanderer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_astral_wanderer/portraits/irithel_astral_wanderer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "monster_sp_rider": {
+      "name": "Monster SP Rider",
+      "skin_id": "04307",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_monster_sp_rider/avatars/irithel_monster_sp_rider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_monster_sp_rider/portraits/irithel_monster_sp_rider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "checkered_knight": {
+      "name": "Checkered Knight",
+      "skin_id": "04308",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_checkered_knight/avatars/irithel_checkered_knight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_checkered_knight/portraits/irithel_checkered_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neon_knight": {
+      "name": "Neon Knight",
+      "skin_id": "04308a",
+      "release_order": 8,
+      "painted_of": "Checkered Knight",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_neon_knight/avatars/irithel_neon_knight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_neon_knight/portraits/irithel_neon_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rosy_knight": {
+      "name": "Rosy Knight",
+      "skin_id": "04308b",
+      "release_order": 8,
+      "painted_of": "Checkered Knight",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/irithel/irithel_rosy_knight/avatars/irithel_rosy_knight_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/irithel/irithel_rosy_knight/portraits/irithel_rosy_knight_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

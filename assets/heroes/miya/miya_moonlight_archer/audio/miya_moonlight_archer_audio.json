@@ -1,0 +1,48 @@
+{
+  "hero_selection": {
+    "background": [
+      {
+        "name": "Miya Moonlight Archer Hero Selection Background",
+        "file": "assets/heroes/miya/miya_moonlight_archer/audio/hero_selection/background/miya_moonlight_archer_hero_select_bg_01.mp3",
+        "translation": "",
+        "subtitle": ""
+      }
+    ],
+    "dialog": {
+      "arabic": [],
+      "bahasa_indonesia": [],
+      "chinese": [],
+      "english": [],
+      "espanol": [],
+      "japanese": [],
+      "portuguese": [],
+      "russian": [],
+      "tagalog": [],
+      "turkish": []
+    }
+  },
+  "in_game_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  },
+  "main_interface_dialog": {
+    "arabic": [],
+    "bahasa_indonesia": [],
+    "chinese": [],
+    "english": [],
+    "espanol": [],
+    "japanese": [],
+    "portuguese": [],
+    "russian": [],
+    "tagalog": [],
+    "turkish": []
+  }
+}

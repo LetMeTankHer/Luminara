@@ -1,0 +1,148 @@
+{
+  "id": "049",
+  "name": "Hylos",
+  "lore": "He lives in the Misty Mountains and belongs to the Centaur race. He has the ability to convert natural magic into life force, and at the same time he can continuously punish any enemy who invades the Misty Mountains by consuming his own life force.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "grand_warden": {
+      "name": "Grand Warden",
+      "skin_id": "04901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hylos/hylos_grand_warden/avatars/hylos_grand_warden_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hylos/hylos_grand_warden/portraits/hylos_grand_warden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "abyssal_shaman": {
+      "name": "Abyssal Shaman",
+      "skin_id": "04902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hylos/hylos_abyssal_shaman/avatars/hylos_abyssal_shaman_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hylos/hylos_abyssal_shaman/portraits/hylos_abyssal_shaman_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phantom_seer": {
+      "name": "Phantom Seer",
+      "skin_id": "04903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hylos/hylos_phantom_seer/avatars/hylos_phantom_seer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hylos/hylos_phantom_seer/portraits/hylos_phantom_seer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jungle_watcher": {
+      "name": "Jungle Watcher",
+      "skin_id": "04904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hylos/hylos_jungle_watcher/avatars/hylos_jungle_watcher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hylos/hylos_jungle_watcher/portraits/hylos_jungle_watcher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "iron_steed": {
+      "name": "Iron Steed",
+      "skin_id": "04905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hylos/hylos_iron_steed/avatars/hylos_iron_steed_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hylos/hylos_iron_steed/portraits/hylos_iron_steed_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bloodhoof_marauder": {
+      "name": "Bloodhoof Marauder",
+      "skin_id": "04906",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hylos/hylos_bloodhoof_marauder/avatars/hylos_bloodhoof_marauder_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hylos/hylos_bloodhoof_marauder/portraits/hylos_bloodhoof_marauder_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

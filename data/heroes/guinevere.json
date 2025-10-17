@@ -1,0 +1,310 @@
+{
+  "id": "080",
+  "name": "Guinevere",
+  "lore": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "ms_violet": {
+      "name": "Ms. Violet",
+      "skin_id": "08001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_ms_violet/avatars/guinevere_ms_violet_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_ms_violet/portraits/guinevere_ms_violet_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fleur_de_bleau": {
+      "name": "Fleur de Bleau",
+      "skin_id": "08002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_fleur_de_bleau/avatars/guinevere_fleur_de_bleau_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_fleur_de_bleau/portraits/guinevere_fleur_de_bleau_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "athena_asamiya": {
+      "name": "Athena Asamiya",
+      "skin_id": "08003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_athena_asamiya/avatars/guinevere_athena_asamiya_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_athena_asamiya/portraits/guinevere_athena_asamiya_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lotus": {
+      "name": "Lotus",
+      "skin_id": "08004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_lotus/avatars/guinevere_lotus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_lotus/portraits/guinevere_lotus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "amethyst_dance": {
+      "name": "Amethyst Dance",
+      "skin_id": "08005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_amethyst_dance/avatars/guinevere_amethyst_dance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_amethyst_dance/portraits/guinevere_amethyst_dance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scarlet_dance": {
+      "name": "Scarlet Dance",
+      "skin_id": "08005a",
+      "release_order": 5,
+      "painted_of": "Amethyst Dance",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_scarlet_dance/avatars/guinevere_scarlet_dance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_scarlet_dance/portraits/guinevere_scarlet_dance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lady_crane": {
+      "name": "Lady Crane",
+      "skin_id": "08006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_lady_crane/avatars/guinevere_lady_crane_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_lady_crane/portraits/guinevere_lady_crane_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sakura_wishes": {
+      "name": "Sakura Wishes",
+      "skin_id": "08007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_sakura_wishes/avatars/guinevere_sakura_wishes_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_sakura_wishes/portraits/guinevere_sakura_wishes_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_breeze": {
+      "name": "Summer Breeze",
+      "skin_id": "08008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_summer_breeze/avatars/guinevere_summer_breeze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_summer_breeze/portraits/guinevere_summer_breeze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "psion_of_tomorrow": {
+      "name": "Psion of Tomorrow",
+      "skin_id": "08009",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_psion_of_tomorrow/avatars/guinevere_psion_of_tomorrow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_psion_of_tomorrow/portraits/guinevere_psion_of_tomorrow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "elegant_butterfly": {
+      "name": "Elegant Butterfly",
+      "skin_id": "08010",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_elegant_butterfly/avatars/guinevere_elegant_butterfly_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_elegant_butterfly/portraits/guinevere_elegant_butterfly_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "electric_diva": {
+      "name": "Electric Diva",
+      "skin_id": "08011",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_electric_diva/avatars/guinevere_electric_diva_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_electric_diva/portraits/guinevere_electric_diva_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "daybreak_halo": {
+      "name": "Daybreak Halo",
+      "skin_id": "08012",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/guinevere/guinevere_daybreak_halo/avatars/guinevere_daybreak_halo_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/guinevere/guinevere_daybreak_halo/portraits/guinevere_daybreak_halo_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

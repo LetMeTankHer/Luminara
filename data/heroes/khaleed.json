@@ -1,0 +1,125 @@
+{
+  "id": "098",
+  "name": "Khaleed",
+  "lore": "There was an ancient tribe that lived in the endless deserts of Agelta Drylands. They built villages along the Emerald Road and were able able to pass down their civilization and legacy, through countless generations.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "desert_scimitar": {
+      "name": "Desert Scimitar",
+      "skin_id": "09801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khaleed/khaleed_desert_scimitar/avatars/khaleed_desert_scimitar_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khaleed/khaleed_desert_scimitar/portraits/khaleed_desert_scimitar_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "prince_of_sand": {
+      "name": "Prince of Sand",
+      "skin_id": "09802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khaleed/khaleed_prince_of_sand/avatars/khaleed_prince_of_sand_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khaleed/khaleed_prince_of_sand/portraits/khaleed_prince_of_sand_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "crescent_scimitar": {
+      "name": "Crescent Scimitar",
+      "skin_id": "09803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khaleed/khaleed_crescent_scimitar/avatars/khaleed_crescent_scimitar_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khaleed/khaleed_crescent_scimitar/portraits/khaleed_crescent_scimitar_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wave_strider": {
+      "name": "Wave Strider",
+      "skin_id": "09804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khaleed/khaleed_wave_strider/avatars/khaleed_wave_strider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khaleed/khaleed_wave_strider/portraits/khaleed_wave_strider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "desert_salamander": {
+      "name": "Desert Salamander",
+      "skin_id": "09805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/khaleed/khaleed_desert_salamander/avatars/khaleed_desert_salamander_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/khaleed/khaleed_desert_salamander/portraits/khaleed_desert_salamander_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

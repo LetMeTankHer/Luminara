@@ -1,0 +1,615 @@
+{
+  "id": "001",
+  "name": "Miya",
+  "lore": "Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves.",
+  "info": {
+    "release_date": "2016",
+    "role": "Marksman",
+    "specialty": "Finisher/Damage",
+    "lane_recommendation": "Gold Lane",
+    "price": "battle_points: 10800 | tickets: 399",
+    "skill_resource": "Mana",
+    "damage_type": "Physical",
+    "basic_attack_type": "Ranged",
+    "ratings": {
+      "durability": 1,
+      "offense": 7,
+      "control_effects": 4,
+      "difficulty": 1
+    }
+  },
+  "profile": {
+    "full_name": "Miya",
+    "alias": ["Moonlight Archer", "Priestess of the Moon"],
+    "chinese_name": "米娅 (mǐyà)",
+    "internal_name": "gongjianshou",
+    "birthday": "September 6 (Virgo)",
+    "born": "Moonlit Forest, Azrya Woodlands",
+    "gender": "Female",
+    "species": "Moon elf",
+    "occupation": "Priestess",
+    "affiliation": ["Lunar Temple", "Moniyan Empire", "The Abyss (enemies)"],
+    "weapons": ["Silver bow and arrow"],
+    "abilities": ["Summons Moonlight Shadows and Moon Eclipse", "Invisibility"],
+    "battles_fought": ["Invasion of Moonlit Forest"],
+    "relationships": {
+      "brother": ["Estes"],
+      "love_interest": ["Alucard"],
+      "enemies": ["Alice", "Balmond"]
+    }
+  },
+  "abilities": {
+    "passive": {
+      "name": "Moon Blessing",
+      "type": "Buff | Attack Effects: 20% | Lifesteal Ratio: 0%",
+      "description": "Each time Miya hits a target with her Basic Attack, she gains 5% Attack Speed for 4s (stacks up to 5 times). After reaching full stacks, Miya summons a Moonlight Shadow with each Basic Attack that deals 30 (+30% Total Physical Attack) Physical Damage and inherits a portion of Attack Effects."
+    },
+    "skill1": {
+      "name": "Moon Arrow",
+      "type": "Buff AOE | Attack Effects: 20% | Lifesteal Ratio: 0%",
+      "description": "Miya shoots 2 extra arrows with each Basic Attack, dealing 10–35 (+100% Total Physical Attack) Physical Damage to the target enemy and 30% damage to nearby targets for 4s. Each extra arrow inherits a portion of Attack Effects."
+    },
+    "skill2": {
+      "name": "Arrow of Eclipse",
+      "type": "CC AOE",
+      "description": "Miya launches an empowered arrow at the target area, dealing 270–420 (+45% Total Physical Attack) Physical Damage and immobilizing enemies for 1.2s. The arrow then splits into 6 scattering minor arrows, each dealing 40–105 (+20% Total Physical Attack) Physical Damage to the first enemy hit and slowing them by 30% for 2s."
+    },
+    "ultimate": {
+      "name": "Hidden Moonlight",
+      "type": "Conceal | Remove CC",
+      "description": "Miya removes all debuffs, conceals herself, and gains 35%–65% extra Movement Speed for 2s or until she attacks. Upon leaving this state, she gains full stacks of Moon Blessing."
+    }
+  },
+  "skins": {
+    "moonlight_archer": {
+      "name": "Moonlight Archer",
+      "skin_id": "00101",
+      "release_order": 1,
+      "audio_type": "standard",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_moonlight_archer/audio/miya_moonlight_archer_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_moonlight_archer/avatars/miya_moonlight_archer_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_moonlight_archer/models/miya_moonlight_archer_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_moonlight_archer/models/miya_moonlight_archer_in_game.glb",
+        "raw": "assets/heroes/miya/miya_moonlight_archer/models/miya_moonlight_archer_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_moonlight_archer/portraits/miya_moonlight_archer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_moonlight_archer/splash_art/miya_moonlight_archer_splash_art_default.jpg"
+      }
+    },
+    "burning_bow": {
+      "name": "Burning Bow",
+      "skin_id": "00102",
+      "release_order": 2,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_burning_bow/audio/miya_burning_bow_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_burning_bow/avatars/miya_burning_bow_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_burning_bow/models/miya_burning_bow_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_burning_bow/models/miya_burning_bow_in_game.glb",
+        "raw": "assets/heroes/miya/miya_burning_bow/models/miya_burning_bow_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_burning_bow/portraits/miya_burning_bow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_burning_bow/splash_art/miya_burning_bow_splash_art_default.jpg"
+      }
+    },
+    "tranquil_bow": {
+      "name": "Tranquil Bow",
+      "skin_id": "00102a",
+      "release_order": 2,
+      "painted_of": "Burning Bow",
+      "painted_color": ["#FFBDF7", "#9C51B6"],
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_tranquil_bow/audio/miya_tranquil_bow_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_tranquil_bow/avatars/miya_tranquil_bow_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_tranquil_bow/models/miya_tranquil_bow_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_tranquil_bow/models/miya_tranquil_bow_in_game.glb",
+        "raw": "assets/heroes/miya/miya_tranquil_bow/models/miya_tranquil_bow_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_tranquil_bow/portraits/miya_tranquil_bow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_tranquil_bow/splash_art/miya_tranquil_bow_splash_art_default.jpg"
+      }
+    },
+    "christmas_carnival": {
+      "name": "Christmas Carnival",
+      "skin_id": "00103",
+      "release_order": 3,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_christmas_carnival/audio/miya_christmas_carnival_audio.json",
+          "dialog": "assets/heroes/miya/miya_christmas_carnival/audio/miya_christmas_carnival_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_christmas_carnival/audio/miya_christmas_carnival_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_christmas_carnival/audio/miya_christmas_carnival_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_christmas_carnival/avatars/miya_christmas_carnival_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_christmas_carnival/models/miya_christmas_carnival_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_christmas_carnival/models/miya_christmas_carnival_in_game.glb",
+        "raw": "assets/heroes/miya/miya_christmas_carnival/models/miya_christmas_carnival_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_christmas_carnival/portraits/miya_christmas_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_christmas_carnival/splash_art/miya_christmas_carnival_splash_art_default.jpg"
+      }
+    },
+    "captain_thorns": {
+      "name": "Captain Thorns",
+      "skin_id": "00104",
+      "release_order": 4,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_captain_thorns/audio/miya_captain_thorns_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_captain_thorns/avatars/miya_captain_thorns_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_captain_thorns/models/miya_captain_thorns_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_captain_thorns/models/miya_captain_thorns_in_game.glb",
+        "raw": "assets/heroes/miya/miya_captain_thorns/models/miya_captain_thorns_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_captain_thorns/portraits/miya_captain_thorns_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_captain_thorns/splash_art/miya_captain_thorns_splash_art_default.jpg"
+      }
+    },
+    "honor": {
+      "name": "Honor",
+      "skin_id": "00105",
+      "release_order": 5,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_honor/audio/miya_honor_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_honor/avatars/miya_honor_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_honor/models/miya_honor_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_honor/models/miya_honor_in_game.glb",
+        "raw": "assets/heroes/miya/miya_honor/models/miya_honor_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_honor/portraits/miya_honor_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_honor/splash_art/miya_honor_splash_art_default.jpg"
+      }
+    },
+    "modena_butterfly": {
+      "name": "Modena Butterfly",
+      "skin_id": "00106",
+      "release_order": 6,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_modena_butterfly/audio/miya_modena_butterfly_audio.json",
+          "dialog": "assets/heroes/miya/miya_modena_butterfly/audio/miya_modena_butterfly_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_modena_butterfly/audio/miya_modena_butterfly_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_modena_butterfly/audio/miya_modena_butterfly_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_modena_butterfly/avatars/miya_modena_butterfly_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_modena_butterfly/models/miya_modena_butterfly_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_modena_butterfly/models/miya_modena_butterfly_in_game.glb",
+        "raw": "assets/heroes/miya/miya_modena_butterfly/models/miya_modena_butterfly_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_modena_butterfly/portraits/miya_modena_butterfly_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_modena_butterfly/skill_icons/miya_modena_butterfly_passive.png",
+        "skill1": "assets/heroes/miya/miya_modena_butterfly/skill_icons/miya_modena_butterfly_skill1.png",
+        "skill2": "assets/heroes/miya/miya_modena_butterfly/skill_icons/miya_modena_butterfly_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_modena_butterfly/skill_icons/miya_modena_butterfly_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_modena_butterfly/splash_art/miya_modena_butterfly_splash_art_default.jpg"
+      }
+    },
+    "sweet_fantasy": {
+      "name": "Sweet Fantasy",
+      "skin_id": "00107",
+      "release_order": 7,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_sweet_fantasy/audio/miya_sweet_fantasy_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_sweet_fantasy/avatars/miya_sweet_fantasy_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_sweet_fantasy/models/miya_sweet_fantasy_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_sweet_fantasy/models/miya_sweet_fantasy_in_game.glb",
+        "raw": "assets/heroes/miya/miya_sweet_fantasy/models/miya_sweet_fantasy_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_sweet_fantasy/portraits/miya_sweet_fantasy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_sweet_fantasy/splash_art/miya_sweet_fantasy_splash_art_default.jpg"
+      }
+    },
+    "suzuhime": {
+      "name": "Suzuhime",
+      "skin_id": "00108",
+      "release_order": 8,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_suzuhime/audio/miya_suzuhime_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_suzuhime/avatars/miya_suzuhime_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_suzuhime/models/miya_suzuhime_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_suzuhime/models/miya_suzuhime_in_game.glb",
+        "raw": "assets/heroes/miya/miya_suzuhime/models/miya_suzuhime_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_suzuhime/portraits/miya_suzuhime_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_suzuhime/splash_art/miya_suzuhime_splash_art_default.jpg"
+      }
+    },
+    "jungle_ranger": {
+      "name": "Jungle Ranger",
+      "skin_id": "00109",
+      "release_order": 9,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_jungle_ranger/audio/miya_jungle_ranger_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_jungle_ranger/avatars/miya_jungle_ranger_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_jungle_ranger/models/miya_jungle_ranger_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_jungle_ranger/models/miya_jungle_ranger_in_game.glb",
+        "raw": "assets/heroes/miya/miya_jungle_ranger/models/miya_jungle_ranger_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_jungle_ranger/portraits/miya_jungle_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_jungle_ranger/splash_art/miya_jungle_ranger_splash_art_default.jpg"
+      }
+    },
+    "moon_priestess": {
+      "name": "Moon Priestess",
+      "skin_id": "00110",
+      "release_order": 10,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_moon_priestess/audio/miya_moon_priestess_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_moon_priestess/avatars/miya_moon_priestess_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_moon_priestess/models/miya_moon_priestess_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_moon_priestess/models/miya_moon_priestess_in_game.glb",
+        "raw": "assets/heroes/miya/miya_moon_priestess/models/miya_moon_priestess_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_moon_priestess/portraits/miya_moon_priestess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_moon_priestess/splash_art/miya_moon_priestess_splash_art_default.jpg"
+      }
+    },
+    "doom_catalyst": {
+      "name": "Doom Catalyst",
+      "skin_id": "00111",
+      "release_order": 11,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_doom_catalyst/audio/miya_doom_catalyst_audio.json",
+          "dialog": "assets/heroes/miya/miya_doom_catalyst/audio/miya_doom_catalyst_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_doom_catalyst/audio/miya_doom_catalyst_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_doom_catalyst/audio/miya_doom_catalyst_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_doom_catalyst/avatars/miya_doom_catalyst_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_doom_catalyst/models/miya_doom_catalyst_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_doom_catalyst/models/miya_doom_catalyst_in_game.glb",
+        "raw": "assets/heroes/miya/miya_doom_catalyst/models/miya_doom_catalyst_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_doom_catalyst/portraits/miya_doom_catalyst_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_doom_catalyst/splash_art/miya_doom_catalyst_splash_art_default.jpg"
+      }
+    },
+    "atomic_pop_miya": {
+      "name": "Atomic Pop Miya",
+      "skin_id": "00112",
+      "release_order": 12,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_atomic_pop_miya/audio/miya_atomic_pop_miya_audio.json",
+          "dialog": "assets/heroes/miya/miya_atomic_pop_miya/audio/miya_atomic_pop_miya_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_atomic_pop_miya/audio/miya_atomic_pop_miya_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_atomic_pop_miya/audio/miya_atomic_pop_miya_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_atomic_pop_miya/avatars/miya_atomic_pop_miya_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_atomic_pop_miya/models/miya_atomic_pop_miya_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_atomic_pop_miya/models/miya_atomic_pop_miya_in_game.glb",
+        "raw": "assets/heroes/miya/miya_atomic_pop_miya/models/miya_atomic_pop_miya_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_atomic_pop_miya/portraits/miya_atomic_pop_miya_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_atomic_pop_miya/splash_art/miya_atomic_pop_miya_splash_art_default.jpg"
+      }
+    },
+    "nightowl_huntress": {
+      "name": "Nightowl Huntress",
+      "skin_id": "00114",
+      "release_order": 14,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_nightowl_huntress/audio/miya_nightowl_huntress_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_nightowl_huntress/avatars/miya_nightowl_huntress_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_moonlight_archer/models/miya_moonlight_archer_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_moonlight_archer/models/miya_moonlight_archer_in_game.glb",
+        "raw": "assets/heroes/miya/miya_moonlight_archer/models/miya_moonlight_archer_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_nightowl_huntress/portraits/miya_nightowl_huntress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_nightowl_huntress/splash_art/miya_nightowl_huntress_splash_art_default.jpg"
+      }
+    },
+    "nightowl_sentinel": {
+      "name": "Nightowl Sentinel",
+      "skin_id": "00114a",
+      "release_order": 14,
+      "painted_of": "Nightowl Huntress",
+      "painted_color": ["#FF5C00", "#A020F0"],
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_nightowl_sentinel/audio/miya_nightowl_sentinel_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_nightowl_sentinel/avatars/miya_nightowl_sentinel_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_nightowl_sentinel/models/miya_nightowl_sentinel_entrance.glb",
+        "in_game": "assets/heroes/miya/miya_nightowl_sentinel/models/miya_nightowl_sentinel_in_game.glb",
+        "raw": "assets/heroes/miya/miya_nightowl_sentinel/models/miya_nightowl_sentinel_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_nightowl_sentinel/portraits/miya_nightowl_sentinel_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_nightowl_sentinel/splash_art/miya_nightowl_sentinel_splash_art_default.jpg"
+      }
+    },
+    "nightowl_warden": {
+      "name": "Nightowl Warden",
+      "skin_id": "00114b",
+      "release_order": 14,
+      "painted_of": "Nightowl Huntress",
+      "painted_color": ["#63F7B4", "#78A3C5"],
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": {
+          "background": "assets/heroes/miya/miya_nightowl_warden/audio/miya_nightowl_warden_audio.json",
+          "dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+        },
+        "in_game_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json",
+        "main_interface_dialog": "assets/heroes/miya/miya_standard/audio/miya_standard_audio.json"
+      },
+      "avatars": {
+        "default": "assets/heroes/miya/miya_nightowl_warden/avatars/miya_nightowl_warden_avatar_default.png"
+      },
+      "models": {
+        "entrance": "assets/heroes/miya/miya_nightowl_warden/models/miya_nightowl_warden_entrance.glb",
+        "in_game": "assets/heroes/zetian/zetian_celestial_empress/models/zetian_celestial_empress_in_game.glb",
+        "raw": "assets/heroes/miya/miya_nightowl_warden/models/miya_nightowl_warden_raw.glb"
+      },
+      "portraits": {
+        "default": "assets/heroes/miya/miya_nightowl_warden/portraits/miya_nightowl_warden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_passive.png",
+        "skill1": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill1.png",
+        "skill2": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_skill2.png",
+        "ultimate": "assets/heroes/miya/miya_standard/skill_icons/miya_standard_ultimate.png"
+      },
+      "splash_art": {
+        "default": "assets/heroes/miya/miya_nightowl_warden/splash_art/miya_nightowl_warden_splash_art_default.jpg"
+      }
+    }
+  }
+}

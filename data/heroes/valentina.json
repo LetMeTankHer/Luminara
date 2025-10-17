@@ -1,0 +1,219 @@
+{
+  "id": "110",
+  "name": "Valentina",
+  "lore": "In a battle against the Abyss' invasion, Valentina and her lover, Irlan, were betrayed by some members of House Paxley, which eventually caused Irlan to lose his soul. To revive her lover, Valentina made a deal with an Evil God and gained immortality in the power of shadow.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "prophetess_of_the_night": {
+      "name": "Prophetess of the Night",
+      "skin_id": "11001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_prophetess_of_the_night/avatars/valentina_prophetess_of_the_night_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_prophetess_of_the_night/portraits/valentina_prophetess_of_the_night_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "twilight_charmer": {
+      "name": "Twilight Charmer",
+      "skin_id": "11002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_twilight_charmer/avatars/valentina_twilight_charmer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_twilight_charmer/portraits/valentina_twilight_charmer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "archmagister": {
+      "name": "Archmagister",
+      "skin_id": "11003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_archmagister/avatars/valentina_archmagister_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_archmagister/portraits/valentina_archmagister_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_agent": {
+      "name": "Cyber Agent",
+      "skin_id": "11004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_cyber_agent/avatars/valentina_cyber_agent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_cyber_agent/portraits/valentina_cyber_agent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "digital_enchantress": {
+      "name": "Digital Enchantress",
+      "skin_id": "11004a",
+      "release_order": 4,
+      "painted_of": "Cyber Agent",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_digital_enchantress/avatars/valentina_digital_enchantress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_digital_enchantress/portraits/valentina_digital_enchantress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "celestial_judicator": {
+      "name": "Celestial Judicator",
+      "skin_id": "11005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_celestial_judicator/avatars/valentina_celestial_judicator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_celestial_judicator/portraits/valentina_celestial_judicator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dark_nexus": {
+      "name": "Dark Nexus",
+      "skin_id": "11006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_dark_nexus/avatars/valentina_dark_nexus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_dark_nexus/portraits/valentina_dark_nexus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "grand_gala": {
+      "name": "Grand Gala",
+      "skin_id": "11007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_grand_gala/avatars/valentina_grand_gala_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_grand_gala/portraits/valentina_grand_gala_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "garden_gala": {
+      "name": "Garden Gala",
+      "skin_id": "11007a",
+      "release_order": 7,
+      "painted_of": "Grand Gala",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valentina/valentina_garden_gala/avatars/valentina_garden_gala_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valentina/valentina_garden_gala/portraits/valentina_garden_gala_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

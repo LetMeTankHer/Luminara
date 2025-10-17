@@ -1,0 +1,195 @@
+{
+  "id": "037",
+  "name": "Lapu-Lapu",
+  "lore": "From up on the peak, Lapu-Lapu looked down at the flames of the Moniyan camp at the foot of the mountain. He never thought he would once again step on to a battlefield, the kind of place he hated the most.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "courageous_blade": {
+      "name": "Courageous Blade",
+      "skin_id": "03701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_courageous_blade/avatars/lapu_lapu_courageous_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_courageous_blade/portraits/lapu_lapu_courageous_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ancestral_blade": {
+      "name": "Ancestral Blade",
+      "skin_id": "03702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_ancestral_blade/avatars/lapu_lapu_ancestral_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_ancestral_blade/portraits/lapu_lapu_ancestral_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "imperial_champion": {
+      "name": "Imperial Champion",
+      "skin_id": "03703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_imperial_champion/avatars/lapu_lapu_imperial_champion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_imperial_champion/portraits/lapu_lapu_imperial_champion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "imperial_soldier": {
+      "name": "Imperial Soldier",
+      "skin_id": "03703a",
+      "release_order": 3,
+      "painted_of": "Imperial Champion",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_imperial_soldier/avatars/lapu_lapu_imperial_soldier_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_imperial_soldier/portraits/lapu_lapu_imperial_soldier_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "vulcan": {
+      "name": "Vulcan",
+      "skin_id": "03704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_vulcan/avatars/lapu_lapu_vulcan_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_vulcan/portraits/lapu_lapu_vulcan_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "special_force": {
+      "name": "Special Force",
+      "skin_id": "03705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_special_force/avatars/lapu_lapu_special_force_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_special_force/portraits/lapu_lapu_special_force_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "son_of_the_wild": {
+      "name": "Son of the Wild",
+      "skin_id": "03706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_son_of_the_wild/avatars/lapu_lapu_son_of_the_wild_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_son_of_the_wild/portraits/lapu_lapu_son_of_the_wild_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "adlaws_chosen": {
+      "name": "Adlaw's Chosen",
+      "skin_id": "03707",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_adlaws_chosen/avatars/lapu_lapu_adlaws_chosen_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lapu_lapu/lapu_lapu_adlaws_chosen/portraits/lapu_lapu_adlaws_chosen_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

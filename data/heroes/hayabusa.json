@@ -1,0 +1,312 @@
+{
+  "id": "021",
+  "name": "Hayabusa",
+  "lore": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "crimson_shadow": {
+      "name": "Crimson Shadow",
+      "skin_id": "02101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_crimson_shadow/avatars/hayabusa_crimson_shadow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_crimson_shadow/portraits/hayabusa_crimson_shadow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spacetime_shadow": {
+      "name": "Spacetime Shadow",
+      "skin_id": "02102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_spacetime_shadow/avatars/hayabusa_spacetime_shadow_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_spacetime_shadow/portraits/hayabusa_spacetime_shadow_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "future_enforcer": {
+      "name": "Future Enforcer",
+      "skin_id": "02103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_future_enforcer/avatars/hayabusa_future_enforcer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_future_enforcer/portraits/hayabusa_future_enforcer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "future_enforcer_iron": {
+      "name": "Future Enforcer Iron",
+      "skin_id": "02103a",
+      "release_order": 3,
+      "painted_of": "Future Enforcer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_future_enforcer_iron/avatars/hayabusa_future_enforcer_iron_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_future_enforcer_iron/portraits/hayabusa_future_enforcer_iron_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sushi_master": {
+      "name": "Sushi Master",
+      "skin_id": "02104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_sushi_master/avatars/hayabusa_sushi_master_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_sushi_master/portraits/hayabusa_sushi_master_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sushi_master_purple": {
+      "name": "Sushi Master Purple",
+      "skin_id": "02104a",
+      "release_order": 4,
+      "painted_of": "Sushi Master",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_sushi_master_purple/avatars/hayabusa_sushi_master_purple_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_sushi_master_purple/portraits/hayabusa_sushi_master_purple_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "experiment_21": {
+      "name": "Experiment 21",
+      "skin_id": "02105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_experiment_21/avatars/hayabusa_experiment_21_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_experiment_21/portraits/hayabusa_experiment_21_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shadow_of_obscurity": {
+      "name": "Shadow of Obscurity",
+      "skin_id": "02106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_shadow_of_obscurity/avatars/hayabusa_shadow_of_obscurity_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_shadow_of_obscurity/portraits/hayabusa_shadow_of_obscurity_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "biological_weapon": {
+      "name": "Biological Weapon",
+      "skin_id": "02107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_biological_weapon/avatars/hayabusa_biological_weapon_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_biological_weapon/portraits/hayabusa_biological_weapon_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shura": {
+      "name": "Shura",
+      "skin_id": "02108",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_shura/avatars/hayabusa_shura_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_shura/portraits/hayabusa_shura_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "techie_ninja": {
+      "name": "Techie Ninja",
+      "skin_id": "02109",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_techie_ninja/avatars/hayabusa_techie_ninja_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_techie_ninja/portraits/hayabusa_techie_ninja_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exorcist_hayabusa": {
+      "name": "Exorcist Hayabusa",
+      "skin_id": "02110",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_exorcist_hayabusa/avatars/hayabusa_exorcist_hayabusa_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_exorcist_hayabusa/portraits/hayabusa_exorcist_hayabusa_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+
+    "kakashi_hatake": {
+      "name": "Kakashi Hatake",
+      "skin_id": "02111",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/hayabusa/hayabusa_kakashi_hatake/avatars/hayabusa_kakashi_hatake_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/hayabusa/hayabusa_kakashi_hatake/portraits/hayabusa_kakashi_hatake_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

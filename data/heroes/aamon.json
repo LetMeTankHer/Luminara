@@ -1,0 +1,171 @@
+{
+  "id": "109",
+  "name": "Aamon",
+  "lore": "Aamon is the head of House Paxley and the current Duke of Castle Aberleen. Despite his cool and distant facade, he puts his kin above everything and will do anything for them.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "duke_of_shards": {
+      "name": "Duke of Shards",
+      "skin_id": "10901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_duke_of_shards/avatars/aamon_duke_of_shards_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_duke_of_shards/portraits/aamon_duke_of_shards_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nights_edge": {
+      "name": "Nights Edge",
+      "skin_id": "10902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_nights_edge/avatars/aamon_nights_edge_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_nights_edge/portraits/aamon_nights_edge_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "noble_crest": {
+      "name": "Noble Crest",
+      "skin_id": "10903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_noble_crest/avatars/aamon_noble_crest_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_noble_crest/portraits/aamon_noble_crest_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_assassin": {
+      "name": "Cyber Assassin",
+      "skin_id": "10904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_cyber_assassin/avatars/aamon_cyber_assassin_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_cyber_assassin/portraits/aamon_cyber_assassin_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "vessel_of_deceit": {
+      "name": "Vessel of Deceit",
+      "skin_id": "10905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_vessel_of_deceit/avatars/aamon_vessel_of_deceit_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_vessel_of_deceit/portraits/aamon_vessel_of_deceit_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "falcon_of_light": {
+      "name": "Falcon of Light",
+      "skin_id": "10906",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_falcon_of_light/avatars/aamon_falcon_of_light_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_falcon_of_light/portraits/aamon_falcon_of_light_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soul_reaver": {
+      "name": "Soul Reaver",
+      "skin_id": "10907",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/aamon/aamon_soul_reaver/avatars/aamon_soul_reaver_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/aamon/aamon_soul_reaver/portraits/aamon_soul_reaver_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

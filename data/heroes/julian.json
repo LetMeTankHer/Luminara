@@ -1,0 +1,171 @@
+{
+  "id": "116",
+  "name": "Julian",
+  "lore": "Julian was the son of Terizla, the leader of the Free Smiths' Guild. The guild was exterminated by the Church of Light on charges of heresy when Julian was at an early age.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "scarlet_raven": {
+      "name": "Scarlet Raven",
+      "skin_id": "11601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_scarlet_raven/avatars/julian_scarlet_raven_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_scarlet_raven/portraits/julian_scarlet_raven_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "silent_edge": {
+      "name": "Silent Edge",
+      "skin_id": "11602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_silent_edge/avatars/julian_silent_edge_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_silent_edge/portraits/julian_silent_edge_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "megumi_fushiguro": {
+      "name": "Megumi Fushiguro",
+      "skin_id": "11603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_megumi_fushiguro/avatars/julian_megumi_fushiguro_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_megumi_fushiguro/portraits/julian_megumi_fushiguro_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "thunder_warden": {
+      "name": "Thunder Warden",
+      "skin_id": "11604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_thunder_warden/avatars/julian_thunder_warden_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_thunder_warden/portraits/julian_thunder_warden_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "solomons_legacy": {
+      "name": "Solomon's Legacy",
+      "skin_id": "11605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_solomons_legacy/avatars/julian_solomons_legacy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_solomons_legacy/portraits/julian_solomons_legacy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "meowkin_tracker": {
+      "name": "Meowkin Tracker",
+      "skin_id": "11606",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_meowkin_tracker/avatars/julian_meowkin_tracker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_meowkin_tracker/portraits/julian_meowkin_tracker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "kurapika": {
+      "name": "Kurapika",
+      "skin_id": "11607",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/julian/julian_kurapika/avatars/julian_kurapika_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/julian/julian_kurapika/portraits/julian_kurapika_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

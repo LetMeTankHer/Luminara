@@ -1,0 +1,173 @@
+{
+  "id": "118",
+  "name": "Joy",
+  "lore": "Agile and cunning, known as the most infamous \"petty thief\" in Lumina City, Joy had longed to have her stomach filled and her heart warmed. In a fortunate turn of events, Joy returned to the Leonins' land, her wandering heart healed by the simple and unconditional love of her kin.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "flash_of_miracle": {
+      "name": "Flash of Miracle",
+      "skin_id": "11801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_flash_of_miracle/avatars/joy_flash_of_miracle_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_flash_of_miracle/portraits/joy_flash_of_miracle_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "feline_ranger": {
+      "name": "Feline Ranger",
+      "skin_id": "11802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_feline_ranger/avatars/joy_feline_ranger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_feline_ranger/portraits/joy_feline_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_protector": {
+      "name": "Royal Protector",
+      "skin_id": "11804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_royal_protector/avatars/joy_royal_protector_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_royal_protector/portraits/joy_royal_protector_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exostar_scout": {
+      "name": "Exostar Scout",
+      "skin_id": "11805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_exostar_scout/avatars/joy_exostar_scout_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_exostar_scout/portraits/joy_exostar_scout_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exostar_runner": {
+      "name": "Exostar Runner",
+      "skin_id": "11805a",
+      "release_order": 5,
+      "painted_of": "Exostar Scout",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_exostar_runner/avatars/joy_exostar_runner_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_exostar_runner/portraits/joy_exostar_runner_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "exostar_ranger": {
+      "name": "Exostar Ranger",
+      "skin_id": "11805b",
+      "release_order": 5,
+      "painted_of": "Exostar Scout",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_exostar_ranger/avatars/joy_exostar_ranger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_exostar_ranger/portraits/joy_exostar_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "onic_ph": {
+      "name": "ONIC PH",
+      "skin_id": "11807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/joy/joy_onic_ph/avatars/joy_onic_ph_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/joy/joy_onic_ph/portraits/joy_onic_ph_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

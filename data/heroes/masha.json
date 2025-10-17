@@ -1,0 +1,143 @@
+{
+  "id": "088",
+  "name": "Masha",
+  "lore": "Leader of the Sami people who lives in the Northern Vale. After the wandering pirates of the Frozen Ocean began to invade the Northern Vale.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "wild_oats_fist": {
+      "name": "Wild Oats Fist",
+      "skin_id": "08801",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_wild_oats_fist/avatars/masha_wild_oats_fist_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_wild_oats_fist/portraits/masha_wild_oats_fist_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "winter_guard": {
+      "name": "Winter Guard",
+      "skin_id": "08802",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_winter_guard/avatars/masha_winter_guard_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_winter_guard/portraits/masha_winter_guard_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "combat_maiden": {
+      "name": "Combat Maiden",
+      "skin_id": "08803",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_combat_maiden/avatars/masha_combat_maiden_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_combat_maiden/portraits/masha_combat_maiden_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragon_armor": {
+      "name": "Dragon Armor",
+      "skin_id": "08804",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_dragon_armor/avatars/masha_dragon_armor_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_dragon_armor/portraits/masha_dragon_armor_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spirited_gauntlet": {
+      "name": "Spirited Gauntlet",
+      "skin_id": "08805",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_spirited_gauntlet/avatars/masha_spirited_gauntlet_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_spirited_gauntlet/portraits/masha_spirited_gauntlet_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rogue_talon": {
+      "name": "Rogue Talon",
+      "skin_id": "08806",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_rogue_talon/avatars/masha_rogue_talon_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_rogue_talon/portraits/masha_rogue_talon_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mai_shiranui": {
+      "name": "Mai Shiranui",
+      "skin_id": "08807",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/masha/masha_mai_shiranui/avatars/masha_mai_shiranui_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/masha/masha_mai_shiranui/portraits/masha_mai_shiranui_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

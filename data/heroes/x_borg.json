@@ -1,0 +1,202 @@
+{
+  "id": "083",
+  "name": "X.Borg",
+  "lore": "A talented teenager who uses his Firaga Armor to burn everything he comes across.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "firaga_armor": {
+      "name": "Firaga Armor",
+      "skin_id": "08301",
+      "release_order": 1,
+      "audio_type": "standard",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_firaga_armor/avatars/x_borg_firaga_armor_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_firaga_armor/portraits/x_borg_firaga_armor_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "blue_storm": {
+      "name": "Blue Storm",
+      "skin_id": "08302",
+      "release_order": 2,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_blue_storm/avatars/x_borg_blue_storm_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_blue_storm/portraits/x_borg_blue_storm_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "moto_drifter": {
+      "name": "Moto Drifter",
+      "skin_id": "08303",
+      "release_order": 3,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_moto_drifter/avatars/x_borg_moto_drifter_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_moto_drifter/portraits/x_borg_moto_drifter_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "graffiti_fashion": {
+      "name": "Graffiti Fashion",
+      "skin_id": "08304",
+      "release_order": 4,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_graffiti_fashion/avatars/x_borg_graffiti_fashion_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_graffiti_fashion/portraits/x_borg_graffiti_fashion_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tesla_maniac": {
+      "name": "Tesla Maniac",
+      "skin_id": "08305",
+      "release_order": 5,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_tesla_maniac/avatars/x_borg_tesla_maniac_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_tesla_maniac/portraits/x_borg_tesla_maniac_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bumblebee": {
+      "name": "Bumblebee",
+      "skin_id": "08306",
+      "release_order": 6,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_bumblebee/avatars/x_borg_bumblebee_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_bumblebee/portraits/x_borg_bumblebee_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pecados_rioter": {
+      "name": "Pecados Rioter",
+      "skin_id": "08307",
+      "release_order": 7,
+      "audio_type": "variant",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_pecados_rioter/avatars/x_borg_pecados_rioter_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_pecados_rioter/portraits/x_borg_pecados_rioter_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "invokers_flame": {
+      "name": "Invokers Flame",
+      "skin_id": "08308",
+      "release_order": 8,
+      "audio_type": "unique",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/x_borg/x_borg_invokers_flame/avatars/x_borg_invokers_flame_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/x_borg/x_borg_invokers_flame/portraits/x_borg_invokers_flame_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

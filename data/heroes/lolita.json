@@ -1,0 +1,265 @@
+{
+  "id": "020",
+  "name": "Lolita",
+  "lore": "Lolita was a gentle and tenacious half-elf girl. After she was rescued from the war and brought to Eruditio, she became a craftsman in the workshop.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "steel_elf": {
+      "name": "Steel Elf",
+      "skin_id": "02001",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_steel_elf/avatars/lolita_steel_elf_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_steel_elf/portraits/lolita_steel_elf_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soldier_in_training": {
+      "name": "Soldier in Training",
+      "skin_id": "02002",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_soldier_in_training/avatars/lolita_soldier_in_training_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_soldier_in_training/portraits/lolita_soldier_in_training_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "impish_trickster": {
+      "name": "Impish Trickster",
+      "skin_id": "02003",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_impish_trickster/avatars/lolita_impish_trickster_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_impish_trickster/portraits/lolita_impish_trickster_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pumpkin_smash": {
+      "name": "Pumpkin Smash",
+      "skin_id": "02003a",
+      "release_order": 3,
+      "painted_of": "Impish Trickster",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_pumpkin_smash/avatars/lolita_pumpkin_smash_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_pumpkin_smash/portraits/lolita_pumpkin_smash_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lion_dance": {
+      "name": "Lion Dance",
+      "skin_id": "02004",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_lion_dance/avatars/lolita_lion_dance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_lion_dance/portraits/lolita_lion_dance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "special_op": {
+      "name": "Special Op",
+      "skin_id": "02005",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_special_op/avatars/lolita_special_op_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_special_op/portraits/lolita_special_op_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "genki_slam": {
+      "name": "Genki Slam",
+      "skin_id": "02006",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_genki_slam/avatars/lolita_genki_slam_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_genki_slam/portraits/lolita_genki_slam_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "starwatcher": {
+      "name": "Starwatcher",
+      "skin_id": "02007",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_starwatcher/avatars/lolita_starwatcher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_starwatcher/portraits/lolita_starwatcher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "astro_mallet": {
+      "name": "Astro Mallet",
+      "skin_id": "02008",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_astro_mallet/avatars/lolita_astro_mallet_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_astro_mallet/portraits/lolita_astro_mallet_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "angelic_fan": {
+      "name": "Angelic Fan",
+      "skin_id": "02009",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_angelic_fan/avatars/lolita_angelic_fan_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_angelic_fan/portraits/lolita_angelic_fan_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "radiant_fan": {
+      "name": "Radiant Fan",
+      "skin_id": "02009a",
+      "release_order": 9,
+      "painted_of": "Angelic Fan",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lolita/lolita_radiant_fan/avatars/lolita_radiant_fan_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lolita/lolita_radiant_fan/portraits/lolita_radiant_fan_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "id": "046",
+  "name": "Odette",
+  "lore": "As the daughter of Prince Alvin, Princess Odette was a romantic that seemed a well-behaved, obedient lady but actually yearned for adventures instead. After she became acquainted with Lancelot and rescued him in a duel ruckus, Odette slowly became aware of her own feelings towards Lancelot.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "swan_princess": {
+      "name": "Swan Princess",
+      "skin_id": "04601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_swan_princess/avatars/odette_swan_princess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_swan_princess/portraits/odette_swan_princess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "black_swan": {
+      "name": "Black Swan",
+      "skin_id": "04602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_black_swan/avatars/odette_black_swan_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_black_swan/portraits/odette_black_swan_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "christmas_carnival": {
+      "name": "Christmas Carnival",
+      "skin_id": "04603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_christmas_carnival/avatars/odette_christmas_carnival_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_christmas_carnival/portraits/odette_christmas_carnival_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mermaid_princess": {
+      "name": "Mermaid Princess",
+      "skin_id": "04604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_mermaid_princess/avatars/odette_mermaid_princess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_mermaid_princess/portraits/odette_mermaid_princess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "butterfly_goddess": {
+      "name": "Butterfly Goddess",
+      "skin_id": "04605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_butterfly_goddess/avatars/odette_butterfly_goddess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_butterfly_goddess/portraits/odette_butterfly_goddess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "butterfly_faerie": {
+      "name": "Butterfly Faerie",
+      "skin_id": "04605a",
+      "release_order": 5,
+      "painted_of": "Butterfly Goddess",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_butterfly_faerie/avatars/odette_butterfly_faerie_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_butterfly_faerie/portraits/odette_butterfly_faerie_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "virgo": {
+      "name": "Virgo",
+      "skin_id": "04606",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_virgo/avatars/odette_virgo_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_virgo/portraits/odette_virgo_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "auspicious_charm": {
+      "name": "Auspicious Charm",
+      "skin_id": "04607",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_auspicious_charm/avatars/odette_auspicious_charm_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_auspicious_charm/portraits/odette_auspicious_charm_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sage_of_the_currents": {
+      "name": "Sage of the Currents",
+      "skin_id": "04608",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_sage_of_the_currents/avatars/odette_sage_of_the_currents_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_sage_of_the_currents/portraits/odette_sage_of_the_currents_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wisdom_of_the_stars": {
+      "name": "Wisdom of the Stars",
+      "skin_id": "04609",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_wisdom_of_the_stars/avatars/odette_wisdom_of_the_stars_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_wisdom_of_the_stars/portraits/odette_wisdom_of_the_stars_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wisdom_of_hearts": {
+      "name": "Wisdom of Hearts",
+      "skin_id": "04609a",
+      "release_order": 9,
+      "painted_of": "Wisdom of the Stars",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_wisdom_of_hearts/avatars/odette_wisdom_of_hearts_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_wisdom_of_hearts/portraits/odette_wisdom_of_hearts_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wisdom_of_devotion": {
+      "name": "Wisdom of Devotion",
+      "skin_id": "04609b",
+      "release_order": 9,
+      "painted_of": "Wisdom of the Stars",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/odette/odette_wisdom_of_devotion/avatars/odette_wisdom_of_devotion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/odette/odette_wisdom_of_devotion/portraits/odette_wisdom_of_devotion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

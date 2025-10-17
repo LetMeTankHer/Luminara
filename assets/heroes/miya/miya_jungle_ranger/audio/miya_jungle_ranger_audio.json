@@ -1,0 +1,48 @@
+{
+    "hero_selection": {
+        "background": [
+            {
+                "name": "miya_jungler_ranger_hero_select_bg",
+                "file": "assets/heroes/miya/miya_jungle_ranger/audio/hero_selection/background/miya_jungler_ranger_hero_select_bg.mp3",
+                "translation": "",
+                "subtitle": "Jungler Ranger Hero Select Bg"
+            }
+        ],
+        "dialog": {
+            "arabic": [],
+            "bahasa_indonesia": [],
+            "chinese": [],
+            "english": [],
+            "espanol": [],
+            "japanese": [],
+            "portuguese": [],
+            "russian": [],
+            "tagalog": [],
+            "turkish": []
+        }
+    },
+    "in_game_dialog": {
+        "arabic": [],
+        "bahasa_indonesia": [],
+        "chinese": [],
+        "english": [],
+        "espanol": [],
+        "japanese": [],
+        "portuguese": [],
+        "russian": [],
+        "tagalog": [],
+        "turkish": []
+    },
+    "main_interface_dialog": {
+        "arabic": [],
+        "bahasa_indonesia": [],
+        "chinese": [],
+        "english": [],
+        "espanol": [],
+        "japanese": [],
+        "portuguese": [],
+        "russian": [],
+        "tagalog": [],
+        "turkish": []
+    }
+}

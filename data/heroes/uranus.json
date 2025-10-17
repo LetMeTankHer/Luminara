@@ -1,0 +1,195 @@
+{
+  "id": "059",
+  "name": "Uranus",
+  "lore": "The Celestial Palace - Legend has it that the city floating above the skies of the Land of Dawn was once home to the Gods. It is also rumored that this mysterious place holds the key to ruling the world. Eons ago, the ruler of the Celestial Palace utilized the technological secret of the ancients to create Uranus",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "aethereal_defender": {
+      "name": "Aethereal Defender",
+      "skin_id": "05901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_aethereal_defender/avatars/uranus_aethereal_defender_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_aethereal_defender/portraits/uranus_aethereal_defender_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ancient_soul": {
+      "name": "Ancient Soul",
+      "skin_id": "05902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_ancient_soul/avatars/uranus_ancient_soul_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_ancient_soul/portraits/uranus_ancient_soul_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mech_protector": {
+      "name": "Mech Protector",
+      "skin_id": "05903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_mech_protector/avatars/uranus_mech_protector_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_mech_protector/portraits/uranus_mech_protector_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "video_game_dominator": {
+      "name": "Video Game Dominator",
+      "skin_id": "05904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_video_game_dominator/avatars/uranus_video_game_dominator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_video_game_dominator/portraits/uranus_video_game_dominator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pinball_machine": {
+      "name": "Pinball Machine",
+      "skin_id": "05905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_pinball_machine/avatars/uranus_pinball_machine_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_pinball_machine/portraits/uranus_pinball_machine_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fortune_machine": {
+      "name": "Fortune Machine",
+      "skin_id": "05905a",
+      "release_order": 5,
+      "painted_of": "Pinball Machine",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_fortune_machine/avatars/uranus_fortune_machine_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_fortune_machine/portraits/uranus_fortune_machine_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "celestial_bastion": {
+      "name": "Celestial Bastion",
+      "skin_id": "05906",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_celestial_bastion/avatars/uranus_celestial_bastion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_celestial_bastion/portraits/uranus_celestial_bastion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "earthen_relic": {
+      "name": "Earthen Relic",
+      "skin_id": "05907",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/uranus/uranus_earthen_relic/avatars/uranus_earthen_relic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/uranus/uranus_earthen_relic/portraits/uranus_earthen_relic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

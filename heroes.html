@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/Luminara/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>...</title>
+    <script type="module" crossorigin src="/Luminara/assets/heroes-CcSM9rxQ.js"></script>
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/preload-helper-DatU6rzX.js">
+    <link rel="modulepreload" crossorigin href="/Luminara/assets/utilities-B1GvWzLx.js">
+    <link rel="stylesheet" crossorigin href="/Luminara/assets/preload-helper-B5_9uHTz.css">
+  </head>
+
+  <body class="bg-body">
+    <!-- Navbar -->
+
+    <div id="navbarContainer"></div>
+    <!-- Breadcrumb -->
+    <div class="mt-32 px-6 text-sm text-gray-400">
+      <nav class="flex items-center space-x-2">
+        <a
+          data-path="index.html"
+          class="hover:text-primary text-text-dull cursor-pointer bread-link"
+          >Home</a
+        >
+        <span>&gt;</span>
+        <a
+          data-path="heroes.html"
+          class="text-text hover:text-primary cursor-pointer bread-link"
+          >Heroes</a
+        >
+      </nav>
+    </div>
+
+    <!-- Main Layout -->
+    <div class="grid grid-cols-1 lg:grid-cols-[3fr_1fr] gap-6 px-6 mt-6">
+      <!-- Left Section: Heroes List -->
+      <div
+        id="hero-list"
+        class="order-2 lg:order-1 space-y-8 border bg-background rounded-xl p-4 min-w-[300px]"
+      ></div>
+
+      <!-- Right Section: Advertisement -->
+      <aside class="order-1 lg:order-2 lg:block min-w-[200px]">
+        <div
+          class="sticky top-28 bg-background border rounded-xl shadow-md p-4"
+        >
+          <h3 class="font-bold mb-3 text-text">Sponsored</h3>
+          <a href="https://example.com" target="_blank">
+            <img
+              src="/assets/ads/sample-ad.jpg"
+              alt="Advertisement"
+              class="rounded-lg shadow text-text"
+            />
+          </a>
+        </div>
+      </aside>
+    </div>
+
+  </body>
+</html>

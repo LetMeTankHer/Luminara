@@ -1,0 +1,287 @@
+{
+  "id": "068",
+  "name": "Lunox",
+  "lore": "Lunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "twilight_goddess": {
+      "name": "Twilight Goddess",
+      "skin_id": "06801",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_twilight_goddess/avatars/lunox_twilight_goddess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_twilight_goddess/portraits/lunox_twilight_goddess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bloody_mary": {
+      "name": "Bloody Mary",
+      "skin_id": "06802",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_bloody_mary/avatars/lunox_bloody_mary_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_bloody_mary/portraits/lunox_bloody_mary_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cosmic_harmony": {
+      "name": "Cosmic Harmony",
+      "skin_id": "06803",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_cosmic_harmony/avatars/lunox_cosmic_harmony_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_cosmic_harmony/portraits/lunox_cosmic_harmony_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nature_harmony": {
+      "name": "Nature Harmony",
+      "skin_id": "06803a",
+      "release_order": 3,
+      "painted_of": "Cosmic Harmony",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_nature_harmony/avatars/lunox_nature_harmony_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_nature_harmony/portraits/lunox_nature_harmony_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ash_blossom": {
+      "name": "Ash Blossom",
+      "skin_id": "06804",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_ash_blossom/avatars/lunox_ash_blossom_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_ash_blossom/portraits/lunox_ash_blossom_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "libra": {
+      "name": "Libra",
+      "skin_id": "06805",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_libra/avatars/lunox_libra_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_libra/portraits/lunox_libra_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "butterfly_seraphim": {
+      "name": "Butterfly Seraphim",
+      "skin_id": "06806",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_butterfly_seraphim/avatars/lunox_butterfly_seraphim_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_butterfly_seraphim/portraits/lunox_butterfly_seraphim_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "eyes_of_eternity": {
+      "name": "Eyes of Eternity",
+      "skin_id": "06807",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_eyes_of_eternity/avatars/lunox_eyes_of_eternity_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_eyes_of_eternity/portraits/lunox_eyes_of_eternity_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dawn_revelation": {
+      "name": "Dawn Revelation",
+      "skin_id": "06808",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_dawn_revelation/avatars/lunox_dawn_revelation_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_dawn_revelation/portraits/lunox_dawn_revelation_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "divine_goddess": {
+      "name": "Divine Goddess",
+      "skin_id": "06809",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_divine_goddess/avatars/lunox_divine_goddess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_divine_goddess/portraits/lunox_divine_goddess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "natures_harmony": {
+      "name": "Natures Harmony",
+      "skin_id": "06810",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_natures_harmony/avatars/lunox_natures_harmony_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_natures_harmony/portraits/lunox_natures_harmony_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "quantum_polarity": {
+      "name": "Quantum Polarity",
+      "skin_id": "06811",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lunox/lunox_quantum_polarity/avatars/lunox_quantum_polarity_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lunox/lunox_quantum_polarity/portraits/lunox_quantum_polarity_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

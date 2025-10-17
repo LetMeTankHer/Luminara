@@ -1,0 +1,173 @@
+{
+  "id": "115",
+  "name": "Xavier",
+  "lore": "Xavier was a member of the Knights of Light who was awarded the title \"Arbiter of Light\". After suppressing Terizla's Free Smiths' Guild, Xavier underwent a decade of inner struggle and despondency.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "defier_of_light": {
+      "name": "Defier of Light",
+      "skin_id": "11501",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_defier_of_light/avatars/xavier_defier_of_light_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_defier_of_light/portraits/xavier_defier_of_light_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "verdict_of_light": {
+      "name": "Verdict of Light",
+      "skin_id": "11502",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_verdict_of_light/avatars/xavier_verdict_of_light_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_verdict_of_light/portraits/xavier_verdict_of_light_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "satoru_gojo": {
+      "name": "Satoru Gojo",
+      "skin_id": "11503",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_satoru_gojo/avatars/xavier_satoru_gojo_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_satoru_gojo/portraits/xavier_satoru_gojo_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hardlight_artificer": {
+      "name": "Hardlight Artificer",
+      "skin_id": "11504",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_hardlight_artificer/avatars/xavier_hardlight_artificer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_hardlight_artificer/portraits/xavier_hardlight_artificer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lightwave_artificer": {
+      "name": "Lightwave Artificer",
+      "skin_id": "11504a",
+      "release_order": 4,
+      "painted_of": "Hardlight Artificer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_lightwave_artificer/avatars/xavier_lightwave_artificer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_lightwave_artificer/portraits/xavier_lightwave_artificer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "holotech_artificer": {
+      "name": "Holotech Artificer",
+      "skin_id": "11504b",
+      "release_order": 4,
+      "painted_of": "Hardlight Artificer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_holotech_artificer/avatars/xavier_holotech_artificer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_holotech_artificer/portraits/xavier_holotech_artificer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "beyond_the_clouds_xavier": {
+      "name": "Beyond the Clouds Xavier",
+      "skin_id": "11505",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/xavier/xavier_beyond_the_clouds_xavier/avatars/xavier_beyond_the_clouds_xavier_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/xavier/xavier_beyond_the_clouds_xavier/portraits/xavier_beyond_the_clouds_xavier_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

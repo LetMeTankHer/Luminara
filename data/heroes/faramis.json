@@ -1,0 +1,172 @@
+{
+  "id": "076",
+  "name": "Faramis",
+  "lore": "A gifted physician who came to Necrokeep to study the mysterious plague. Instead of finding the key to controlling life and death, he met Vexana, duchess of the cursed land and the girl who'd brought sunshine to his gloomy life twice.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "soul_binder": {
+      "name": "Soul Binder",
+      "skin_id": "07601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_soul_binder/avatars/faramis_soul_binder_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_soul_binder/portraits/faramis_soul_binder_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dark_necro": {
+      "name": "Dark Necro",
+      "skin_id": "07602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_dark_necro/avatars/faramis_dark_necro_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_dark_necro/portraits/faramis_dark_necro_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_magus": {
+      "name": "Royal Magus",
+      "skin_id": "07603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_royal_magus/avatars/faramis_royal_magus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_royal_magus/portraits/faramis_royal_magus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_sparks": {
+      "name": "Summer Sparks",
+      "skin_id": "07604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_summer_sparks/avatars/faramis_summer_sparks_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_summer_sparks/portraits/faramis_summer_sparks_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "infernal_magister": {
+      "name": "Infernal Magister",
+      "skin_id": "07605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_infernal_magister/avatars/faramis_infernal_magister_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_infernal_magister/portraits/faramis_infernal_magister_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "enigmatic_wayfarer": {
+      "name": "Enigmatic Wayfarer",
+      "skin_id": "07606",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_enigmatic_wayfarer/avatars/faramis_enigmatic_wayfarer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_enigmatic_wayfarer/portraits/faramis_enigmatic_wayfarer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "enigmatic_wanderer": {
+      "name": "Enigmatic Wanderer",
+      "skin_id": "07606a",
+      "release_order": 6,
+      "painted_of": "Enigmatic Wayfarer",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/faramis/faramis_enigmatic_wanderer/avatars/faramis_enigmatic_wanderer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/faramis/faramis_enigmatic_wanderer/portraits/faramis_enigmatic_wanderer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

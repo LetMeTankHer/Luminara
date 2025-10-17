@@ -1,0 +1,217 @@
+{
+  "id": "014",
+  "name": "Rafaela",
+  "lore": "Rafaela and her elder brother Argus are both angels, but Argus was treated differently because of his status as a male target. All praise was given to Rafaela, and all criticism was left to Argus.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "wings_of_holiness": {
+      "name": "Wings of Holiness",
+      "skin_id": "01401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_wings_of_holiness/avatars/rafaela_wings_of_holiness_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_wings_of_holiness/portraits/rafaela_wings_of_holiness_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fertility_goddess": {
+      "name": "Fertility Goddess",
+      "skin_id": "01402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_fertility_goddess/avatars/rafaela_fertility_goddess_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_fertility_goddess/portraits/rafaela_fertility_goddess_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flower_fairy": {
+      "name": "Flower Fairy",
+      "skin_id": "01403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_flower_fairy/avatars/rafaela_flower_fairy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_flower_fairy/portraits/rafaela_flower_fairy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "biomedic": {
+      "name": "Biomedic",
+      "skin_id": "01404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_biomedic/avatars/rafaela_biomedic_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_biomedic/portraits/rafaela_biomedic_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "saber_savior": {
+      "name": "S.A.B.E.R. Savior",
+      "skin_id": "01405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_saber_savior/avatars/rafaela_saber_savior_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_saber_savior/portraits/rafaela_saber_savior_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "star_chaser": {
+      "name": "Star Chaser",
+      "skin_id": "01406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_star_chaser/avatars/rafaela_star_chaser_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_star_chaser/portraits/rafaela_star_chaser_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "angelic_sonata": {
+      "name": "Angelic Sonata",
+      "skin_id": "01407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_angelic_sonata/avatars/rafaela_angelic_sonata_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_angelic_sonata/portraits/rafaela_angelic_sonata_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "seraphic_selfie": {
+      "name": "Seraphic Selfie",
+      "skin_id": "01408",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_seraphic_selfie/avatars/rafaela_seraphic_selfie_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_seraphic_selfie/portraits/rafaela_seraphic_selfie_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "bloom_of_abundance": {
+      "name": "Bloom of Abundance",
+      "skin_id": "01409",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/rafaela/rafaela_bloom_of_abundance/avatars/rafaela_bloom_of_abundance_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/rafaela/rafaela_bloom_of_abundance/portraits/rafaela_bloom_of_abundance_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

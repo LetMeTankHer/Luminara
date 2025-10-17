@@ -1,0 +1,79 @@
+{
+  "id": "124",
+  "name": "Chip",
+  "lore": "Chip was once a small fox just trying to survive in the harsh deserts of Agelta. By chance, he was found by Dr. Baker and brought to Laboratory 1718 where he was genetically enhanced with superior intelligence and tasked with testing the lab's portal technology.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "phase_technician": {
+      "name": "Phase Technician",
+      "skin_id": "12401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chip/chip_phase_technician/avatars/chip_phase_technician_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chip/chip_phase_technician/portraits/chip_phase_technician_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nexus_engineer": {
+      "name": "Nexus Engineer",
+      "skin_id": "12402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chip/chip_nexus_engineer/avatars/chip_nexus_engineer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chip/chip_nexus_engineer/portraits/chip_nexus_engineer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "badlands_hiatus": {
+      "name": "Badlands Hiatus",
+      "skin_id": "12403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/chip/chip_badlands_hiatus/avatars/chip_badlands_hiatus_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/chip/chip_badlands_hiatus/portraits/chip_badlands_hiatus_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

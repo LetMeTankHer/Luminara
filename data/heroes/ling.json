@@ -1,0 +1,181 @@
+{
+  "id": "084",
+  "name": "Ling",
+  "lore": "Ling once belonged to the Finch Sect, a mysterious and feared order of assassins from the Cadia Riverlands. During a mission, he nearly lost his life but was saved by the Vermilion Bird; it was an encounter that would kindle his yearning for freedom.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "cyan_finch": {
+      "name": "Cyan Finch",
+      "skin_id": "08401",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_cyan_finch/avatars/ling_cyan_finch_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_cyan_finch/portraits/ling_cyan_finch_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "fiery_dance": {
+      "name": "Fiery Dance",
+      "skin_id": "08402",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_fiery_dance/avatars/ling_fiery_dance_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_fiery_dance/portraits/ling_fiery_dance_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "street_punk": {
+      "name": "Street Punk",
+      "skin_id": "08403",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_street_punk/avatars/ling_street_punk_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_street_punk/portraits/ling_street_punk_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "night_shade": {
+      "name": "Night Shade",
+      "skin_id": "08404",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_night_shade/avatars/ling_night_shade_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_night_shade/portraits/ling_night_shade_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cosmo_guard": {
+      "name": "Cosmo Guard",
+      "skin_id": "08405",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_cosmo_guard/avatars/ling_cosmo_guard_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_cosmo_guard/portraits/ling_cosmo_guard_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "serene_plume": {
+      "name": "Serene Plume",
+      "skin_id": "08406",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_serene_plume/avatars/ling_serene_plume_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_serene_plume/portraits/ling_serene_plume_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "m_world_ling": {
+      "name": "M World Ling",
+      "skin_id": "08407",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_m_world_ling/avatars/ling_m_world_ling_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_m_world_ling/portraits/ling_m_world_ling_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lord_shen": {
+      "name": "Lord Shen",
+      "skin_id": "08408",
+      "release_order": 8,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_lord_shen/avatars/ling_lord_shen_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_lord_shen/portraits/ling_lord_shen_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neobeast_ling": {
+      "name": "Neobeast Ling",
+      "skin_id": "08410",
+      "release_order": 10,
+      "avatars": {
+        "default": "assets/heroes/ling/ling_neobeast_ling/avatars/ling_neobeast_ling_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/ling/ling_neobeast_ling/portraits/ling_neobeast_ling_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

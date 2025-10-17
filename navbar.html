@@ -1,0 +1,204 @@
+<!-- Navbar -->
+<nav
+  class="fixed top-4 left-2 right-2 rounded-xl px-6 py-2 flex items-center justify-between bg-background/80 text-text shadow-md transition-all duration-300 z-50"
+>
+  <!-- Left side: logo + text -->
+<a data-path="index.html" class="flex items-center gap-3 select-none logo-link">
+  <img src="logo2x.png" alt="Logo" class="h-12 w-12 object-contain" />
+  <span class="font-bold text-xl">LUMINARA</span>
+</a>
+
+
+  <!-- Desktop navbar -->
+  <div class="relative hidden md:flex items-center gap-6 select-none">
+    <a class="nav-link" data-path="index.html">
+  <i class="fa-solid fa-home"></i> Home
+</a>
+<a class="nav-link" data-path="heroes.html">
+  <i class="fa-solid fa-gem"></i> Heroes
+</a>
+<a class="nav-link" data-path="commanders.html">
+  <i class="fa-solid fa-shield-alt"></i> Commanders
+</a>
+<a class="nav-link" data-path="extras.html">
+  <i class="fa-solid fa-wand-sparkles"></i> Extras
+</a>
+
+    <span href="#" class="text-text"> | </span>
+
+    <!-- Search button (already in navbar) -->
+    <button
+      id="openSearch"
+      aria-label="Search"
+      class="p-1 rounded transition hover:text-primary"
+    >
+      <i class="fa-solid fa-magnifying-glass"></i>
+    </button>
+
+    <!-- Theme toggle -->
+    <button
+      id="themeToggle"
+      aria-label="Toggle theme"
+      title="Toggle Theme"
+      class="p-1 rounded transition hover:text-primary"
+    >
+      <i class="fa-solid fa-sun"></i>
+    </button>
+
+    <button class="btn" id="supportBtn">Support Us</button>
+    <!-- Support Box -->
+    <div
+      id="supportPopup"
+      class="hidden absolute top-full mt-2 right-0 bg-background text-text border border-primary rounded-md shadow-lg p-4 w-54 h-60 z-50"
+    >
+      <a
+        href="https://ko-fi.com/letmetankher9870"
+        target="_blank"
+        class="btn flex items-center gap-2 bg-[#167da6] text-white hover:contrast-125 mb-2"
+      >
+        <i class="fa-solid fa-coffee"></i> Ko-fi
+      </a>
+      <a
+        href="https://www.patreon.com/c/letmetankher9870"
+        target="_blank"
+        class="btn flex items-center gap-2 bg-[#e35b49] text-white hover:contrast-125 mb-2"
+      >
+        <i class="fa-brands fa-patreon"></i> Patreon
+      </a>
+      <!-- Telegram link -->
+      <a
+        href="https://t.me/lmthmlbbasset"
+        target="_blank"
+        class="btn flex items-center gap-2 bg-[#0088cc] text-white hover:contrast-125 mb-2"
+      >
+        <i class="fa-brands fa-telegram"></i> Telegram
+      </a>
+
+      <p class="text-xs mt-4 text-text text-center">
+        Every little contribution helps keep the project alive! ❤️
+      </p>
+      <p class="text-xs my-4 text-text text-center">
+        Thank you for supporting us!
+      </p>
+    </div>
+  </div>
+
+  <!-- Hamburger menu (mobile) -->
+  <button
+    id="menuToggle"
+    class="md:hidden rounded-md hover:text-primary transition text-xl"
+    aria-label="Toggle menu"
+  >
+    <i class="fa-solid fa-burger"></i>
+  </button>
+</nav>
+
+</nav>
+
+<!-- Search overlay (popup box goes here, outside navbar) -->
+<div
+  id="searchOverlay"
+  class="fixed inset-0 bg-black/60 hidden z-[999] flex items-center justify-center"
+>
+<div
+  id="searchBox"
+  class="scrollbar-thin scrollbar-thumb-primary scrollbar-track-background
+         bg-body text-text rounded-xl shadow-lg
+         w-[28rem] max-w-[90%]  
+         h-[60vh]               
+         overflow-y-auto flex flex-col border border-text-dull"
+> 
+
+
+    <!-- Header -->
+    <div class="flex justify-between items-center border-b border-text-dull p-3">
+      <div class="flex items-center gap-3 w-full">
+        <i class="fa-solid fa-magnifying-glass text-primary"></i>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Search by champion, skin, tactician..."
+          class="w-full bg-transparent focus:outline-none"
+        />
+      </div>
+      <button
+        id="closeSearch"
+        class="ml-4 text-lg text-primary hover:text-red-500 transition"
+      >
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+    </div>
+
+     <!-- Helper text -->
+    <p class="text-sm text-muted p-3" id="searchHelperText">
+      You can search by champion, skin, commander, and more.
+    </p>
+
+    <!-- Search results -->
+    <div
+      id="searchResults"
+      class="p-3rid gap-3 p-1 overflow-y-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-background"
+    ></div>
+  </div>
+</div>
+
+
+<!-- Mobile sliding menu -->
+<div
+  id="navMenu"
+  class="fixed top-0 right-0 h-full w-80 bg-background text-text transform translate-x-full transition-transform duration-300 shadow-lg z-50 md:hidden flex flex-col p-4"
+>
+  <!-- Close button -->
+  <button
+    id="menuClose"
+    class="self-end mb-2 transition text-primary hover:text-text"
+  >
+    <i class="fa-solid fa-xmark text-lg"></i>
+  </button>
+
+  <!-- Navigation links -->
+  <nav class="flex flex-col py-6 gap-3 border-y-1 border-text pb-4">
+   <a class="mobile-nav-link" data-path="index.html">
+  <span>Home</span>
+</a>
+<a class="mobile-nav-link" data-path="heroes.html">
+  <span>Heroes</span>
+</a>
+<a class="mobile-nav-link" data-path="commanders.html">
+  <span>Commanders</span>
+</a>
+<a class="mobile-nav-link" data-path="extras.html">
+  <span>Extras</span>
+</a>
+  <a
+        href="https://ko-fi.com/letmetankher9870"
+        target="_blank"
+        class="btn flex items-center gap-2 bg-[#167da6] text-white hover:contrast-125 mb-2"
+      >
+        <i class="fa-solid fa-coffee"></i> Ko-fi
+      </a>
+      <a
+        href="https://www.patreon.com/c/letmetankher9870"
+        target="_blank"
+        class="btn flex items-center gap-2 bg-[#e35b49] text-white hover:contrast-125 mb-2"
+      >
+        <i class="fa-brands fa-patreon"></i> Patreon
+      </a>
+      <!-- Telegram link -->
+      <a
+        href="https://t.me/lmthmlbbasset"
+        target="_blank"
+        class="btn flex items-center gap-2 bg-[#0088cc] text-white hover:contrast-125 mb-2"
+      >
+        <i class="fa-brands fa-telegram"></i> Telegram
+      </a>
+
+  
+    
+  </nav>
+  <!-- Theme toggle -->
+  <button id="themeToggleMobile" class="mt-4 btn-two">
+    <i class="fa-solid fa-sun"></i>
+    Toggle Theme
+  </button>
+</div>

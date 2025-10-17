@@ -1,0 +1,196 @@
+{
+  "id": "117",
+  "name": "Fredrinn",
+  "lore": "Born the son of Duke Vance, Fredrinn grew up into a gifted adventurer, but also the notorious 'money-grubber' in Los Pecados. The crystal in his chest had long merged with his heart.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "rogue_appraiser": {
+      "name": "Rogue Appraiser",
+      "skin_id": "11701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_rogue_appraiser/avatars/fredrinn_rogue_appraiser_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_rogue_appraiser/portraits/fredrinn_rogue_appraiser_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "regal_renegade": {
+      "name": "Regal Renegade",
+      "skin_id": "11702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_regal_renegade/avatars/fredrinn_regal_renegade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_regal_renegade/portraits/fredrinn_regal_renegade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jewel_connoisseur": {
+      "name": "Jewel Connoisseur",
+      "skin_id": "11703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_jewel_connoisseur/avatars/fredrinn_jewel_connoisseur_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_jewel_connoisseur/portraits/fredrinn_jewel_connoisseur_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "neobeast_fredrinn": {
+      "name": "Neobeast Fredrinn",
+      "skin_id": "11704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_neobeast_fredrinn/avatars/fredrinn_neobeast_fredrinn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_neobeast_fredrinn/portraits/fredrinn_neobeast_fredrinn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sparkle_fredrinn": {
+      "name": "Sparkle Fredrinn",
+      "skin_id": "11705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_sparkle_fredrinn/avatars/fredrinn_sparkle_fredrinn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_sparkle_fredrinn/portraits/fredrinn_sparkle_fredrinn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_marshal": {
+      "name": "Royal Marshal",
+      "skin_id": "11706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_royal_marshal/avatars/fredrinn_royal_marshal_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_royal_marshal/portraits/fredrinn_royal_marshal_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_marshall": {
+      "name": "Royal Marshall",
+      "skin_id": "11706a",
+      "release_order": 6,
+      "painted_of": "Royal Marshal",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_royal_marshall/avatars/fredrinn_royal_marshall_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_royal_marshall/portraits/fredrinn_royal_marshall_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_marshalll": {
+      "name": "Royal Marshalll",
+      "skin_id": "11706b",
+      "release_order": 6,
+      "painted_of": "Royal Marshal",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/fredrinn/fredrinn_royal_marshalll/avatars/fredrinn_royal_marshalll_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/fredrinn/fredrinn_royal_marshalll/portraits/fredrinn_royal_marshalll_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

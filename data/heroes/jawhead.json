@@ -1,0 +1,288 @@
+{
+  "id": "054",
+  "name": "Jawhead",
+  "lore": "This intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "steel_sweetheart": {
+      "name": "Steel Sweetheart",
+      "skin_id": "05401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_steel_sweetheart/avatars/jawhead_steel_sweetheart_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_steel_sweetheart/portraits/jawhead_steel_sweetheart_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "girl_scout": {
+      "name": "Girl Scout",
+      "skin_id": "05402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_girl_scout/avatars/jawhead_girl_scout_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_girl_scout/portraits/jawhead_girl_scout_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "space_explorer": {
+      "name": "Space Explorer",
+      "skin_id": "05403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_space_explorer/avatars/jawhead_space_explorer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_space_explorer/portraits/jawhead_space_explorer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "foo_quarterback": {
+      "name": "Foo Quarterback",
+      "skin_id": "05404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_foo_quarterback/avatars/jawhead_foo_quarterback_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_foo_quarterback/portraits/jawhead_foo_quarterback_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "the_nutcracker": {
+      "name": "The Nutcracker",
+      "skin_id": "05405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_the_nutcracker/avatars/jawhead_the_nutcracker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_the_nutcracker/portraits/jawhead_the_nutcracker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "field_commander": {
+      "name": "Field Commander",
+      "skin_id": "05405a",
+      "release_order": 5,
+      "painted_of": "The Nutcracker",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_field_commander/avatars/jawhead_field_commander_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_field_commander/portraits/jawhead_field_commander_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "samurai_mech": {
+      "name": "Samurai Mech",
+      "skin_id": "05406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_samurai_mech/avatars/jawhead_samurai_mech_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_samurai_mech/portraits/jawhead_samurai_mech_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "candy_bear": {
+      "name": "Candy Bear",
+      "skin_id": "05407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_candy_bear/avatars/jawhead_candy_bear_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_candy_bear/portraits/jawhead_candy_bear_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_ranger": {
+      "name": "Cyber Ranger",
+      "skin_id": "05408",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_cyber_ranger/avatars/jawhead_cyber_ranger_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_cyber_ranger/portraits/jawhead_cyber_ranger_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "victory_loader": {
+      "name": "Victory Loader",
+      "skin_id": "05409",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_victory_loader/avatars/jawhead_victory_loader_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_victory_loader/portraits/jawhead_victory_loader_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "proto_guardian": {
+      "name": "Proto Guardian",
+      "skin_id": "05410",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_proto_guardian/avatars/jawhead_proto_guardian_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_proto_guardian/portraits/jawhead_proto_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "proto_sentinel": {
+      "name": "Proto Sentinel",
+      "skin_id": "05410a",
+      "release_order": 10,
+      "painted_of": "Proto Guardian",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/jawhead/jawhead_proto_sentinel/avatars/jawhead_proto_sentinel_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/jawhead/jawhead_proto_sentinel/portraits/jawhead_proto_sentinel_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

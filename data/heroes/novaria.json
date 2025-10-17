@@ -1,0 +1,150 @@
+{
+  "id": "119",
+  "name": "Novaria",
+  "lore": "Novaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas.\n\nBut unlike the countless times before, an exceptionally bright star could be seen this night. As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "star_rebel": {
+      "name": "Star Rebel",
+      "skin_id": "11901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/novaria/novaria_star_rebel/avatars/novaria_star_rebel_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/novaria/novaria_star_rebel/portraits/novaria_star_rebel_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "void_star": {
+      "name": "Void Star",
+      "skin_id": "11902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/novaria/novaria_void_star/avatars/novaria_void_star_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/novaria/novaria_void_star/portraits/novaria_void_star_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sugar_glaze": {
+      "name": "Sugar Glaze",
+      "skin_id": "11903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/novaria/novaria_sugar_glaze/avatars/novaria_sugar_glaze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/novaria/novaria_sugar_glaze/portraits/novaria_sugar_glaze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "honey_glaze": {
+      "name": "Honey Glaze",
+      "skin_id": "11903a",
+      "release_order": 3,
+      "painted_of": "Sugar Glaze",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/novaria/novaria_honey_glaze/avatars/novaria_honey_glaze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/novaria/novaria_honey_glaze/portraits/novaria_honey_glaze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "aqua_glaze": {
+      "name": "Aqua Glaze",
+      "skin_id": "11903b",
+      "release_order": 3,
+      "painted_of": "Sugar Glaze",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/novaria/novaria_aqua_glaze/avatars/novaria_aqua_glaze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/novaria/novaria_aqua_glaze/portraits/novaria_aqua_glaze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dragonsworn": {
+      "name": "Dragonsworn",
+      "skin_id": "11904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/novaria/novaria_dragonsworn/avatars/novaria_dragonsworn_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/novaria/novaria_dragonsworn/portraits/novaria_dragonsworn_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

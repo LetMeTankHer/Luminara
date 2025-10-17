@@ -1,0 +1,79 @@
+{
+  "id": "127",
+  "name": "Lukas",
+  "lore": "Lukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "beast_of_light": {
+      "name": "Beast of Light",
+      "skin_id": "12701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lukas/lukas_beast_of_light/avatars/lukas_beast_of_light_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lukas/lukas_beast_of_light/portraits/lukas_beast_of_light_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ardent_roar": {
+      "name": "Ardent Roar",
+      "skin_id": "12702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lukas/lukas_ardent_roar/avatars/lukas_ardent_roar_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lukas/lukas_ardent_roar/portraits/lukas_ardent_roar_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "naruto_uzumaki": {
+      "name": "Naruto Uzumaki",
+      "skin_id": "12703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lukas/lukas_naruto_uzumaki/avatars/lukas_naruto_uzumaki_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lukas/lukas_naruto_uzumaki/portraits/lukas_naruto_uzumaki_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

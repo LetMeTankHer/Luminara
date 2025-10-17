@@ -1,0 +1,195 @@
+{
+  "id": "004",
+  "name": "Alice",
+  "lore": "Alice was born in the era of strife long ago. As an illegitimate daughter, she suffered humiliation since she was a child, bewitched by the demons.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "queen_of_blood": {
+      "name": "Queen of Blood",
+      "skin_id": "00401",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_queen_of_blood/avatars/alice_queen_of_blood_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_queen_of_blood/portraits/alice_queen_of_blood_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spirit_woman": {
+      "name": "Spirit Woman",
+      "skin_id": "00402",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_spirit_woman/avatars/alice_spirit_woman_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_spirit_woman/portraits/alice_spirit_woman_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "wizardry_teacher": {
+      "name": "Wizardry Teacher",
+      "skin_id": "00403",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_wizardry_teacher/avatars/alice_wizardry_teacher_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_wizardry_teacher/portraits/alice_wizardry_teacher_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "divine_owl": {
+      "name": "Divine Owl",
+      "skin_id": "00404",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_divine_owl/avatars/alice_divine_owl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_divine_owl/portraits/alice_divine_owl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "divine_phoenix": {
+      "name": "Divine Phoenix",
+      "skin_id": "00404a",
+      "release_order": 4,
+      "painted_of": "Divine Owl",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_divine_phoenix/avatars/alice_divine_phoenix_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_divine_phoenix/portraits/alice_divine_phoenix_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "steam_glider": {
+      "name": "Steam Glider",
+      "skin_id": "00405",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_steam_glider/avatars/alice_steam_glider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_steam_glider/portraits/alice_steam_glider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "jade_empress": {
+      "name": "Jade Empress",
+      "skin_id": "00406",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_jade_empress/avatars/alice_jade_empress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_jade_empress/portraits/alice_jade_empress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "darknet_temptress": {
+      "name": "Darknet Temptress",
+      "skin_id": "00407",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/alice/alice_darknet_temptress/avatars/alice_darknet_temptress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/alice/alice_darknet_temptress/portraits/alice_darknet_temptress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

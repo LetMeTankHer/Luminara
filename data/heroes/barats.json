@@ -1,0 +1,172 @@
+{
+  "id": "099",
+  "name": "Barats",
+  "lore": "Barats was born in such a Politan village, and he was born a naughty boy. Everyone in the village was annoyed by his trouble making nature. And such a childish personality didn't change even after Barats grew up.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "dino_rider": {
+      "name": "Dino Rider",
+      "skin_id": "09901",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_dino_rider/avatars/barats_dino_rider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_dino_rider/portraits/barats_dino_rider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "armored_lizard": {
+      "name": "Armored Lizard",
+      "skin_id": "09902",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_armored_lizard/avatars/barats_armored_lizard_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_armored_lizard/portraits/barats_armored_lizard_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "toy_rex": {
+      "name": "Toy Rex",
+      "skin_id": "09903",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_toy_rex/avatars/barats_toy_rex_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_toy_rex/portraits/barats_toy_rex_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "baratstein": {
+      "name": "Baratstein",
+      "skin_id": "09904",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_baratstein/avatars/barats_baratstein_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_baratstein/portraits/barats_baratstein_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "war_chief": {
+      "name": "War Chief",
+      "skin_id": "09905",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_war_chief/avatars/barats_war_chief_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_war_chief/portraits/barats_war_chief_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sunken_predator": {
+      "name": "Sunken Predator",
+      "skin_id": "09906",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_sunken_predator/avatars/barats_sunken_predator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_sunken_predator/portraits/barats_sunken_predator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "scalding_predator": {
+      "name": "Scalding Predator",
+      "skin_id": "09906a",
+      "release_order": 6,
+      "painted_of": "Sunken Predator",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/barats/barats_scalding_predator/avatars/barats_scalding_predator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/barats/barats_scalding_predator/portraits/barats_scalding_predator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "041",
+  "name": "Gatotkaca",
+  "lore": "Gatotkaca the \"Mighty Legend\" was the son of Bima and Arimbi from the Arcapada universe. Since his childhood, he's been a champion of Gods and fought against the wicked enemies of his homeland.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "mighty_legend": {
+      "name": "Mighty Legend",
+      "skin_id": "04101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_mighty_legend/avatars/gatotkaca_mighty_legend_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_mighty_legend/portraits/gatotkaca_mighty_legend_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "mighty_guardian": {
+      "name": "Mighty Guardian",
+      "skin_id": "04102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_mighty_guardian/avatars/gatotkaca_mighty_guardian_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_mighty_guardian/portraits/gatotkaca_mighty_guardian_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "arhat_king": {
+      "name": "Arhat King",
+      "skin_id": "04103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_arhat_king/avatars/gatotkaca_arhat_king_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_arhat_king/portraits/gatotkaca_arhat_king_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "steeler": {
+      "name": "Steeler",
+      "skin_id": "04103a",
+      "release_order": 3,
+      "painted_of": "Arhat King",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_steeler/avatars/gatotkaca_steeler_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_steeler/portraits/gatotkaca_steeler_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "sentinel": {
+      "name": "Sentinel",
+      "skin_id": "04104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_sentinel/avatars/gatotkaca_sentinel_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_sentinel/portraits/gatotkaca_sentinel_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "spark": {
+      "name": "Spark",
+      "skin_id": "04105",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_spark/avatars/gatotkaca_spark_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_spark/portraits/gatotkaca_spark_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "tide_preserver": {
+      "name": "Tide Preserver",
+      "skin_id": "04106",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_tide_preserver/avatars/gatotkaca_tide_preserver_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_tide_preserver/portraits/gatotkaca_tide_preserver_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nutcracker_monarch": {
+      "name": "Nutcracker Monarch",
+      "skin_id": "04107",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_nutcracker_monarch/avatars/gatotkaca_nutcracker_monarch_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_nutcracker_monarch/portraits/gatotkaca_nutcracker_monarch_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nutcracker_earl": {
+      "name": "Nutcracker Earl",
+      "skin_id": "04107a",
+      "release_order": 7,
+      "painted_of": "Nutcracker Monarch",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_nutcracker_earl/avatars/gatotkaca_nutcracker_earl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_nutcracker_earl/portraits/gatotkaca_nutcracker_earl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "nutcracker_duke": {
+      "name": "Nutcracker Duke",
+      "skin_id": "04107b",
+      "release_order": 7,
+      "painted_of": "Nutcracker Monarch",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_nutcracker_duke/avatars/gatotkaca_nutcracker_duke_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gatotkaca/gatotkaca_nutcracker_duke/portraits/gatotkaca_nutcracker_duke_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

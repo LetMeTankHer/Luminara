@@ -1,0 +1,163 @@
+{
+  "id": "082",
+  "name": "Terizla",
+  "lore": "The once-revered master craftsman was now known as the notorious Executioner of the Abyss, but Terizla didn't care. From the moment he was framed as a heretic by the Church, he had been wielding his hammer solely for revenge, for the day he could at last soothe the restless souls of his kin.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "executioner": {
+      "name": "Executioner",
+      "skin_id": "08201",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_executioner/avatars/terizla_executioner_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_executioner/portraits/terizla_executioner_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "abyss_guard": {
+      "name": "Abyss Guard",
+      "skin_id": "08202",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_abyss_guard/avatars/terizla_abyss_guard_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_abyss_guard/portraits/terizla_abyss_guard_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flare": {
+      "name": "Flare",
+      "skin_id": "08203",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_flare/avatars/terizla_flare_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_flare/portraits/terizla_flare_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "ember_flare": {
+      "name": "Ember Flare",
+      "skin_id": "08203a",
+      "release_order": 3,
+      "painted_of": "Flare",
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_ember_flare/avatars/terizla_ember_flare_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_ember_flare/portraits/terizla_ember_flare_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hammer_giant": {
+      "name": "Hammer Giant",
+      "skin_id": "08204",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_hammer_giant/avatars/terizla_hammer_giant_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_hammer_giant/portraits/terizla_hammer_giant_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "rustwreck": {
+      "name": "Rustwreck",
+      "skin_id": "08205",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_rustwreck/avatars/terizla_rustwreck_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_rustwreck/portraits/terizla_rustwreck_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flames_of_judgement": {
+      "name": "Flames of Judgement",
+      "skin_id": "08206",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_flames_of_judgement/avatars/terizla_flames_of_judgement_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_flames_of_judgement/portraits/terizla_flames_of_judgement_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soulblight_tyrant": {
+      "name": "Soulblight Tyrant",
+      "skin_id": "08207",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/terizla/terizla_soulblight_tyrant/avatars/terizla_soulblight_tyrant_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/terizla/terizla_soulblight_tyrant/portraits/terizla_soulblight_tyrant_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

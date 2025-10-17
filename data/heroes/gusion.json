@@ -1,0 +1,382 @@
+{
+  "id": "056",
+  "name": "Gusion",
+  "lore": "Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "holy_blade": {
+      "name": "Holy Blade",
+      "skin_id": "05601",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_holy_blade/avatars/gusion_holy_blade_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_holy_blade/portraits/gusion_holy_blade_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "moonlight_sonata": {
+      "name": "Moonlight Sonata",
+      "skin_id": "05602",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_moonlight_sonata/avatars/gusion_moonlight_sonata_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_moonlight_sonata/portraits/gusion_moonlight_sonata_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hairstylist": {
+      "name": "Hairstylist",
+      "skin_id": "05603",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_hairstylist/avatars/gusion_hairstylist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_hairstylist/portraits/gusion_hairstylist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "gothic_hairstylist": {
+      "name": "Gothic Hairstylist",
+      "skin_id": "05603a",
+      "release_order": 3,
+      "painted_of": "Hairstylist",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_gothic_hairstylist/avatars/gusion_gothic_hairstylist_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_gothic_hairstylist/portraits/gusion_gothic_hairstylist_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cyber_ops": {
+      "name": "Cyber Ops",
+      "skin_id": "05604",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_cyber_ops/avatars/gusion_cyber_ops_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_cyber_ops/portraits/gusion_cyber_ops_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dangerous_liaison": {
+      "name": "Dangerous Liaison",
+      "skin_id": "05605",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_dangerous_liaison/avatars/gusion_dangerous_liaison_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_dangerous_liaison/portraits/gusion_dangerous_liaison_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "romantic_liaison": {
+      "name": "Romantic Liaison",
+      "skin_id": "05605a",
+      "release_order": 5,
+      "painted_of": "Dangerous Liaison",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_romantic_liaison/avatars/gusion_romantic_liaison_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_romantic_liaison/portraits/gusion_romantic_liaison_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "venom_emperor_scorpion": {
+      "name": "Venom Emperor Scorpion",
+      "skin_id": "05606",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_venom_emperor_scorpion/avatars/gusion_venom_emperor_scorpion_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_venom_emperor_scorpion/portraits/gusion_venom_emperor_scorpion_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "k": {
+      "name": "K",
+      "skin_id": "05607",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_k/avatars/gusion_k_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_k/portraits/gusion_k_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cosmic_gleam": {
+      "name": "Cosmic Gleam",
+      "skin_id": "05608",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_cosmic_gleam/avatars/gusion_cosmic_gleam_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_cosmic_gleam/portraits/gusion_cosmic_gleam_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "night_owl": {
+      "name": "Night Owl",
+      "skin_id": "05609",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_night_owl/avatars/gusion_night_owl_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_night_owl/portraits/gusion_night_owl_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "soul_revelation": {
+      "name": "Soul Revelation",
+      "skin_id": "05610",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_soul_revelation/avatars/gusion_soul_revelation_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_soul_revelation/portraits/gusion_soul_revelation_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dimension_walker": {
+      "name": "Dimension Walker",
+      "skin_id": "05611",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_dimension_walker/avatars/gusion_dimension_walker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_dimension_walker/portraits/gusion_dimension_walker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "desert_spider": {
+      "name": "Desert Spider",
+      "skin_id": "05613",
+      "release_order": 13,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_desert_spider/avatars/gusion_desert_spider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_desert_spider/portraits/gusion_desert_spider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_spider": {
+      "name": "Royal Spider",
+      "skin_id": "05613a",
+      "release_order": 13,
+      "painted_of": "Desert Spider",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_royal_spider/avatars/gusion_royal_spider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_royal_spider/portraits/gusion_royal_spider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "emerald_spider": {
+      "name": "Emerald Spider",
+      "skin_id": "05613b",
+      "release_order": 13,
+      "painted_of": "Desert Spider",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/gusion/gusion_emerald_spider/avatars/gusion_emerald_spider_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/gusion/gusion_emerald_spider/portraits/gusion_emerald_spider_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

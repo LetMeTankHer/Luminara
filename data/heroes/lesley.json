@@ -1,0 +1,381 @@
+{
+  "id": "053",
+  "name": "Lesley",
+  "lore": "After the death of her father, she was adopted by House Vance and became Harley's sister. Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "deadly_sniper": {
+      "name": "Deadly Sniper",
+      "skin_id": "05301",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_deadly_sniper/avatars/lesley_deadly_sniper_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_deadly_sniper/portraits/lesley_deadly_sniper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "royal_musketeer": {
+      "name": "Royal Musketeer",
+      "skin_id": "05302",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_royal_musketeer/avatars/lesley_royal_musketeer_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_royal_musketeer/portraits/lesley_royal_musketeer_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "general_rosa": {
+      "name": "General Rosa",
+      "skin_id": "05303",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_general_rosa/avatars/lesley_general_rosa_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_general_rosa/portraits/lesley_general_rosa_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cheergunner": {
+      "name": "Cheergunner",
+      "skin_id": "05304",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_cheergunner/avatars/lesley_cheergunner_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_cheergunner/portraits/lesley_cheergunner_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "cheersniper": {
+      "name": "Cheersniper",
+      "skin_id": "05304a",
+      "release_order": 4,
+      "painted_of": "Cheergunner",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_cheersniper/avatars/lesley_cheersniper_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_cheersniper/portraits/lesley_cheersniper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "stellaris_ghost": {
+      "name": "Stellaris Ghost",
+      "skin_id": "05305",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_stellaris_ghost/avatars/lesley_stellaris_ghost_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_stellaris_ghost/portraits/lesley_stellaris_ghost_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dangerous_love": {
+      "name": "Dangerous Love",
+      "skin_id": "05306",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_dangerous_love/avatars/lesley_dangerous_love_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_dangerous_love/portraits/lesley_dangerous_love_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "romantic_love": {
+      "name": "Romantic Love",
+      "skin_id": "05306a",
+      "release_order": 6,
+      "painted_of": "Dangerous Love",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_romantic_love/avatars/lesley_romantic_love_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_romantic_love/portraits/lesley_romantic_love_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "angelic_agent": {
+      "name": "Angelic Agent",
+      "skin_id": "05307",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_angelic_agent/avatars/lesley_angelic_agent_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_angelic_agent/portraits/lesley_angelic_agent_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "lethal_lady": {
+      "name": "Lethal Lady",
+      "skin_id": "05308",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_lethal_lady/avatars/lesley_lethal_lady_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_lethal_lady/portraits/lesley_lethal_lady_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "falcon_mistress": {
+      "name": "Falcon Mistress",
+      "skin_id": "05309",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_falcon_mistress/avatars/lesley_falcon_mistress_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_falcon_mistress/portraits/lesley_falcon_mistress_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "hawk_eyed_sniper": {
+      "name": "Hawk Eyed Sniper",
+      "skin_id": "05310",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_hawk_eyed_sniper/avatars/lesley_hawk_eyed_sniper_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_hawk_eyed_sniper/portraits/lesley_hawk_eyed_sniper_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "deadeye_spectre": {
+      "name": "Deadeye Spectre",
+      "skin_id": "05311",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_deadeye_spectre/avatars/lesley_deadeye_spectre_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_deadeye_spectre/portraits/lesley_deadeye_spectre_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "meowkin_hunter": {
+      "name": "Meowkin Hunter",
+      "skin_id": "05312",
+      "release_order": 12,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_meowkin_hunter/avatars/lesley_meowkin_hunter_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_meowkin_hunter/portraits/lesley_meowkin_hunter_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "duchess_of_tides": {
+      "name": "Duchess of Tides",
+      "skin_id": "05313",
+      "release_order": 13,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_duchess_of_tides/avatars/lesley_duchess_of_tides_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_duchess_of_tides/portraits/lesley_duchess_of_tides_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "duchess_of_depths": {
+      "name": "Duchess of Depths",
+      "skin_id": "05313a",
+      "release_order": 13,
+      "painted_of": "Duchess of Tides",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/lesley/lesley_duchess_of_depths/avatars/lesley_duchess_of_depths_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/lesley/lesley_duchess_of_depths/portraits/lesley_duchess_of_depths_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

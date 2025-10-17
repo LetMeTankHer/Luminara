@@ -1,0 +1,287 @@
+{
+  "id": "057",
+  "name": "Valir",
+  "lore": "In his hometown of Agelta, he showed an amazing talent for arcane energy manipulation when he first arrived at the Magic Academy, so he was valued by his mentor Gord. But Gord got very angry when he discovered that he had incorporated the spells of his hometown into the arcane, thinking that he had defiled the arcane.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "son_of_flames": {
+      "name": "Son of Flames",
+      "skin_id": "05701",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_son_of_flames/avatars/valir_son_of_flames_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_son_of_flames/portraits/valir_son_of_flames_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pale_flame": {
+      "name": "Pale Flame",
+      "skin_id": "05702",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_pale_flame/avatars/valir_pale_flame_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_pale_flame/portraits/valir_pale_flame_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shikigami_summoner": {
+      "name": "Shikigami Summoner",
+      "skin_id": "05703",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_shikigami_summoner/avatars/valir_shikigami_summoner_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_shikigami_summoner/portraits/valir_shikigami_summoner_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shikigami_envoy": {
+      "name": "Shikigami Envoy",
+      "skin_id": "05703",
+      "release_order": 3,
+      "painted_of": "Shikigami Summoner",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_shikigami_envoy/avatars/valir_shikigami_envoy_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_shikigami_envoy/portraits/valir_shikigami_envoy_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dictator": {
+      "name": "Dictator",
+      "skin_id": "05704",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_dictator/avatars/valir_dictator_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_dictator/portraits/valir_dictator_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "draconic_flame": {
+      "name": "Draconic Flame",
+      "skin_id": "05705",
+      "release_order": 5,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_draconic_flame/avatars/valir_draconic_flame_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_draconic_flame/portraits/valir_draconic_flame_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "demonlord": {
+      "name": "Demonlord",
+      "skin_id": "05706",
+      "release_order": 6,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_demonlord/avatars/valir_demonlord_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_demonlord/portraits/valir_demonlord_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "infernal_blaze": {
+      "name": "Infernal Blaze",
+      "skin_id": "05707",
+      "release_order": 7,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_infernal_blaze/avatars/valir_infernal_blaze_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_infernal_blaze/portraits/valir_infernal_blaze_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "phoenix_ikki": {
+      "name": "Phoenix Ikki",
+      "skin_id": "05708",
+      "release_order": 8,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_phoenix_ikki/avatars/valir_phoenix_ikki_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_phoenix_ikki/portraits/valir_phoenix_ikki_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "leo_ikki": {
+      "name": "Leo Ikki",
+      "skin_id": "05709",
+      "release_order": 9,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_leo_ikki/avatars/valir_leo_ikki_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_leo_ikki/portraits/valir_leo_ikki_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "arcane_seeker": {
+      "name": "Arcane Seeker",
+      "skin_id": "05710",
+      "release_order": 10,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_arcane_seeker/avatars/valir_arcane_seeker_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_arcane_seeker/portraits/valir_arcane_seeker_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "kyo_kusanagi": {
+      "name": "Kyo Kusanagi",
+      "skin_id": "05711",
+      "release_order": 11,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/valir/valir_kyo_kusanagi/avatars/valir_kyo_kusanagi_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/valir/valir_kyo_kusanagi/portraits/valir_kyo_kusanagi_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": "121",
+  "name": "Ixia",
+  "lore": "Born into a tribe of Sand Hunters, Ixia was honed by the harsh desert environment into a cunning leader at a very young age. While most Sand Hunters are only concerned about plunder, Ixia always had a fondness for inventing gadgets and believed science should not be a tool reserved only for the academics of Eruditio.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "arclight_outlaw": {
+      "name": "Arclight Outlaw",
+      "skin_id": "12101",
+      "release_order": 1,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/ixia/ixia_arclight_outlaw/avatars/ixia_arclight_outlaw_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/ixia/ixia_arclight_outlaw/portraits/ixia_arclight_outlaw_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shifting_sand": {
+      "name": "Shifting Sand",
+      "skin_id": "12102",
+      "release_order": 2,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/ixia/ixia_shifting_sand/avatars/ixia_shifting_sand_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/ixia/ixia_shifting_sand/portraits/ixia_shifting_sand_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dynamic_streak": {
+      "name": "Dynamic Streak",
+      "skin_id": "12103",
+      "release_order": 3,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/ixia/ixia_dynamic_streak/avatars/ixia_dynamic_streak_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/ixia/ixia_dynamic_streak/portraits/ixia_dynamic_streak_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dynamic_flair": {
+      "name": "Dynamic Flair",
+      "skin_id": "12103a",
+      "release_order": 3,
+      "painted_of": "Dynamic Streak",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/ixia/ixia_dynamic_flair/avatars/ixia_dynamic_flair_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/ixia/ixia_dynamic_flair/portraits/ixia_dynamic_flair_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "dynamic_style": {
+      "name": "Dynamic Style",
+      "skin_id": "12103b",
+      "release_order": 3,
+      "painted_of": "Dynamic Streak",
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/ixia/ixia_dynamic_style/avatars/ixia_dynamic_style_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/ixia/ixia_dynamic_style/portraits/ixia_dynamic_style_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "invokers_command": {
+      "name": "Invoker's Command",
+      "skin_id": "12104",
+      "release_order": 4,
+      "audio": {
+        "hero_selection": { "background": "", "dialog": "" },
+        "in_game_dialog": ""
+      },
+      "avatars": {
+        "default": "assets/heroes/ixia/ixia_invokers_command/avatars/ixia_invokers_command_avatar_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "portraits": {
+        "default": "assets/heroes/ixia/ixia_invokers_command/portraits/ixia_invokers_command_portrait_default.png"
+      },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}

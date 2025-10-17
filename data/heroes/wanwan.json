@@ -1,0 +1,201 @@
+{
+  "id": "089",
+  "name": "Wanwan",
+  "lore": "Wanwan grew up in a secluded mountain abode and lived a carefree childhood. It was only after encountering Yu Zhong, the reincarnation of the Black Dragon, Yin, the current vessel of the Evil God Lieh, and the other Oriental Fighters who guard the Dragon Altar that she realized she had long been chosen by the Agile Tiger of the Four Immortals.",
+  "info": {},
+  "profile": {},
+  "abilities": {},
+  "skins": {
+    "agile_tiger": {
+      "name": "Agile Tiger",
+      "skin_id": "08901",
+      "release_order": 1,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_agile_tiger/avatars/wanwan_agile_tiger_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_agile_tiger/portraits/wanwan_agile_tiger_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "darting_star": {
+      "name": "Darting Star",
+      "skin_id": "08902",
+      "release_order": 2,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_darting_star/avatars/wanwan_darting_star_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_darting_star/portraits/wanwan_darting_star_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "shoujo_commander": {
+      "name": "Shoujo Commander",
+      "skin_id": "08903",
+      "release_order": 3,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_shoujo_commander/avatars/wanwan_shoujo_commander_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_shoujo_commander/portraits/wanwan_shoujo_commander_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "azure_commander": {
+      "name": "Azure Commander",
+      "skin_id": "08903a",
+      "release_order": 3,
+      "painted_of": "Shoujo Commander",
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_azure_commander/avatars/wanwan_azure_commander_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_azure_commander/portraits/wanwan_azure_commander_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "teen_pop": {
+      "name": "Teen Pop",
+      "skin_id": "08904",
+      "release_order": 4,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_teen_pop/avatars/wanwan_teen_pop_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_teen_pop/portraits/wanwan_teen_pop_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "pixel_blast": {
+      "name": "Pixel Blast",
+      "skin_id": "08905",
+      "release_order": 5,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_pixel_blast/avatars/wanwan_pixel_blast_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_pixel_blast/portraits/wanwan_pixel_blast_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "e_girl": {
+      "name": "E Girl",
+      "skin_id": "08906",
+      "release_order": 6,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_e_girl/avatars/wanwan_e_girl_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_e_girl/portraits/wanwan_e_girl_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "m_world_wanwan": {
+      "name": "M World Wanwan",
+      "skin_id": "08907",
+      "release_order": 7,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_m_world_wanwan/avatars/wanwan_m_world_wanwan_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_m_world_wanwan/portraits/wanwan_m_world_wanwan_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "flying_swallow": {
+      "name": "Flying Swallow",
+      "skin_id": "08908",
+      "release_order": 8,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_flying_swallow/avatars/wanwan_flying_swallow_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_flying_swallow/portraits/wanwan_flying_swallow_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    },
+    "summer_splash": {
+      "name": "Summer Splash",
+      "skin_id": "08909",
+      "release_order": 9,
+      "avatars": {
+        "default": "assets/heroes/wanwan/wanwan_summer_splash/avatars/wanwan_summer_splash_avatar_default.png"
+      },
+      "portraits": {
+        "default": "assets/heroes/wanwan/wanwan_summer_splash/portraits/wanwan_summer_splash_portrait_default.png"
+      },
+      "models": { "entrance": "", "in_game": "", "raw": "" },
+      "skill_icons": {
+        "passive": "",
+        "skill1": "",
+        "skill2": "",
+        "ultimate": ""
+      },
+      "splash_art": { "default": "" }
+    }
+  }
+}
